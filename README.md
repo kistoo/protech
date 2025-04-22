@@ -1,18 +1,14 @@
-# protech
+## 1.2. Solution Profile
 
-| Header 1 | Header 2 | Header 3 |
-|-----|----------|----------|
-| ![flows (1)](https://github.com/user-attachments/assets/6f640cb9-3a38-49dd-a0b7-c8bac88677d5)    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
+FitManager es una plataforma web de FitFlow diseñada para digitalizar y optimizar la gestión de gimnasios, permitiendo administrar clientes, pagos, horarios y entrenadores desde un solo lugar. Pensada para gimnasios independientes y estudios de entrenamiento, simplifica procesos, elimina el desorden administrativo y mejora la experiencia tanto para dueños como para alumnos, facilitando el crecimiento y la profesionalización del negocio.
 
+### 1.2.1. Antecedentes y Problemática
 
-![flows](https://github.com/user-attachments/assets/2f31dfde-0d16-4921-a533-21776cabe2bf)
+La técnica 5W2H es una herramienta de gestión que se basa en responder siete preguntas clave: What, Why, Where, Who, When, How y How Much. Esta técnica es útil porque ayuda a organizar, planificar y tomar decisiones de manera estructurada, asegurando que todos los aspectos relevantes de un proyecto sean considerados, lo que mejora la claridad y la eficiencia en la ejecución (Álvarez, 2020).
 
-| Nombre | Foto | Carrera | Descripción |
-|--------|------|---------|-------------|
-| Alvarado De La Cruz, Juan Carlos U202216150 | ![image](https://github.com/user-attachments/assets/82ded8c5-a355-4197-8efa-65c4887b2e14) | Ingeniería de Software | Soy Juan Carlos Alvarado, soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python. |
-| Luque Minaya, Renzo Andrés U20221C275 | ![image](https://github.com/user-attachments/assets/6afc3b9c-2851-4428-97c9-d6c26a65cb41) | Ingeniería de Software | Me llamo Renzo Luque, actualmente estoy cursando la mitad de la carrera de Ingeniería de Software en la UPC. Desde pequeño siempre me ha llamado la atención la tecnología y la programación, razón por la que escogí esta carrera. Considero que me desenvuelvo bien en equipo y suelo ser puntual en mis entregas. |
-| Martel Andrade, Cassius Estefano U202312287 | ![image](https://github.com/user-attachments/assets/6d204cd7-48f9-4648-ba72-2c0328ebbd3d) | Ingeniería de Software | Me llamo Cassius Martel y soy estudiante de Ingeniería de Software, y tengo cierta experiencia usando C++. Me caracterizó por ser una persona con iniciativa y liderazgo, que siempre procura la efectividad de cada integrante del equipo y la realización de un buen trabajo. |
-| Nakamurake Teruya, Alex Tomio U20201f855 | ![image](https://github.com/user-attachments/assets/154a072e-92bc-4a6b-958c-2c04a60a616a) | Ingeniería de Software | Mi nombre es Alex Tomio Nakamurakare y soy estudiante de la carrera de Ingeniería de Software de la UPC. El motivo por el cual estoy en esta carrera es debido a que me gusta mucho analizar problemas y crear soluciones mediante el uso de la programación. |
-| Ortiz Alarcón, Victor Nicolás U202312899 | ![image](https://github.com/user-attachments/assets/66c8134f-6cae-491c-b6d6-06147f1f3cea) | Ingeniería de Software | Soy estudiante del quinto ciclo de la carrera de ingeniería de software de la universidad UPC y escogí esta carrera porque me interesa el desarrollo de aplicaciones web y base de datos. Me gustan los videojuegos y el deporte. |
+#### 1.2.1.1 What
 
+##### 1.2.1.1.1. ¿Cuál es el problema?
+
+El problema que aborda FitManager es la falta de digitalización y automatización en la gestión de gimnasios, lo que genera ineficiencias en tareas críticas como la administración de pagos, membresías, reservas y comunicación con los clientes. Muchos gimnasios siguen utilizando procesos manuales, como hojas de cálculo y comunicación por WhatsApp, lo que puede resultar en duplicación de esfuerzos, errores humanos y una experiencia menos eficiente para los usuarios.
+Según Chiroque (2024), la digitalización de los procesos administrativos mejora la eficiencia operativa, optimiza la gestión interna y facilita una toma de decisiones más ágil. La automatización de tareas repetitivas permite reducir el margen de error y aprovechar mejor los recursos, lo que puede incrementar la productividad en un 40%, proporcionando a los gimnasios una ventaja competitiva en un entorno cada vez más digitalizado.
