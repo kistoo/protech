@@ -233,4 +233,17 @@ Objetivo: Entender sus necesidades y expectativas en relación con la gestión d
 6. ¿Con qué frecuencia asistes al gimnasio y qué factores influyen en que mantengas esa constancia?
 7. ¿Qué aspectos de la experiencia en tu gimnasio crees que podrían mejorarse con tecnología?
 
+### 2.2.2. Registro de entrevistas
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+
+**Entrevistado N°1: Gonzalo Carhuanconte**
+* Edad: 25
+* Distrito: Los Olivos
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EUwjeWiCPbJPgRZUOXiloVYBzejgoqWTEwI0mQl7j7omhA?e=PS413T
+* Instante en el que inicia: 0:20
+* Duración: 4:48
+
+Resumen:
+Gonzalo Carhuanconte, administrador de un gimnasio pequeño, gestiona pagos, membresías y clases de forma manual, utilizando herramientas como Excel y WhatsApp, lo que le genera errores, pérdida de tiempo y desorganización. Aunque reconoce la importancia de digitalizar su negocio, no ha utilizado software especializado debido a su complejidad, idioma o costo. Dedica entre 1 y 2 horas diarias a tareas administrativas y enfrenta problemas frecuentes al coordinar horarios y controlar pagos. Está abierto a usar una solución en la nube si es accesible, simple y está en español, y considera justo pagar entre 40 y 80 soles mensuales por un sistema que le ahorre tiempo y esfuerzo. Valora especialmente funcionalidades como el control automatizado de pagos, la gestión de horarios, alertas, reportes y la compatibilidad con medios de pago locales.
 
