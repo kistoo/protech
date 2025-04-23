@@ -245,5 +245,18 @@ Objetivo: Entender sus necesidades y expectativas en relación con la gestión d
 * Duración: 4:48
 
 Resumen:
+
 Gonzalo Carhuanconte, administrador de un gimnasio pequeño, gestiona pagos, membresías y clases de forma manual, utilizando herramientas como Excel y WhatsApp, lo que le genera errores, pérdida de tiempo y desorganización. Aunque reconoce la importancia de digitalizar su negocio, no ha utilizado software especializado debido a su complejidad, idioma o costo. Dedica entre 1 y 2 horas diarias a tareas administrativas y enfrenta problemas frecuentes al coordinar horarios y controlar pagos. Está abierto a usar una solución en la nube si es accesible, simple y está en español, y considera justo pagar entre 40 y 80 soles mensuales por un sistema que le ahorre tiempo y esfuerzo. Valora especialmente funcionalidades como el control automatizado de pagos, la gestión de horarios, alertas, reportes y la compatibilidad con medios de pago locales.
+
+**Entrevistado N°2: Carlos Martel**
+* Edad: 53
+* Distrito: Pueblo libre
+* Link: [Entrevista Carlos Martel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EXL7_Zx3oqBGp_WdJeLM6S4BXoqGXbZv3htkc8ZFQS3Yzw?e=2OwSgx)
+* Instante en el que inicia: 0:01
+* Duración: 3:14
+
+Resumen:
+
+Carlos Martel administra y entrena un gimnasio enfocado en artes marciales y preparación física. Actualmente gestiona su negocio principalmente con Excel, pero considera que no es una solución efectiva, ya que le hace perder tiempo valioso y no le permite llevar un control óptimo. Recibe pagos en múltiples formatos (Yape, Plin, tarjeta, transferencia y efectivo), lo cual complica aún más la administración. Comenta que en verano, debido al aumento de personas, la situación se vuelve más caótica. Está interesado en una herramienta digital que le permita visualizar todo desde una app, automatizar alertas de pagos pendientes o por vencer y facilitar la gestión diaria. Cree que las soluciones digitales están en tendencia, especialmente para captar clientes por redes sociales, y estaría dispuesto a pagar una suscripción mensual de hasta 150 soles, siempre que el sistema realmente lo ayude a mejorar su operación.
+
 
