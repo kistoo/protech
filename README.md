@@ -921,3 +921,4 @@ La organización de contenidos y funcionalidades responde a principios de simpli
 
 La organización jerárquica es la forma predominante en la navegación general de la aplicación, permitiendo a los usuarios moverse entre las diferentes áreas de gestión de manera estructurada. Dentro de tareas específicas, como crear una notificación o editar un perfil, se implementa una organización secuencial para guiar al usuario a través de los pasos necesarios para completar la acción.
 
+## olaaa
