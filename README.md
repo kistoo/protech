@@ -82,7 +82,7 @@ FitManager debe tener un diseño moderno, claro y profesional, con una interfaz 
 #### Lean UX Canvas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c449950-4513-43ce-a925-0fc713a7a618" alt="Canvas de FitManager" width="400">
+  <img src="https://github.com/user-attachments/assets/9c449950-4513-43ce-a925-0fc713a7a618" alt="Canvas de FitManager">
 </p>
 
 <p align="center">
@@ -99,30 +99,16 @@ FitManager no solo se dirige a los dueños y entrenadores que buscan optimizar s
 
 ## Segmentos Objetivo
 
-Segmento objetivo #1: Dueños, administradores y entrenadores de gimnasios
+**Segmento objetivo #1: Dueños, administradores y entrenadores de gimnasios**
 Aspectos demográficos:
-Sexo: No definido (tanto hombres como mujeres).
-
-
-Rango de edad: 25-50 años.
-
-
-Nivel socioeconómico: Medio a alto, debido a la necesidad de inversión en tecnología y la operación de un gimnasio.
-
-
+* Sexo: No definido (tanto hombres como mujeres).
+* Rango de edad: 25-50 años.
+* Nivel socioeconómico: Medio a alto, debido a la necesidad de inversión en tecnología y la operación de un gimnasio.
 Aspectos geográficos:
-Nacionalidad: Principalmente de países de habla hispana, aunque se puede adaptar a otros mercados.
-
-
-Zona geográfica de residencia: Zonas urbanas y suburbanas, con presencia de gimnasios independientes y centros de entrenamiento.
-
-
+* Nacionalidad: Principalmente de países de habla hispana, aunque se puede adaptar a otros mercados.
+* Zona geográfica de residencia: Zonas urbanas y suburbanas, con presencia de gimnasios independientes y centros de entrenamiento.
 Aspectos psicográficos:
-Intereses: Interés por la optimización de procesos, tecnología aplicada a la gestión, y crecimiento profesional.
-
-
-Estilo de vida: Orientados al negocio, interesados en la mejora continua de sus instalaciones, procesos y la experiencia de sus clientes.
-
-
-Actitudes: Valoran la eficiencia operativa, la automatización de tareas, y la posibilidad de ofrecer un servicio más profesional y organizado.
+* Intereses: Interés por la optimización de procesos, tecnología aplicada a la gestión, y crecimiento profesional.
+* Estilo de vida: Orientados al negocio, interesados en la mejora continua de sus instalaciones, procesos y la experiencia de sus clientes.
+* Actitudes: Valoran la eficiencia operativa, la automatización de tareas, y la posibilidad de ofrecer un servicio más profesional y organizado.
 
