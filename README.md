@@ -675,3 +675,18 @@ Lista de Términos
 | **Acceptance Criteria #2** | Dado que un administrador desea actualizar la información de un cliente, <br> Cuando el administrador envía una solicitud con los nuevos detalles del cliente, <br> Entonces la API debe actualizar los datos del cliente y devolver una confirmación de que la información fue actualizada correctamente. |
 | **Acceptance Criteria #3** | Dado que un administrador quiere registrar un nuevo miembro del personal (entrenador o personal administrativo), <br> Cuando el administrador envía una solicitud con la información del personal (nombre, rol, correo electrónico, teléfono, etc.), <br> Entonces la API debe crear un perfil de personal y devolver una confirmación con los detalles del perfil registrado, incluyendo un ID único de personal. |
 | **Acceptance Criteria #4** | Dado que un administrador desea actualizar los detalles de un miembro del personal, <br> Cuando el administrador envía una solicitud con los nuevos detalles del personal, <br> Entonces la API debe actualizar la información del miembro del personal y devolver una confirmación de que la actualización fue exitosa. |
+
+### 3.2.3. Epicas
+
+| **Epic ID** | EP01 |
+|-------------|------|
+| **Title**   | Gestión de reservas y horarios |
+| **Description** | Como usuario, quiero una plataforma que permita visualizar horarios, gestionar y realizar reservas de clases de manera eficiente, para garantizar una experiencia fluida, organizada y sin sobrecupo en las sesiones de entrenamiento. |
+| **User Story ID** | US01 |
+| **Título** | Visualización de horarios |
+| **User Story ID** | US02 |
+| **Título** | Gestión de reservas |
+| **User Story ID** | US03 |
+| **Título** | Reservar clases |
+
+    
