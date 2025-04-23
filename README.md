@@ -327,8 +327,52 @@ Resumen:
 
 Leonardo Ames asiste al gimnasio entre 4 y 5 veces por semana y se considera constante, aunque su asistencia depende de los horarios de clases en la universidad. Señala que, en ocasiones, no sabe si el gimnasio estará disponible o saturado, lo que le genera incertidumbre al momento de planificar sus visitas. Le gustaría poder reservar su espacio con anticipación desde el celular y tener visibilidad en tiempo real sobre la disponibilidad del gimnasio. Además, considera que sería muy beneficioso que un entrenador pudiera hacer seguimiento de su progreso físico para adaptar mejor sus rutinas. Mencionó que una app que le permita ver horarios, disponibilidad y gestionar sus reservas fácilmente mejoraría significativamente su experiencia. También cree que la tecnología puede aportar valor al permitir un mejor seguimiento del progreso físico, personalizar rutinas y monitorear aspectos como la alimentación.
 
+### 2.2.3. Análisis de entrevistas
 
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
 
+Hallazgos:
 
+Los entrevistados coinciden en que la gestión actual de sus gimnasios o labores como entrenadores se apoya en herramientas dispersas como Excel, WhatsApp y Google Calendar, lo que genera desorganización, pérdida de tiempo y errores administrativos. El proceso de control de pagos es manual, con medios variados como Yape, Plin, efectivo y transferencias, lo que complica el seguimiento. Además, la comunicación con clientes y entre personal es fragmentada, afectando la coordinación diaria. Todos valoran una solución centralizada que les permita automatizar cobros, organizar horarios, acceder a datos de clientes y reducir el número de herramientas que deben revisar a diario. La disposición a pagar por una plataforma digital varía, pero es alta si el sistema es simple, en español y resuelve realmente sus problemas operativos.
+
+Conclusiones:
+
+Existe una clara necesidad de digitalizar la gestión operativa de los gimnasios y entrenadores, especialmente en tareas como pagos, programación de clases y seguimiento de clientes. Tanto administradores como entrenadores muestran una fuerte apertura hacia soluciones tecnológicas, siempre que sean accesibles, intuitivas y funcionales. FitManager tiene la oportunidad de posicionarse como una herramienta esencial que centraliza las operaciones diarias, mejora la experiencia del cliente final y reduce significativamente la carga operativa del personal, ofreciendo valor real y tangible desde el primer uso.
+
+**Segmento #2: Clientes de gimnasios**
+
+Hallazgos:
+
+Los tres participantes coinciden en la necesidad de una solución digital que facilite la gestión de horarios, reservas y seguimiento de su progreso físico. Actualmente, todos dependen de sistemas manuales como WhatsApp, calendarios y libretas, los cuales no son eficientes y generan problemas de comunicación, como cancelaciones de última hora y falta de claridad en la disponibilidad de entrenadores. Mateo, Franco y Leonardo valoran una plataforma web o app que centralice esta información y les permita reservar con anticipación, consultar la disponibilidad en tiempo real y evitar confusiones. Además, todos consideran que el seguimiento del progreso físico por parte de los entrenadores sería un beneficio significativo, ya que les permitiría ajustar sus rutinas de forma más efectiva y personalizada.
+
+Conclusiones:
+
+Los clientes entrevistados muestran una fuerte necesidad de una solución tecnológica que optimice su experiencia en el gimnasio. Una plataforma que ofrezca funcionalidades como la visualización de horarios, la gestión de reservas, y el seguimiento del progreso físico sería altamente valorada, ya que resolvería los problemas de comunicación y organización actuales. Además, la automatización de tareas, como la gestión de horarios y el registro de asistencia, permitiría ahorrar tiempo y evitar errores. En general, la implementación de una app o web no solo mejoraría la experiencia diaria de los clientes, sino que también contribuiría a una gestión más profesional y eficiente de las actividades dentro del gimnasio.
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+Las siguientes fichas User Persona representan de manera semi-ficticia a los usuarios ideales de FitManager, basándose en nuestros hallazgos en las entrevistas. Se resumen datos clave, como edad, ocupación y objetivos. Es útil para el proyecto porque nos permitirá diseñar una solución centrada en el usuario, entendiendo mejor sus problemas reales, motivaciones y contexto, lo que ayuda a tomar decisiones más acertadas en el desarrollo del producto, priorización de funcionalidades y mejora de la experiencia general.
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/186dea7a-8114-4382-8966-9b45d57fecf6" alt="User Persona Daniel Muñoz">
+</p>
+
+<p align="center">
+  <a href="">Link del user persona Daniel Muñoz</a>
+</p>
+
+**Segmento #2: Clientes de gimnasios**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d9f8bc1-a979-4cf4-b442-ef6cdb5e03f8" alt="User Persona Sebastián Ramirez">
+</p>
+
+<p align="center">
+  <a href="">Link del user persona Daniel Sebastián Ramirez</a>
+</p>
 
 
