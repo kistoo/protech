@@ -520,6 +520,10 @@ Lista de Términos
 
 ### 3.2.2. Historias de Usuario
 
+| User Story ID | Epic ID | Title                   | Description                                                                                                                                                     | Acceptance Criteria                                                                                                       |
+|---------------|---------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| US01          | EP01    | Visualización de horarios | Como usuario, quiero acceder a un calendario con los horarios de todas las clases para planificar fácilmente la programación y disponibilidad.               | Dado que el usuario está en nuestra aplicación web, cuando selecciona la opción “Horarios”, entonces el sistema muestra un calendario con las clases programadas y entrenadores asignados. |
+|               |         |                         |                                                                                                                                                                 | Dado que un entrenador no está disponible, cuando el administrador realiza el cambio de horario, entonces el cambio se refleja en tiempo real para todos los usuarios.                     |
 
 
 
