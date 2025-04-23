@@ -86,7 +86,7 @@ FitManager debe tener un diseño moderno, claro y profesional, con una interfaz 
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1s4bRIgJBOXdcWbEElVUIdd4UmPVrTLMN/view?usp=sharing">Ver Canvas completo en Google Drive</a>
+  <a href="https://drive.google.com/file/d/1s4bRIgJBOXdcWbEElVUIdd4UmPVrTLMN/view?usp=sharing">Link del Canvas</a>
 </p>
 
 ### Propuesta de Valor y Alcance
