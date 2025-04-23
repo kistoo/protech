@@ -240,7 +240,7 @@ Objetivo: Entender sus necesidades y expectativas en relación con la gestión d
 **Entrevistado N°1: Gonzalo Carhuanconte**
 * Edad: 25
 * Distrito: Los Olivos
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EUwjeWiCPbJPgRZUOXiloVYBzejgoqWTEwI0mQl7j7omhA?e=PS413T
+* Link: [Entrevista Gonzalo Carhuanconte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EUwjeWiCPbJPgRZUOXiloVYBzejgoqWTEwI0mQl7j7omhA?e=PS413T)
 * Instante en el que inicia: 0:20
 * Duración: 4:48
 
@@ -258,5 +258,77 @@ Gonzalo Carhuanconte, administrador de un gimnasio pequeño, gestiona pagos, mem
 Resumen:
 
 Carlos Martel administra y entrena un gimnasio enfocado en artes marciales y preparación física. Actualmente gestiona su negocio principalmente con Excel, pero considera que no es una solución efectiva, ya que le hace perder tiempo valioso y no le permite llevar un control óptimo. Recibe pagos en múltiples formatos (Yape, Plin, tarjeta, transferencia y efectivo), lo cual complica aún más la administración. Comenta que en verano, debido al aumento de personas, la situación se vuelve más caótica. Está interesado en una herramienta digital que le permita visualizar todo desde una app, automatizar alertas de pagos pendientes o por vencer y facilitar la gestión diaria. Cree que las soluciones digitales están en tendencia, especialmente para captar clientes por redes sociales, y estaría dispuesto a pagar una suscripción mensual de hasta 150 soles, siempre que el sistema realmente lo ayude a mejorar su operación.
+
+**Entrevistado N°3: Tsuyoshi Arakaki**
+* Edad: 22
+* Distrito: San Juan de Lurigancho
+* Link: [Entrevista Tsuyoshi Arakaki](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/ETcOuXIyY71MnG4b7AyLxAgBTsE-82SSfQPFM4Kyi0LZ2Q?e=mZ5PtT)
+* Instante en el que inicia: 0:01
+* Duración: 6:46
+
+Resumen: 
+
+Tsuyoshi Arakaki ayuda en la gestión del gimnasio de su tío. Actualmente, la comunicación con los clientes se realiza manualmente por WhatsApp, avisándoles uno por uno cuánto deben pagar. Los pagos se hacen por Yape o Plin, y cada entrenador gestiona sus clases en su propio archivo de Excel, lo que genera desorganización. Tsuyoshi le dedica entre una y dos horas diarias a estas tareas porque estudia, pero en vacaciones le dedica más tiempo. Considera que una solución en la nube que automatice estos procesos, especialmente los pagos y la organización de clases, sería muy útil. Destaca que la digitalización es clave para el crecimiento del gimnasio y, aunque no tiene poder de decisión, estima que una suscripción mensual de hasta 300 soles podría ser viable si la herramienta realmente facilita la gestión.
+
+**Entrevistado N°4: Piero Ramirez**
+* Edad: 19
+* Distrito: Magdalena del Mar
+* Link: [Entrevista Piero Ramirez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/Ec0mRZfMEstNjpTqAYPB_fUBg_xMJAbrX6L1NQCuPNXY4Q?e=EUphPC)
+* Instante en el que inicia: 0:01
+* Duración: 3:37
+
+Resumen: 
+
+Piero Ramírez trabaja como entrenador part-time en Viva Fitness y disfruta mucho de su labor. Actualmente, gestiona sus horarios mediante tablas en Excel y coordina actividades por números de WhatsApp, lo cual considera poco práctico. Para acceder a la información de los clientes, recurre a archivos de Drive o Excel, lo que le resulta problemático y poco eficiente. La comunicación con los administradores del gimnasio también se realiza vía WhatsApp, lo que fragmenta aún más la gestión. Considera que una plataforma que centralice toda esta información mejoraría significativamente su trabajo, especialmente en la organización de horarios y seguimiento de clientes. Para él, una buena app debería incluir datos relevantes de cada cliente, como historial, objetivos y salud, que le permitan diseñar rutinas más personalizadas y efectivas.
+
+**Entrevistado N°5: Christian Valer**
+* Edad: 24
+* Distrito: Magdalena del Mar
+* Link: [Entrevista Christian Valer](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EWxMREmBuWpEmb2YQVPKqoIBGNkap_P0r8TO-vuKXvXweQ?e=nfF8YN)
+* Instante en el que inicia: 0:02
+* Duración: 3:52
+
+Resumen:
+
+Christian Valer es coach en un gimnasio y actualmente organiza sus clases utilizando WhatsApp y Google Calendar, mientras que el seguimiento del progreso de sus clientes lo realiza por mensajes. Aunque usa ambas herramientas, reconoce que tenerlas por separado le genera problemas: se le pueden pasar sesiones, hay cambios de última hora y olvidos de confirmación que provocan espacios vacíos o superposición de clases. La comunicación con los administradores también se da por WhatsApp. Considera que sería muy útil tener todo en un solo lugar, ya que ahorraría tiempo, mejoraría la coordinación y le daría acceso directo a la disponibilidad de clases y a los datos de los clientes. Piensa que una solución así evitaría errores, permitiría dejar de revisar varias apps al mismo tiempo y le daría una visión más clara para brindar un mejor servicio. Para él, lo esencial sería incluir gestión de horarios, sistema de seguimiento de clientes, recordatorios automáticos y acceso a información relevante sobre la salud de los alumnos.
+
+**Segmento #2: Clientes de gimnasios**
+
+**Entrevistado N.º 6: Mateo Cadillo**
+* Edad: 17
+* Distrito: San Borja
+* Link: [Entervista Mateo Cadillo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/ER2u9OjVKtFGixIBAr2vTDcBZatVzLstAZA23yAHQ-17KQ?e=ZgYc2O)
+* Instante en el que inicia: 0:20
+* Duración: 5:13
+
+Resumen: 
+
+Mateo Cadillo, estudiante universitario de 17 años, asiste al gimnasio de lunes a viernes y considera que su constancia se basa más en la disciplina que en la motivación. Actualmente se informa sobre los horarios y disponibilidad de entrenadores a través de un grupo de WhatsApp, pero ha tenido problemas debido a cancelaciones de último minuto y falta de comunicación clara. Considera que una plataforma web o app sería mucho más útil y ordenada para consultar horarios, disponibilidad y realizar reservas. También valora que su entrenador pueda hacerle seguimiento a su progreso físico, ya que esto le permitiría mejorar su rendimiento y ajustar rutinas según su evolución.
+
+**Entrevistado N.º 7: Franco Rios**
+* Edad: 19
+* Distrito: San Miguel
+* Link: [Entrevista Franco Rios](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/EU21q4ARa0BAheDefNLJZQgBWU6e3xpFFPLdoiBdtdglFQ?e=dIoCMA)
+* Instante en el que inicia: 0:24
+* Duración: 4:09
+
+Resumen:
+
+Franco Ríos Rivera es un entrenador de gimnasio, pero también es cliente del mismo. Utiliza principalmente el calendario de su celular y una libreta para apuntar los horarios de sus clases. Aunque este sistema manual le ha funcionado, ha experimentado problemas como cancelaciones de clases no notificadas, cambios de horarios y la sobrecarga de tareas que podrían automatizarse. Considera que una app que permita gestionar reservas y horarios de manera centralizada sería muy útil y profesional, ayudándole a evitar confusiones y a ahorrar tiempo. Además, cree que la tecnología podría mejorar las rutinas personalizadas y el registro de entrada al gimnasio. Franco, quien asiste al gimnasio todos los días por disciplina y por disfrute, también valora que su progreso físico sea seguido de manera más detallada por su entrenador.
+
+**Entrevistado N.º 8: Leonardo Ames**
+* Edad: 19
+* Distrito: Pueblo Libre
+* Link: [Entrevista Leonardo Ames](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f855_upc_edu_pe/ER5iI5wr0ydNqr_4wAi_02QBpx3oaryMOp5VwcYN691Lqg?e=EgEt67)
+* Instante en el que inicia: 0:01
+* Duración: 3:26
+
+Resumen:
+
+Leonardo Ames asiste al gimnasio entre 4 y 5 veces por semana y se considera constante, aunque su asistencia depende de los horarios de clases en la universidad. Señala que, en ocasiones, no sabe si el gimnasio estará disponible o saturado, lo que le genera incertidumbre al momento de planificar sus visitas. Le gustaría poder reservar su espacio con anticipación desde el celular y tener visibilidad en tiempo real sobre la disponibilidad del gimnasio. Además, considera que sería muy beneficioso que un entrenador pudiera hacer seguimiento de su progreso físico para adaptar mejor sus rutinas. Mencionó que una app que le permita ver horarios, disponibilidad y gestionar sus reservas fácilmente mejoraría significativamente su experiencia. También cree que la tecnología puede aportar valor al permitir un mejor seguimiento del progreso físico, personalizar rutinas y monitorear aspectos como la alimentación.
+
+
+
+
 
 
