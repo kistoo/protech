@@ -520,10 +520,14 @@ Lista de Términos
 
 ### 3.2.2. Historias de Usuario
 
-| User Story ID | Epic ID | Title                   | Description                                                                                                                                                     | Acceptance Criteria                                                                                                       |
-|---------------|---------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| US01          | EP01    | Visualización de horarios | Como usuario, quiero acceder a un calendario con los horarios de todas las clases para planificar fácilmente la programación y disponibilidad.               | Dado que el usuario está en nuestra aplicación web, cuando selecciona la opción “Horarios”, entonces el sistema muestra un calendario con las clases programadas y entrenadores asignados. |
-|               |         |                         |                                                                                                                                                                 | Dado que un entrenador no está disponible, cuando el administrador realiza el cambio de horario, entonces el cambio se refleja en tiempo real para todos los usuarios.                     |
+| **User Story ID** | US01 |
+|-------------------|------|
+| **Epic ID** | EP01 |
+| **Title** | Visualización de horarios |
+| **Description** | Como usuario, quiero acceder a un calendario con los horarios de todas las clases para planificar fácilmente la programación y disponibilidad. |
+| **Acceptance Criteria #1** | Dado que el usuario está en nuestra aplicación web <br> Cuando selecciona la opción “Horarios” <br> Entonces el sistema muestra un calendario con las clases programadas y entrenadores asignados. |
+| **Acceptance Criteria #2** | Dado que un entrenador no está disponible <br> Cuando el administrador realiza el cambio de horario <br> Entonces el cambio se refleja en tiempo real para todos los usuarios. |
+
 
 | **User Story ID** | US02 |
 |-------------------|------|
@@ -533,5 +537,141 @@ Lista de Términos
 | **Acceptance Criteria #1** | Dado que el administrador accede al panel de gestión de horarios  <br> Cuando edita el horario de una clase existente <br> Entonces el nuevo horario se guarda correctamente y se refleja en el calendario de todos los usuarios en tiempo real |
 | **Acceptance Criteria #2** | Dado que una clase modificada ya tenía reservas previas <br> Cuando se guarda el nuevo horario <br> Entonces el sistema notifica automáticamente a los clientes afectados por el cambio |
 
+| **User Story ID** | US03 |
+|-------------------|------|
+| **Epic ID** | EP01 |
+| **Title** | Reserva de clases |
+| **Description** | Como cliente, quiero poder reservar clases desde mi celular o web para asegurar mi cupo sin tener que llamar o hacer fila. |
+| **Acceptance Criteria #1** | Dado que el cliente desea confirmar su asistencia a una clase <br> Cuando accede a la sección “Clases” <br> Y selecciona una clase disponible <br> Y presiona el botón “Reservar” <br> Entonces el sistema confirma su reserva y le muestra un mensaje de confirmación junto con los detalles de la clase. |
+| **Acceptance Criteria #2** | Dado que el cliente no podrá asistir a una clase previamente reservada <br> Cuando accede a la sección “Clases” <br> Y selecciona la clase correspondiente <br> Y cancela su reserva <br> Entonces el sistema libera automáticamente ese cupo y lo pone disponible para otros usuarios. |
 
+| **User Story ID** | US04 |
+|-------------------|------|
+| **Epic ID** | EP02 |
+| **Title** | Registrar y consultar el progreso físico |
+| **Description** | Como cliente, quiero registrar y visualizar mi progreso físico dentro de la app para evaluar mi evolución y mantenerme motivado. |
+| **Acceptance Criteria #1** | Dado que el cliente quiere registrar su progreso físico <br> Cuando accede a la sección “Progreso” <br> Y selecciona “Nuevo registro” <br> Entonces el sistema le permite ingresar datos como peso, medidas corporales, porcentaje de grasa y rendimiento en ejercicios clave. |
+| **Acceptance Criteria #2** | Dado que el cliente ha registrado su progreso físico anteriormente <br> Cuando accede a la sección “Progreso” <br> Entonces el sistema muestra una gráfica comparativa con la evolución de sus datos a lo largo del tiempo. |
 
+| **User Story ID** | US05 |
+|-------------------|------|
+| **Epic ID** | EP02 |
+| **Title** | Visualizar rutina personalizada |
+| **Description** | Como cliente, quiero ver mi rutina personalizada de entrenamiento en la plataforma para seguirla paso a paso durante mis sesiones. |
+| **Acceptance Criteria #1** | Dado que el cliente tiene una rutina asignada por su entrenador <br> Cuando accede a la sección “Mi rutina” en la app <br> Entonces puede visualizar su rutina organizada por días, con ejercicios, repeticiones, series y tiempo de descanso. |
+| **Acceptance Criteria #2** | Dado que el cliente completa una sesión de entrenamiento <br> Cuando marca la rutina del día como “completada” <br> Entonces el sistema registra el progreso y lo asocia a su historial de actividad. |
+
+| **User Story ID** | US06 |
+|-------------------|------|
+| **Epic ID** | EP03 |
+| **Title** | Gestionar pagos de clientes |
+| **Description** | Como administrador del gimnasio, quiero ver y gestionar el estado de pagos de cada cliente para llevar un control eficiente de membresías activas e inactivas. |
+| **Acceptance Criteria #1** | Dado que el administrador tiene acceso al panel de gestión de pagos, <br> Cuando selecciona un cliente específico, <br> Entonces debe poder ver un desglose completo de los pagos realizados, fechas de vencimiento y estado de la membresía (activa/inactiva). |
+| **Acceptance Criteria #2** | Dado que un cliente tiene una membresía próxima a vencer o vencida, <br> Cuando el administrador visualiza el listado general de clientes, <br> Entonces el sistema debe resaltar visualmente a los clientes con pagos pendientes o vencidos (por ejemplo, con un ícono de advertencia o cambio de color) para facilitar el seguimiento. |
+
+| **User Story ID** | US07 |
+|-------------------|------|
+| **Epic ID** | EP03 |
+| **Title** | Realizar pagos de membresía desde la app |
+| **Description** | Como cliente del gimnasio, quiero pagar mi membresía desde la app usando mi tarjeta o billetera digital para mantener mi suscripción activa fácilmente. |
+| **Acceptance Criteria #1** | Dado que el cliente tiene una membresía activa o próxima a vencer, <br> Cuando ingresa a la sección “Mi membresía”, <br> Entonces el sistema muestra el monto, fecha de vencimiento y opciones de pago (tarjeta, Yape, Plin, etc.). |
+| **Acceptance Criteria #2** | Dado que el cliente elige un método de pago, <br> Cuando completa los datos requeridos y confirma la transacción, <br> Entonces el sistema procesa el pago, actualiza el estado de su membresía y envía una confirmación. |
+
+| **User Story ID** | US08 |
+|-------------------|------|
+| **Epic ID** | EP04 |
+| **Title** | Registrar nuevo cliente |
+| **Description** | Como cliente, quiero poder crear mi perfil para llevar un control de mi información personal y actividad dentro del gimnasio. |
+| **Acceptance Criteria #1** | Dado que el cliente accede a la plataforma de registro, <br> Cuando el cliente ingresa su información básica (nombre, correo electrónico, número de teléfono), <br> Entonces el sistema valida y guarda los datos para crear un perfil de cliente. |
+| **Acceptance Criteria #2** | Dado que el cliente ha creado su perfil, <br> Cuando el cliente se registra exitosamente, <br> Entonces el sistema le confirma la creación del perfil y lo redirige al panel principal donde puede comenzar a consultar horarios de clases, reservar, y ver su progreso. |
+
+| **User Story ID** | US09 |
+|-------------------|------|
+| **Epic ID** | EP04 |
+| **Title** | Consultar historial de asistencias de un cliente |
+| **Description** | Como entrenador, quiero poder ver las asistencias de cada cliente para hacer un mejor seguimiento de su compromiso y progreso. |
+| **Acceptance Criteria #1** | Dado que el entrenador está en la vista de perfil de un cliente, <br> Cuando selecciona la opción "Historial de Asistencias", <br> Entonces el sistema muestra un registro detallado de todas las clases a las que el cliente ha asistido, con fechas y horas de asistencia. |
+| **Acceptance Criteria #2** | Dado que el entrenador está visualizando el historial de asistencias, <br> Cuando el entrenador hace clic en una fecha específica, <br> Entonces el sistema muestra detalles adicionales sobre la clase (nombre de la clase, entrenador, duración, etc.). |
+
+| **User Story ID** | US10 |
+|-------------------|------|
+| **Epic ID** | EP04 |
+| **Title** | Registrar nuevo entrenador o personal administrativo |
+| **Description** | Como administrador, quiero crear perfiles para el personal del gimnasio para gestionar sus roles, horarios y actividades. |
+| **Acceptance Criteria #1** | Dado que un nuevo miembro del personal se une al gimnasio, <br> Cuando el administrador registra su información en el sistema, <br> Entonces se crea un perfil con su rol, horario y clases asignadas. |
+
+| **User Story ID** | US11 |
+|-------------------|------|
+| **Epic ID** | EP04 |
+| **Title** | Gestionar personal del gimnasio |
+| **Description** | Como administrador, quiero gestionar fácilmente al personal del gimnasio para organizar horarios, roles y desempeño. |
+| **Acceptance Criteria #1** | Dado que el administrador accede al módulo de gestión de personal, <br> Cuando visualiza la lista de entrenadores y empleados, <br> Entonces puede ver sus roles asignados, horarios y estado de actividad. |
+| **Acceptance Criteria #2** | Dado que el administrador necesita modificar el horario de un entrenador, <br> Cuando edita su disponibilidad desde la plataforma, <br> Entonces el nuevo horario se actualiza automáticamente en el sistema y en el calendario correspondiente. |
+
+| **User Story ID** | US12 |
+|-------------------|------|
+| **Epic ID** | EP05 |
+| **Title** | Notificaciones sobre actualizaciones administrativas |
+| **Description** | Como administrador o entrenador, quiero recibir notificaciones administrativas relevantes para estar informado sobre eventos importantes relacionados a la operación del gimnasio. |
+| **Acceptance Criteria #1** | Dado que un cliente se inscribe en una clase que será dictada por el entrenador, <br> Cuando la reserva sea confirmada, <br> Entonces el entrenador recibirá una notificación indicando el nombre del cliente y la clase reservada. |
+| **Acceptance Criteria #2** | Dado que un cliente ha cancelado una clase previamente reservada con un entrenador, <br> Cuando se confirme la cancelación, <br> Entonces el entrenador recibirá una notificación informándole sobre la cancelación de dicha clase. |
+
+| **User Story ID** | US13 |
+|-------------------|------|
+| **Epic ID** | EP05 |
+| **Title** | Notificaciones según mi actividad personal |
+| **Description** | Como cliente del gimnasio, quiero recibir notificaciones personalizadas según mis clases. |
+| **Acceptance Criteria #1** | Dado que el cliente tiene una clase programada, <br> Cuando la clase se acerca (por ejemplo, una hora antes), <br> Entonces el cliente recibirá una notificación de recordatorio de su clase, si ha configurado recibir notificaciones para esto. |
+| **Acceptance Criteria #2** | Dado que el cliente está inscrito en una clase programada, <br> Cuando la clase sea cancelada por el gimnasio o el entrenador, <br> Entonces el cliente recibirá una notificación inmediata informándole sobre la cancelación y, de ser posible, las opciones de reprogramación. |
+| **Acceptance Criteria #3** | Dado que el cliente ha deshabilitado las notificaciones para las clases o el progreso, <br> Cuando se realicen eventos relacionados con clases o logros de progreso físico, <br> Entonces el cliente no recibirá ninguna notificación relacionada con esas actividades. |
+
+| **User Story ID** | US14 |
+|-------------------|------|
+| **Epic ID** | EP06 |
+| **Title** | Información General sobre FitManager |
+| **Description** | Como visitante del sitio web de FitManager, quiero obtener información clara sobre las características y beneficios de la plataforma, para decidir si encaja con las necesidades de mi gimnasio. |
+| **Acceptance Criteria #1** | Dado que el visitante accede al sitio web de FitManager, <br> Cuando ingresa a la sección "Características", <br> Entonces debe poder ver un resumen detallado de las funciones clave de la plataforma, como la gestión de pagos, reservas, asistencia y personalización de membresías. |
+| **Acceptance Criteria #2** | Dado que el visitante está en la página principal de FitManager, <br> Cuando selecciona la opción "Beneficios para tu gimnasio", <br> Entonces debe poder ver una lista clara de los beneficios para gimnasios de diferentes tamaños, incluyendo mejoras en la eficiencia operativa, control financiero y mejor atención al cliente. |
+
+| **User Story ID** | US15 |
+|-------------------|------|
+| **Epic ID** | EP06 |
+| **Title** | Registro para una Demo o Consulta |
+| **Description** | Como visitante interesado, quiero registrarme para solicitar una demo personalizada o más información sobre FitManager, para poder explorar cómo puede mejorar la gestión de mi gimnasio. |
+| **Acceptance Criteria #1** | Dado que el visitante está en la página de registro de demo, <br> Cuando ingresa su nombre, correo electrónico y gimnasio, <br> Entonces debe poder enviar su solicitud para una demo personalizada de FitManager. |
+| **Acceptance Criteria #2** | Dado que el visitante ha completado el formulario de registro para la demo, <br> Cuando hace clic en el botón "Solicitar demo", <br> Entonces el sistema debe enviar un correo electrónico de confirmación con los detalles de la demo programada o información adicional solicitada. |
+
+| **User Story ID** | US16 |
+|-------------------|------|
+| **Epic ID** | EP06 |
+| **Title** | Acceso a Precios y Paquetes de FitManager |
+| **Description** | Como visitante, quiero ver los precios y paquetes disponibles para FitManager, para poder decidir si la plataforma se ajusta a mi presupuesto y necesidades. |
+| **Acceptance Criteria #1** | Dado que el visitante está en la página de precios, <br> Cuando accede a la sección de precios, <br> Entonces debe ver una lista clara y estructurada de los paquetes disponibles, con sus características y precios correspondientes. |
+| **Acceptance Criteria #2** | Dado que el visitante está en la página de precios, <br> Cuando selecciona un paquete específico, <br> Entonces debe poder ver una descripción detallada de las características del paquete, incluyendo funcionalidades y beneficios adicionales. |
+
+| **User Story ID** | US17 |
+|-------------------|------|
+| **Epic ID** | EP07 |
+| **Title** | Consultar Disponibilidad de Clases en el Sistema |
+| **Description** | Como desarrollador, quiero que el RESTful API permita consultar la disponibilidad de clases y entrenadores, para que la plataforma de FitManager pueda mostrar horarios actualizados en tiempo real a los usuarios. |
+| **Acceptance Criteria #1** | Dado que el desarrollador está haciendo una solicitud a la API, <br> Cuando se consulta la disponibilidad de clases, <br> Entonces la API debe devolver un listado actualizado de las clases disponibles, incluyendo la información de fecha, hora, entrenadores asignados y cupos disponibles. |
+| **Acceptance Criteria #2** | Dado que el desarrollador realiza una consulta para ver la disponibilidad de un entrenador, <br> Cuando se consulta la disponibilidad de un entrenador específico, <br> Entonces la API debe devolver una lista de las clases en las que el entrenador está asignado y la disponibilidad correspondiente. |
+
+| **User Story ID** | US18 |
+|-------------------|------|
+| **Epic ID** | EP07 |
+| **Title** | Crear y Gestionar Reservas de Clases |
+| **Description** | Como desarrollador, quiero que el API permita a los usuarios crear, cancelar y modificar reservas de clases, para que FitManager pueda gestionar las interacciones entre clientes y entrenadores. |
+| **Acceptance Criteria #1** | Dado que un cliente desea reservar una clase, <br> Cuando el cliente envía una solicitud de reserva a la API, <br> Entonces la API debe verificar la disponibilidad de la clase <br> Y, si está disponible, crear la reserva, devolviendo una confirmación con los detalles de la clase reservada (fecha, hora, entrenador y nombre del cliente). |
+| **Acceptance Criteria #2** | Dado que un cliente desea cancelar una reserva, <br> Cuando el cliente envía una solicitud de cancelación a la API, <br> Entonces la API debe cancelar la reserva y liberar el espacio en la clase, devolviendo una confirmación de la cancelación. |
+| **Acceptance Criteria #3** | Dado que un cliente intenta hacer una reserva para una clase llena, <br> Cuando el cliente envía la solicitud de reserva, <br> Entonces la API debe devolver un mensaje de error indicando que la clase está completa. |
+
+| **User Story ID** | US19 |
+|-------------------|------|
+| **Epic ID** | EP07 |
+| **Title** | Registrar Clientes y Personal |
+| **Description** | Como desarrollador, quiero que el API permita crear y gestionar perfiles de clientes y personal, para que FitManager pueda almacenar y actualizar la información relevante para los usuarios. |
+| **Acceptance Criteria #1** | Dado que un administrador quiere registrar un nuevo cliente, <br> Cuando el administrador envía una solicitud con la información del cliente (nombre, correo electrónico, teléfono, etc.), <br> Entonces la API debe crear un perfil de cliente y devolver una confirmación con los detalles del cliente registrado, incluyendo un ID único de cliente. |
+| **Acceptance Criteria #2** | Dado que un administrador desea actualizar la información de un cliente, <br> Cuando el administrador envía una solicitud con los nuevos detalles del cliente, <br> Entonces la API debe actualizar los datos del cliente y devolver una confirmación de que la información fue actualizada correctamente. |
+| **Acceptance Criteria #3** | Dado que un administrador quiere registrar un nuevo miembro del personal (entrenador o personal administrativo), <br> Cuando el administrador envía una solicitud con la información del personal (nombre, rol, correo electrónico, teléfono, etc.), <br> Entonces la API debe crear un perfil de personal y devolver una confirmación con los detalles del perfil registrado, incluyendo un ID único de personal. |
+| **Acceptance Criteria #4** | Dado que un administrador desea actualizar los detalles de un miembro del personal, <br> Cuando el administrador envía una solicitud con los nuevos detalles del personal, <br> Entonces la API debe actualizar la información del miembro del personal y devolver una confirmación de que la actualización fue exitosa. |
