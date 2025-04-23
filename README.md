@@ -155,7 +155,11 @@ Tabla 1
 
 | Aspecto                    | **FitManager**                                                                 | **Mindbody**                                                   | **ClubRight**                                     | **Booking Ninjas**                                        |
 |----------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------|
-| **Logo**                    | ![FitManager](URL_DEL_LOGO_DE_FITMANAGER)                                       | ![Mindbody](URL_DEL_LOGO_DE_MINDBODY)                         | ![ClubRight](URL_DEL_LOGO_DE_CLUBRIGHT)           | ![Booking Ninjas](URL_DEL_LOGO_DE_BOOKING_NINJAS)        |
+| **Logo**                    | ![image](https://github.com/user-attachments/assets/50216af3-af34-4705-b11e-e45517f7cb32)
+                                     | ![image](https://github.com/user-attachments/assets/6a73ae1f-63d7-4a55-a671-3d1866fb5b32)
+                    | ![image](https://github.com/user-attachments/assets/5fa9b28b-69e5-496a-b907-9a79fba30fd7)
+           | ![image](https://github.com/user-attachments/assets/dce6b339-b62f-4810-a958-b9b036755681)
+        |
 | **Overview**                | Plataforma SaaS para gimnasios de combate, reservas, pagos y métricas.         | App global para wellness y fitness (gimnasios, yoga, spas, etc.). | Software para gimnasios con enfoque en pagos y comunidad. | Solución para automatizar operaciones en gimnasios y hoteles. |
 | **Ventaja competitiva**     | Adaptable a todo tipo de gimnasios, interfaz simple y automatización de gestión y pagos. | Comunidad global y marketing integrado.                        | Facilidad de uso y soporte personalizado.           | Alta personalización e integración con sistemas externos.  |
 | **Mercado objetivo**        | Todo tipo de gimnasios incluyendo de combate, funcionales e híbridos (zonas urbanas). | Centros wellness y estudios de fitness en todo el mundo.        | Gimnasios medianos y pequeños del Reino Unido.       | Centros fitness que buscan eficiencia operativa.          |
