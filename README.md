@@ -82,6 +82,47 @@ FitManager debe tener un diseño moderno, claro y profesional, con una interfaz 
 #### Lean UX Canvas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c449950-4513-43ce-a925-0fc713a7a618" alt="Imagen centrada">
+  <img src="https://github.com/user-attachments/assets/9c449950-4513-43ce-a925-0fc713a7a618" alt="Canvas de FitManager" width="400">
 </p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1s4bRIgJBOXdcWbEElVUIdd4UmPVrTLMN/view?usp=sharing">Ver Canvas completo en Google Drive</a>
+</p>
+
+### Propuesta de Valor y Alcance
+
+Propuesta de valor
+FitManager es una plataforma de gestión integral diseñada para digitalizar y optimizar las operaciones de gimnasios, estudios de entrenamiento personalizado y centros de entrenamiento funcional. Su propuesta de valor se basa en simplificar la administración del negocio mediante herramientas que permiten a los dueños, administradores y entrenadores controlar pagos, membresías, clases, reservas y métricas operativas desde un solo lugar. A través de funcionalidades como el calendario dinámico, el panel de métricas, la gestión personalizada de planes y el registro automatizado de asistencias, FitManager reduce la carga operativa del personal, evita errores humanos y mejora significativamente la experiencia tanto del cliente del gimnasio como de los administradores.
+
+Alcance
+FitManager no solo se dirige a los dueños y entrenadores que buscan optimizar sus operaciones, sino que también proporciona a los clientes del gimnasio una plataforma sencilla para gestionar sus reservas, horarios y asistencia de manera eficiente. A diferencia de sistemas genéricos o gestión manual en hojas de cálculo, FitManager ofrece una solución especializada para el entorno fitness, accesible desde cualquier dispositivo con conexión a internet. Su flexibilidad y adaptabilidad lo convierten en una herramienta ideal para gimnasios de diferentes tipos, desde espacios pequeños hasta centros de entrenamiento de mayor escala, abarcando diversas disciplinas y necesidades operativas.
+
+## Segmentos Objetivo
+
+Segmento objetivo #1: Dueños, administradores y entrenadores de gimnasios
+Aspectos demográficos:
+Sexo: No definido (tanto hombres como mujeres).
+
+
+Rango de edad: 25-50 años.
+
+
+Nivel socioeconómico: Medio a alto, debido a la necesidad de inversión en tecnología y la operación de un gimnasio.
+
+
+Aspectos geográficos:
+Nacionalidad: Principalmente de países de habla hispana, aunque se puede adaptar a otros mercados.
+
+
+Zona geográfica de residencia: Zonas urbanas y suburbanas, con presencia de gimnasios independientes y centros de entrenamiento.
+
+
+Aspectos psicográficos:
+Intereses: Interés por la optimización de procesos, tecnología aplicada a la gestión, y crecimiento profesional.
+
+
+Estilo de vida: Orientados al negocio, interesados en la mejora continua de sus instalaciones, procesos y la experiencia de sus clientes.
+
+
+Actitudes: Valoran la eficiencia operativa, la automatización de tareas, y la posibilidad de ofrecer un servicio más profesional y organizado.
 
