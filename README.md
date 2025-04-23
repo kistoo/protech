@@ -525,5 +525,13 @@ Lista de Términos
 | US01          | EP01    | Visualización de horarios | Como usuario, quiero acceder a un calendario con los horarios de todas las clases para planificar fácilmente la programación y disponibilidad.               | Dado que el usuario está en nuestra aplicación web, cuando selecciona la opción “Horarios”, entonces el sistema muestra un calendario con las clases programadas y entrenadores asignados. |
 |               |         |                         |                                                                                                                                                                 | Dado que un entrenador no está disponible, cuando el administrador realiza el cambio de horario, entonces el cambio se refleja en tiempo real para todos los usuarios.                     |
 
+| **User Story ID** | US02 |
+|-------------------|------|
+| **Epic ID** | EP01 |
+| **Title** | Gestión de Horarios |
+| **Description** | Como administrador, quiero poder modificar los horarios de las clases en el sistema para asegurar que los clientes siempre vean una programación actualizada y puedan reservar en función de la disponibilidad real. |
+| **Acceptance Criteria #1** | Dado que el administrador accede al panel de gestión de horarios  <br> Cuando edita el horario de una clase existente <br> Entonces el nuevo horario se guarda correctamente y se refleja en el calendario de todos los usuarios en tiempo real |
+| **Acceptance Criteria #2** | Dado que una clase modificada ya tenía reservas previas <br> Cuando se guarda el nuevo horario <br> Entonces el sistema notifica automáticamente a los clientes afectados por el cambio |
+
 
 
