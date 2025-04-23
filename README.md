@@ -413,5 +413,56 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
   <img src="https://github.com/user-attachments/assets/b08c192b-a03c-4450-baf8-e2823e1311e0" alt="EMPHATY MAP - SEGMENTO #2">
 </p>
 
+### 2.3.5. As-Is Scenario Mapping
 
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ab60ca6-ab6d-4f74-b42f-549cc226669a" alt="AS IS SCENARIO - SEGMENTO #1">
 
+**Segmento #2: Clientes de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e3ac3fd-613a-4ddf-8579-55d09750f611" alt="AS IS SCENARIO - SEGMENTO #2">
+</p>
+
+## 2.4 Ubiquitous Language
+
+Lista de Términos
+
+* **Miembro**  
+  * Usuario registrado en el gimnasio con acceso a reservas y seguimiento.  
+  * *Sinónimos a evitar:* "Cliente" (en contextos técnicos).
+
+* **Entrenador**  
+  * Personal que imparte clases o sesiones personalizadas.  
+  * *Diferenciar de:* "Staff" (roles no instructivos como recepción o limpieza).
+
+* **Clase**  
+  * Sesión grupal o individual con horario fijo (ej: Yoga, CrossFit).  
+  * *No confundir con:* "Sesión" (término genérico que puede referirse también a login).
+
+* **Reserva**  
+  * Cupo asignado a un miembro para una clase específica.  
+  * *Distinto de:* "Registro" (proceso de alta en el sistema).
+
+* **Asistencia**  
+  * Registro de presencia física en una clase.
+
+* **Membresía**  
+  * Plan de suscripción activo/inactivo de un miembro.  
+  * *Estados posibles:* Activa, Vencida, Pendiente de pago.
+
+* **Cupo**  
+  * Espacio disponible en una clase (ej: "5/10 cupos").  
+  * *Uso exclusivo:* Capacidad máxima de participantes.
+
+* **Panel**  
+  * Vista principal con métricas resumidas para administradores.  
+  * *Término técnico:* "Dashboard" (solo en código).
+
+* **Administrador**  
+  * Usuario con permisos para gestionar toda la plataforma.  
+  * *No usar:* "Manager" (reservado para gimnasios con múltiples sedes).
+
+* **Monto**  
+  * Cantidad de dinero.  
+  * *Evitar términos como:* “Precio” (más adecuado para mostrar al público) o “Tarifa” (cuando se refiere a categorías o planes).
