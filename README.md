@@ -473,9 +473,11 @@ Lista de Términos
 
 **Segmento #1: Dueños, administradores y entrenadores de gimnasios**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ab60ca6-ab6d-4f74-b42f-549cc226669a" alt="TO BE SCENARIO - SEGMENTO #1">
+  <img src="https://github.com/user-attachments/assets/dde9f222-dca2-4df5-bce5-a205354b0f7d" alt="TO BE SCENARIO - SEGMENTO #1">
 
 **Segmento #2: Clientes de gimnasios**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e3ac3fd-613a-4ddf-8579-55d09750f611" alt="TO BE SCENARIO - SEGMENTO #2">
+  <img src="https://github.com/user-attachments/assets/c47ffe70-988c-4556-b391-a3ef1af575a9" alt="TO BE SCENARIO - SEGMENTO #2">
 </p>
+
+
