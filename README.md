@@ -166,3 +166,69 @@ Tabla 1
 | **Debilidades**             | Diferenciación frente a competidores generalistas y a plataformas con curva de aprendizaje elevada, accesibilidad a pequeños negocios. | Crecimiento global del wellness.                                | Ampliar funciones y cobertura.                      | Demanda por automatización y eficiencia post-COVID.       |
 | **Amenazas**                | Competencia de soluciones ya consolidadas en el mercado y opciones gratuitas.  | Competencia de nicho y apps locales.                           | Saturación del mercado.                             | Adaptabilidad a mercados pequeños o locales.              |
 
+### 2.1.2. Estrategias y tácticas frente a los competidores
+
+FitManager se posicionará como una solución especializada en gimnasios de deportes de combate, diferenciándose de competidores generalistas. Para afrontar las fortalezas de otros actores consolidados como Booking Ninjas, Mindbody y ClubRight, aplicará las siguientes estrategias:
+
+#1 Herramientas especializadas para gimnasios y entrenamientos personalizados
+* Fortaleza Utilizada: Especialización en gimnasios, automatización.
+* Oportunidad Aprovechada: Diferenciación frente a competidores generalistas.
+* Descripción: Mientras que plataformas como Mindbody y Booking Ninjas ofrecen soluciones genéricas, FitManager se centrará en herramientas especializadas para gimnasios funcionales y de entrenamiento personalizado. Esto incluirá gestión de sesiones intensivas, planificación de rutinas específicas y control de desempeño físico detallado, adaptándose a las necesidades reales de los entrenadores y sus clientes.
+
+#2 Posicionamiento como solución intuitiva y accesible
+* Fortaleza Utilizada: Interfaz sencilla.
+* Oportunidad Aprovechada: Diferenciación frente a plataformas con curva de aprendizaje elevada.
+* Descripción: A diferencia de competidores como ClubRight, que pueden ser más complejos en su configuración, FitManager destacará por una experiencia de usuario fluida y sin fricciones. Esto facilitará la adopción rápida por parte de los gimnasios, permitiéndoles gestionar sus operaciones sin necesidad de capacitación extensa.
+
+#3 Sistema de métricas y reportes automáticos para mejorar el desempeño
+* Fortaleza Utilizada: Automatización.
+* Oportunidad Aprovechada: Diferenciación frente a competidores generalistas.
+* Descripción: FitManager integrará un sistema avanzado de métricas y reportes automáticos, permitiendo a los entrenadores monitorear el progreso de sus alumnos de manera objetiva. Esta funcionalidad, que no todos los competidores implementan de manera robusta, facilitará la toma de decisiones basadas en datos y mejorará la retención de clientes.
+
+#4 Estructura de precios flexible para gimnasios de todos los tamaños
+* Fortaleza Utilizada: Soporte local.
+* Oportunidad Aprovechada: Accesibilidad para pequeños negocios.
+* Descripción: A diferencia de plataformas con costos elevados o modelos rígidos, FitManager ofrecerá planes escalables según el tamaño del gimnasio. Esto permitirá que tanto pequeños estudios como grandes cadenas accedan a la plataforma sin sacrificar funcionalidad, fomentando la adopción del software en el mercado.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+
+Objetivo: Entender sus desafíos y necesidades operativas, especialmente en áreas como programación de clases, gestión de pagos y seguimiento de clientes.
+Se tienen las siguientes preguntas, dependiendo de su rol en el gimnasio:
+
+Para quienes se centran en la administración:
+1. ¿Cómo gestionan actualmente los pagos, membresías y clases en su gimnasio?
+2. ¿Qué tan satisfecho(a) está con su sistema de administración actual?
+3. ¿Utilizan actualmente alguna plataforma digital o software para apoyar la gestión del gimnasio? ¿Cuál?
+4. ¿Qué problemas han enfrentado al administrar horarios, clases o pagos?
+5. ¿Cuánto tiempo dedica su equipo diariamente a tareas administrativas?
+6. ¿Ha considerado implementar una solución en la nube que automatice procesos? ¿Por qué sí o por qué no?
+7. ¿Qué tan importante considera que es la digitalización para el crecimiento de su gimnasio?
+8. ¿Estaría dispuesto(a) a pagar una suscripción mensual si esta solución le ahorra tiempo, errores y esfuerzo? ¿Qué precio considera razonable?
+9. ¿Qué funcionalidades cree que serían indispensables en una herramienta de este tipo?
+
+Para quienes se centran en el entrenamiento:
+1. ¿Cómo gestionas actualmente tus horarios y clases?
+2. ¿Tienes acceso a información actualizada sobre tus clientes o alumnos? ¿Cómo la obtienes?
+3. ¿Qué herramientas digitales utilizas actualmente para organizar tu trabajo?
+4. ¿Has tenido problemas para coordinar clases, entrenamientos o sesiones con clientes?
+5. ¿Cómo te comunicas normalmente con los administradores del gimnasio?
+6. ¿Qué tan útil sería para ti tener una plataforma que centraliza tus horarios, disponibilidad y datos de tus clientes?
+7. ¿Crees que una herramienta así te ayudaría a trabajar mejor? ¿Por qué?
+8. ¿Qué funcionalidades te parecerían más valiosas en una aplicación pensada para entrenadores?
+
+**Segmento #2: Clientes de gimnasios**
+Objetivo: Entender sus necesidades y expectativas en relación con la gestión de reservas, horarios y entrenamientos
+
+1. ¿Cómo te informas actualmente sobre los horarios de clases o la disponibilidad de entrenadores en tu gimnasio?
+2. ¿Has tenido alguna vez problemas por falta de información o cambios inesperados en los horarios?
+3. ¿Qué tan útil sería para ti poder reservar tu espacio en el gimnasio o una clase con anticipación desde tu celular?
+4. ¿Crees que tu experiencia mejoraría si tu entrenador pudiera seguir tu progreso físico y adaptar tus rutinas según eso?
+5. ¿Te interesaría usar una app donde puedas ver los horarios del gimnasio, la disponibilidad de entrenadores y hacer tus reservas fácilmente?
+6. ¿Con qué frecuencia asistes al gimnasio y qué factores influyen en que mantengas esa constancia?
+7. ¿Qué aspectos de la experiencia en tu gimnasio crees que podrían mejorarse con tecnología?
+
+
