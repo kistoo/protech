@@ -466,3 +466,16 @@ Lista de Términos
 * **Monto**  
   * Cantidad de dinero.  
   * *Evitar términos como:* “Precio” (más adecuado para mostrar al público) o “Tarifa” (cuando se refiere a categorías o planes).
+
+# CAPÍTULO 3: REQUIREMENTS SPECIFICATION
+
+## 3.1. To-Be Scenario Mapping
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ab60ca6-ab6d-4f74-b42f-549cc226669a" alt="TO BE SCENARIO - SEGMENTO #1">
+
+**Segmento #2: Clientes de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e3ac3fd-613a-4ddf-8579-55d09750f611" alt="TO BE SCENARIO - SEGMENTO #2">
+</p>
