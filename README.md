@@ -155,7 +155,7 @@ Tabla 1
 
 | Aspecto                    | **FitManager** | **Mindbody** | **ClubRight** | **Booking Ninjas** |
 |----------------------------|----------------|--------------|----------------|---------------------|
-| **Logo** | ![FitManager](https://github.com/user-attachments/assets/ef4eeb67-c3c1-44ed-a88b-8867457427a5) | ![Mindbody](https://github.com/user-attachments/assets/6a73ae1f-63d7-4a55-a671-3d1866fb5b32) | ![ClubRight](https://github.com/user-attachments/assets/5fa9b28b-69e5-496a-b907-9a79fba30fd7) | ![BookingNinjas](https://github.com/user-attachments/assets/dce6b339-b62f-4810-a958-b9b036755681) |
+| **Logo** | <img src="https://github.com/user-attachments/assets/ef4eeb67-c3c1-44ed-a88b-8867457427a5" height="80"/> | <img src="https://github.com/user-attachments/assets/6a73ae1f-63d7-4a55-a671-3d1866fb5b32" height="80"/> | <img src="https://github.com/user-attachments/assets/5fa9b28b-69e5-496a-b907-9a79fba30fd7" height="80"/> | <img src="https://github.com/user-attachments/assets/dce6b339-b62f-4810-a958-b9b036755681" height="80"/> |
 | **Overview** | Plataforma SaaS para gimnasios de combate, reservas, pagos y métricas. | App global para wellness y fitness (gimnasios, yoga, spas, etc.). | Software para gimnasios con enfoque en pagos y comunidad. | Solución para automatizar operaciones en gimnasios y hoteles. |
 | **Ventaja competitiva** | Adaptable a todo tipo de gimnasios, interfaz simple y automatización de gestión y pagos. | Comunidad global y marketing integrado. | Facilidad de uso y soporte personalizado. | Alta personalización e integración con sistemas externos. |
 | **Mercado objetivo** | Todo tipo de gimnasios incluyendo de combate, funcionales e híbridos (zonas urbanas). | Centros wellness y estudios de fitness en todo el mundo. | Gimnasios medianos y pequeños del Reino Unido. | Centros fitness que buscan eficiencia operativa. |
@@ -167,7 +167,6 @@ Tabla 1
 | **Oportunidades** | Limitado fuera del nicho, dependencia de internet, menor reconocimiento. | Costoso, complejo para nuevos usuarios. | Funcionalidades limitadas en planes básicos. | Precio alto, curva de aprendizaje. |
 | **Debilidades** | Diferenciación frente a competidores generalistas y a plataformas con curva de aprendizaje elevada, accesibilidad a pequeños negocios. | Crecimiento global del wellness. | Ampliar funciones y cobertura. | Demanda por automatización y eficiencia post-COVID. |
 | **Amenazas** | Competencia de soluciones ya consolidadas en el mercado y opciones gratuitas. | Competencia de nicho y apps locales. | Saturación del mercado. | Adaptabilidad a mercados pequeños o locales. |
-
 
 ### 2.1.2. Estrategias y tácticas frente a los competidores
 
