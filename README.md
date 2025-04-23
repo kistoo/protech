@@ -689,4 +689,93 @@ Lista de Términos
 | **User Story ID** | US03 |
 | **Título** | Reservar clases |
 
-    
+| **Epic ID** | EP02 |
+|-------------|------|
+| **Title** | Seguimiento personalizado del entrenamiento |
+| **Description** | Como usuario, quiero una funcionalidad para registrar el progreso físico y consultar rutinas personalizadas, para mejorar la constancia, motivación y resultados de los entrenamientos. |
+| **User Story ID** | US04 |
+| **Título** | Registrar y consultar el progreso físico |
+| **User Story ID** | US05 |
+| **Título** | Visualizar rutina personalizada |
+
+| **Epic ID** | EP03 |
+|-------------|------|
+| **Title** | Gestión y pago de membresías online |
+| **Description** | Como administrador del gimnasio y como cliente, quiero contar con opciones para gestionar y realizar pagos de membresías desde la plataforma, para facilitar las transacciones, evitar retrasos y mejorar la organización financiera del gimnasio. |
+| **User Story ID** | US06 |
+| **Título** | Gestionar pagos de clientes |
+| **User Story ID** | US07 |
+| **Título** | Realizar pagos de membresía desde la app |
+
+| **Epic ID** | EP04 |
+|-------------|------|
+| **Title** | Gestión de perfiles y personal del gimnasio |
+| **Description** | Como administrador del gimnasio y como cliente, quiero contar con opciones para gestionar y realizar pagos de membresías desde la plataforma, para facilitar las transacciones, evitar retrasos y mejorar la organización financiera del gimnasio. |
+| **User Story ID** | US08 |
+| **Título** | Registrar nuevo cliente en la plataforma |
+| **User Story ID** | US09 |
+| **Título** | Consultar historial de asistencias de un cliente |
+| **User Story ID** | US10 |
+| **Título** | Registrar nuevo entrenador o personal administrativo |
+| **User Story ID** | US11 |
+| **Título** | Gestionar personal del gimnasio |
+
+| **Epic ID** | EP05 |
+|-------------|------|
+| **Title** | Sistema de notificaciones |
+| **Description** | Como administrador o cliente del gimnasio, quiero recibir notificaciones administrativas y personalizadas, para mantenerte informado de manera oportuna y mejorar la comunicación con la plataforma. |
+| **User Story ID** | US12 |
+| **Título** | Notificaciones sobre actualizaciones administrativas |
+| **User Story ID** | US13 |
+| **Título** | Notificaciones según mi actividad personal |
+
+| **Epic ID** | EP06 |
+|-------------|------|
+| **Title** | Landing Page |
+| **Description** | Como visitante del sitio web de FitManager, quiero acceder fácilmente a información clara y detallada sobre la plataforma, sus beneficios, precios y funcionalidades, para evaluar si se adapta a las necesidades de mi gimnasio o como cliente potencial. |
+| **User Story ID** | US14 |
+| **Título** | Información General sobre FitManager |
+| **User Story ID** | US15 |
+| **Título** | Registro para una Demo o Consulta |
+| **User Story ID** | US16 |
+| **Título** | Acceso a Precios y Paquetes de FitManager |
+
+| **Epic ID** | EP07 |
+|-------------|------|
+| **Title** | RESTful API |
+| **Description** | Como desarrollador, quiero implementar y mantener los endpoints del RESTful API necesarios para las funciones clave de la plataforma, como gestión de clases, reservas, perfiles y pagos, para asegurar la operatividad y escalabilidad del sistema. |
+| **User Story ID** | US17 |
+| **Título** | Consultar Disponibilidad de Clases en el Sistema |
+| **User Story ID** | US18 |
+| **Título** | Crear y Gestionar Reservas de Clases |
+| **User Story ID** | US19 |
+| **Título** | Registrar Clientes y Personal |
+
+## 3.3. Impact Mapping
+
+A continuación se presenta el mapa de impacto elaborado para FitFlow, usando la herramienta de Miro. Este mapa parte de metas de negocio claras, identifica a los actores clave, describe los impactos esperados y define entregables y user stories que guían el desarrollo de la solución digital.
+
+## 3.4. Product Backlog
+
+| # | User Story ID | Descripción | Story Points |
+|---|----------------|-------------|---------------|
+| 1 | US03 | Como cliente, quiero poder reservar clases desde mi celular o web para asegurar mi cupo sin tener que llamar o hacer fila. | 5 |
+| 2 | US02 | Como administrador, quiero poder modificar los horarios de las clases en el sistema para asegurar que los clientes siempre vean una programación actualizada y puedan reservar en función de la disponibilidad real. | 3 |
+| 3 | US01 | Como usuario, quiero acceder a un calendario con los horarios de todas las clases para planificar fácilmente la programación y disponibilidad. | 3 |
+| 4 | US17 | Como desarrollador, quiero que el RESTful API permita consultar la disponibilidad de clases y entrenadores, para que la plataforma de FitManager pueda mostrar horarios actualizados en tiempo real a los usuarios. | 5 |
+| 5 | US18 | Como desarrollador, quiero que el API permita a los usuarios crear, cancelar y modificar reservas de clases, para que FitManager pueda gestionar las interacciones entre clientes y entrenadores. | 5 |
+| 6 | US19 | Como desarrollador, quiero que el API permita crear y gestionar perfiles de clientes y personal, para que FitManager pueda almacenar y actualizar la información relevante para los usuarios. | 5 |
+| 7 | US06 | Como administrador del gimnasio, quiero ver y gestionar el estado de pagos de cada cliente para llevar un control eficiente de membresías activas e inactivas. | 5 |
+| 8 | US07 | Como cliente del gimnasio, quiero pagar mi membresía desde la app usando mi tarjeta o billetera digital para mantener mi suscripción activa fácilmente. | 5 |
+| 9 | US04 | Como cliente, quiero registrar y visualizar mi progreso físico dentro de la app para evaluar mi evolución y mantenerme motivado. | 3 |
+| 10 | US10 | Como administrador, quiero crear perfiles para el personal del gimnasio para gestionar sus roles, horarios y actividades. | 3 |
+| 11 | US08 | Como cliente, quiero poder crear mi perfil para llevar un control de mi información personal y actividad dentro del gimnasio. | 3 |
+| 12 | US09 | Como entrenador, quiero poder ver las asistencias de cada cliente para hacer un mejor seguimiento de su compromiso y progreso. | 3 |
+| 13 | US12 | Como administrador o entrenador, quiero recibir notificaciones administrativas relevantes para estar informado sobre eventos importantes relacionados a la operación del gimnasio. | 3 |
+| 14 | US13 | Como cliente del gimnasio, quiero recibir notificaciones personalizadas según mis clases. | 3 |
+| 15 | US14 | Como visitante del sitio web de FitManager, quiero obtener información clara sobre las características y beneficios de la plataforma, para decidir si encaja con las necesidades de mi gimnasio. | 3 |
+| 16 | US15 | Como visitante interesado, quiero registrarme para solicitar una demo personalizada o más información sobre FitManager, para poder explorar cómo puede mejorar la gestión de mi gimnasio. | 2 |
+| 17 | US16 | Como visitante, quiero ver los precios y paquetes disponibles para FitManager, para poder decidir si la plataforma se ajusta a mi presupuesto y necesidades. | 2 |
+| 18 | US05 | Como cliente, quiero ver mi rutina personalizada de entrenamiento en la plataforma para seguirla paso a paso durante mis sesiones. | 5 |
+| 19 | US11 | Como administrador, quiero gestionar fácilmente al personal del gimnasio para organizar horarios, roles y desempeño. | 5 |
+
