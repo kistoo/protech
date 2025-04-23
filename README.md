@@ -361,18 +361,10 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
   <img src="https://github.com/user-attachments/assets/186dea7a-8114-4382-8966-9b45d57fecf6" alt="USER PERSONA - SEGMENTO #1">
 </p>
 
-<p align="center">
-  <a href="">Link del user persona Daniel Muñoz</a>
-</p>
-
 **Segmento #2: Clientes de gimnasios**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d9f8bc1-a979-4cf4-b442-ef6cdb5e03f8" alt="USER PERSONA - SEGMENTO #2">
-</p>
-
-<p align="center">
-  <a href="">Link del user persona Daniel Sebastián Ramirez</a>
 </p>
 
 ### 2.3.2. User Task Matrix
@@ -479,5 +471,55 @@ Lista de Términos
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c47ffe70-988c-4556-b391-a3ef1af575a9" alt="TO BE SCENARIO - SEGMENTO #2">
 </p>
+
+## 3.2. User Stories
+
+### 3.2.1. Requisitos
+
+**Requisitos Funcionales**
+| Código   | Requisito                                                                 |
+|----------|---------------------------------------------------------------------------|
+| RFU-01   | Visualización de horarios en calendario                                   |
+| RFU-02   | Modificación de horarios por administradores                              |
+| RFU-03   | Notificación por cambio de horario                                        |
+| RFU-04   | Reserva de clases por parte de clientes                                   |
+| RFU-05   | Cancelación de reservas por parte de clientes                             |
+| RFU-06   | Registro del progreso físico del cliente                                  |
+| RFU-07   | Visualización de progreso físico del cliente                              |
+| RFU-08   | Visualización de rutina personalizada                                     |
+| RFU-09   | Gestión de pagos de clientes por parte del administrador                  |
+| RFU-10   | Resaltar membresías vencidas o próximas a vencer                          |
+| RFU-11   | Pago de membresía desde la app                                            |
+| RFU-12   | Confirmación de pago                                                      |
+| RFU-13   | Registro de nuevos clientes                                               |
+| RFU-14   | Consulta del historial de asistencias por parte del entrenador            |
+| RFU-15   | Visualización de detalles de asistencia                                   |
+| RFU-16   | Registro de personal por parte del administrador                          |
+| RFU-17   | Gestión del personal del gimnasio                                         |
+| RFU-18   | Actualización de horario del personal                                     |
+| RFU-19   | Notificaciones administrativas para entrenadores y administradores        |
+| RFU-20   | Notificaciones personales para clientes                                   |
+| RFU-21   | Configuración de notificaciones por parte del cliente                     |
+| RFU-22   | Visualización de características de la plataforma en el Landing Page      |
+| RFU-23   | Visualización de beneficios de FitManager en el Landing Page              |
+| RFU-24   | Registro para solicitar demo personalizada                                |
+| RFU-25   | Detalle de funcionalidades por paquete                                    |
+
+**Requisitos No Funcionales**
+| Código    | Requisito                          |
+|-----------|------------------------------------|
+| RNFU-01   | Disponibilidad del sistema         |
+| RNFU-02   | Tiempo de respuesta                |
+| RNFU-03   | Escalabilidad                      |
+| RNFU-04   | Seguridad de la información        |
+| RNFU-05   | Accesibilidad multiplataforma      |
+| RNFU-06   | Encriptación de pagos              |
+| RNFU-07   | Notificaciones configurables       |
+| RNFU-08   | Interfaz intuitiva                 |
+| RNFU-09   | Compatibilidad API                 |
+
+### 3.2.2. Historias de Usuario
+
+
 
 
