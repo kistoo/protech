@@ -375,4 +375,19 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
   <a href="">Link del user persona Daniel Sebastián Ramirez</a>
 </p>
 
+### 2.3.2. User Task Matrix
+
+| Tarea                                                              | Daniel Muñoz |              | Sebastián Ramírez |              |
+|--------------------------------------------------------------------|--------------|--------------|-------------------|--------------|
+|                                                                    | Frecuencia   | Importancia  | Frecuencia        | Importancia  |
+| Visualizar horarios y clases del gimnasio                          | Con frecuencia | Alta        | Rara vez          | Media        |
+| Visualizar disponibilidad de entrenadores y espacios               | Con frecuencia | Alta        | Con frecuencia    | Alta         |
+| Reservar clases y entrenamientos                                   | Con frecuencia | Alta        | Con frecuencia    | Alta         |
+| Consultar rutinas de entrenamiento personalizadas                  | Con frecuencia | Alta        | Con frecuencia    | Alta         |
+| Registrar y visualizar el progreso físico                          | A veces        | Alta        | Con frecuencia    | Alta         |
+| Acceder al historial de asistencia                                 | A veces        | Media       | Rara vez          | Baja         |
+| Recibir notificaciones sobre cambios de horario                    | Rara vez       | Baja        | Con frecuencia    | Alta         |
+| Gestionar pagos y membresías desde la app                          | Con frecuencia | Alta        | A veces           | Media        |
+| Contactar fácilmente con entrenadores o el gimnasio                | A veces        | Media       | A veces           | Alta         |
+
 
