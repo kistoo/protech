@@ -144,10 +144,10 @@ FitManager compite directamente con plataformas como Mindbody, ClubRight y Booki
 
 ### 2.1.1. Análisis Competitivo
 
-**Tabla 1** 
+Tabla 1
 *Competitive Anlysis Landscape*
-## Competitive Analysis Landscape
 
+**Competitive Analysis Landscape**
 > **¿Por qué llevar a cabo este análisis?**  
 > El objetivo de hacer este análisis es comparar a FitManager con competidores clave para identificar sus ventajas competitivas y oportunidades de mejora en el mercado de software para gimnasios.
 
