@@ -358,7 +358,7 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
 **Segmento #1: Dueños, administradores y entrenadores de gimnasios**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/186dea7a-8114-4382-8966-9b45d57fecf6" alt="User Persona Daniel Muñoz">
+  <img src="https://github.com/user-attachments/assets/186dea7a-8114-4382-8966-9b45d57fecf6" alt="USER PERSONA - SEGMENTO #1">
 </p>
 
 <p align="center">
@@ -368,7 +368,7 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
 **Segmento #2: Clientes de gimnasios**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d9f8bc1-a979-4cf4-b442-ef6cdb5e03f8" alt="User Persona Sebastián Ramirez">
+  <img src="https://github.com/user-attachments/assets/5d9f8bc1-a979-4cf4-b442-ef6cdb5e03f8" alt="USER PERSONA - SEGMENTO #2">
 </p>
 
 <p align="center">
@@ -389,5 +389,29 @@ Las siguientes fichas User Persona representan de manera semi-ficticia a los usu
 | Recibir notificaciones sobre cambios de horario                    | Rara vez       | Baja        | Con frecuencia    | Alta         |
 | Gestionar pagos y membresías desde la app                          | Con frecuencia | Alta        | A veces           | Media        |
 | Contactar fácilmente con entrenadores o el gimnasio                | A veces        | Media       | A veces           | Alta         |
+
+### 2.3.3. User Journey Mapping
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/404af6c2-b3d3-49b1-9cd6-65783907791a" alt="USER JOURNEY MAP - SEGMENTO #1">
+</p>
+
+**Segmento #2: Clientes de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e228f47-690a-437f-be19-dd78af876aa9" alt="USER JOURNEY MAP - SEGMENTO #2">
+</p>
+
+### 2.3.4. Empathy Mapping
+
+**Segmento #1: Dueños, administradores y entrenadores de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d8c6f0d-043b-4797-8319-5a253c7221d2" alt="EMPHATY MAP - SEGMENTO #1">
+
+**Segmento #2: Clientes de gimnasios**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b08c192b-a03c-4450-baf8-e2823e1311e0" alt="EMPHATY MAP - SEGMENTO #2">
+</p>
+
 
 
