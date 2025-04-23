@@ -779,3 +779,145 @@ A continuación se presenta el mapa de impacto elaborado para FitFlow, usando la
 | 18 | US05 | Como cliente, quiero ver mi rutina personalizada de entrenamiento en la plataforma para seguirla paso a paso durante mis sesiones. | 5 |
 | 19 | US11 | Como administrador, quiero gestionar fácilmente al personal del gimnasio para organizar horarios, roles y desempeño. | 5 |
 
+# CAPÍTULO 4: PRODUCT UX/UI DESIGN
+
+## 4.1. Style Guidelines
+
+Las Style Guidelines de FitManager funcionan como una herramienta estratégica para mantener la coherencia visual y funcional en cada punto de contacto de la plataforma. Esta guía proporciona una estructura clara para diseñadores y desarrolladores, asegurando que todos los elementos visuales, desde botones y formularios hasta interfaces completas, respondan a criterios de usabilidad, escalabilidad y consistencia.
+
+### 4.1.1 General Style Guidelines
+
+El branding de FitManager es el núcleo de su identidad visual, pensado para comunicar los valores esenciales de la plataforma, eficiencia, profesionalismo y cercanía. A través de una estética limpia moderna y funcional, como marca buscamos transmitir confianza y accesibilidad, posicionándonos como una solución tecnológica amigable para gimnasios y centros deportivos. El logotipo, la paleta de colores y la tipografía de FitManager están diseñados para evocar orden, claridad y dinamismo, reflejando el enfoque práctico de la plataforma en la gestión y crecimiento de negocios fitness. Cada elemento visual está cuidadosamente alineado con una experiencia intuitiva y profesional, asegurando que tanto administradores como clientes se sientan respaldados por una herramienta confiable, eficiente y fácil de usar.
+
+#### 4.1.1.1. Tipografía
+
+La tipografía no solo comunica palabras, sino también personalidad, claridad y experiencia de uso. En el desarrollo del sistema de gestión del gimnasio, hemos seleccionado cuidadosamente dos fuentes complementarias: Bebas Neue y Roboto. Esta elección responde tanto a criterios estéticos como funcionales:
+
+* Bebas Neue transmite fuerza, dinamismo y estructura. Es perfecta para títulos y elementos visuales que deben destacar.
+* Roboto aporta neutralidad, legibilidad y modernidad. Está optimizada para pantallas, lo que mejora la experiencia del usuario en distintos dispositivos.
+
+Esta combinación tipográfica garantiza una interfaz atractiva, consistente y fácil de usar, alineada con la identidad de un gimnasio moderno y tecnológico.
+
+**Bebas Neue**
+Uso principal: Títulos y encabezados.
+Razones de selección:
+* Estilo condensado ideal para espacios reducidos.
+* Genera jerarquía visual clara.
+* Transmite energía y enfoque profesional.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/092e5fc1-9fc8-4e23-9656-f65e49a86c2c" alt="Bebas Neue">
+</p>
+
+**Roboto**
+Uso principal: Cuerpo de texto, formularios, menús, etiquetas y descripciones.
+Razones de selección:
+* Excelente legibilidad en pantallas de cualquier tamaño.
+* Compatible con múltiples sistemas y navegadores.
+* Su diseño moderno y neutral complementa perfectamente a Bebas Neue.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d880b44-68e0-4a44-ad11-928359e23fb9" alt="Roboto">
+</p>
+
+**** 4.1.1.2. Colores
+
+La paleta de colores de FitManager cumple un papel fundamental en la construcción de una interfaz clara, profesional y confiable. Cada color ha sido seleccionado estratégicamente para transmitir orden, eficiencia y modernidad, facilitando la navegación y mejorando la legibilidad en diferentes contextos. 
+Esta selección no solo apoya la identidad visual de la marca, sino que también refuerza la experiencia del usuario al establecer jerarquías visuales claras, resaltar elementos clave y guiar la interacción de forma intuitiva.
+La identidad visual de FitManager está diseñada para transmitir modernidad, profesionalismo y confianza. La paleta de colores elegida combina tonos azules con contrastes neutros, buscando mantener una experiencia visual clara, intuitiva y coherente en todos los puntos de contacto con el usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/109aad69-bf4c-4943-af87-254e71e0821c" alt="Colores">
+</p>
+
+* Azul eléctrico(#007BFF): Se utiliza en botones de acción, enlaces destacados, íconos activos, elementos interactivos y llamados a la acción (CTAs). Representa energía, dinamismo y confianza.
+* Cian claro(#A7D1D2): Color principal en la aplicación. Se utiliza como fondo de tarjetas, paneles informativos, hover states y elementos secundarios. Aporta frescura, claridad y balance visual, suavizando el uso del azul eléctrico.
+* Azul oscuro(#0A113A): Color usado en el logo y en la Landing Page. Se usa para encabezados, títulos, botones secundarios, pie de página o elementos que requieren un énfasis serio y profesional. Representa estabilidad, seriedad y estructura visual dentro de la interfaz.
+* Blanco(#FFFFFF): Color principal para texto en la Landing Page y elementos sobre fondos oscuros. También se utiliza como color de fondo principal en versiones claras del sistema. Asegura legibilidad y limpieza visual.
+* Negro(#000000): Utilizado para contrastar con elementos claros. Ayuda a resaltar componentes importantes, generar profundidad y enfocar la atención del usuario.
+Además, se usa un negro con 65% de opacidad para bordes, líneas divisorias, íconos secundarios o texto complementario. Ayuda a estructurar la información sin competir visualmente con los colores principales. Proporciona jerarquía visual sin saturación.
+* Rosado pálido(#F2EDED): Color de fondo en la aplicación web de FitManager para crear una base visual suave y cálida que no distrae del contenido principal ni de los elementos interactivos. Su ligereza y sutil tinte rosado aportan una sensación de equilibrio y confort visual, permitiendo que se destaquen otros botones y elementos de acción.
+
+#### 4.1.1.3. Espaciado
+
+El espaciado en FitManager es un componente esencial del sistema de diseño, ya que garantiza una presentación visual ordenada, legible y cómoda para el usuario. A través de una estructura clara de márgenes, rellenos y separación entre elementos, buscamos optimizar la jerarquía visual y mejorar la experiencia de navegación. El uso consistente del espaciado contribuye a reducir la carga cognitiva, dirigir la atención hacia acciones clave y mantener una estética limpia y profesional en toda la plataforma.
+
+El espaciado en FitManager sigue un sistema basado en 5px para garantizar consistencia visual, alineación armoniosa y escalabilidad en todos los componentes.
+
+1. Fundamentos del Sistema
+* Unidad base: 5px (todas las medidas son múltiplos: 5px, 10px, 15px, 20px, 25px, etc.).
+* Objetivo: Crear ritmo visual y jerarquía clara.
+
+2. Aplicación en Componentes
+a) Márgenes Externos (Separación entre bloques)
+* 30px y 60px:
+ * Para separar paneles.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e8431ae-c6a2-452c-899c-ccf2ed32aa02" alt="Separación 30px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f93a453-4823-4ef8-9168-35530b9aae2a" alt="Separación 60px">
+</p>
+
+b) Padding (Espacio interno en componentes)
+* 15px:
+ * Dentro de tarjetas de métricas.
+ * En celdas de tablas.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c693d94b-6a4a-41a1-b49c-01072f717a4e" alt="Separación 15px">
+</p>
+* 25px
+ * Entre elementos del menú lateral
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11a0771f-2cfe-4b83-83e2-d2fd5c1070df" alt="Separación 15px">
+</p>
+* 10px:
+ * En botones.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76b011cb-6e51-4e95-aee7-597654e4f011" alt="Separación 10px">
+</p>
+
+c) Espaciado Vertical (Entre elementos apilados)
+* 5px:
+ * Entre líneas en listas compactas.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2c56f59-a2e4-4879-bab0-99339f6fa8d5" alt="Separación 5px">
+</p>
+
+#### 4.1.1.4. Tono de Comunicación y Lenguaje Aplicado
+
+El tono de comunicación de FitManager está cuidadosamente definido para reflejar los valores de profesionalismo, confianza y cercanía que caracterizan a la plataforma. Utilizamos un lenguaje claro, directo y accesible, evitando tecnicismos innecesarios para facilitar la comprensión por parte de todos los usuarios, independientemente de su nivel de experiencia tecnológica. Nuestra comunicación busca ser empática y resolutiva, transmitiendo seguridad en la gestión y apoyo constante. En cada mensaje, desde las interfaces hasta la documentación y notificaciones, priorizamos la simplicidad, la utilidad y un trato humano, fomentando una relación positiva y duradera entre la plataforma y sus usuarios.
+
+### 4.1.2 Web Style Guidelines
+
+Las Web Style Guidelines de FitManager definen los principios visuales, estructurales y funcionales para la implementación de la interfaz en entornos web. Este apartado está orientado a garantizar una experiencia de usuario coherente, accesible y optimizada en navegadores modernos, respetando la identidad visual de la marca. Incluye lineamientos específicos sobre diseño responsivo, comportamiento de componentes, adaptabilidad de estilos, y consideraciones técnicas para asegurar rendimiento, compatibilidad y escalabilidad.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c52e45fa-2eee-4810-a245-dc7f8d478a91" alt="Página de inicio de FitManager">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/baddfc0d-7acb-49f8-b9d2-f14624dec3ba" alt="Parte Superior página de inicio de FitManager">
+</p>
+
+En la parte superior de la aplicación web de FitManager, se destacan el logotipo, la barra de búsqueda y un acceso rápido al perfil del usuario.
+
+**Logotipo:** El logotipo, ubicado estratégicamente en la esquina superior izquierda, cumple una doble función crucial: establece y refuerza la identidad de marca de FitManager, permitiendo a los usuarios reconocer la plataforma a lo largo de su uso, y sirve como un punto de navegación intuitivo, ya que al hacer clic en él, los usuarios esperan ser dirigidos a la página de inicio o al panel de resumen general, facilitando así la orientación dentro de la aplicación.
+Panel Izquierdo
+
+**Barra de Búsqueda:** Situada prominentemente en la parte superior central o derecha, la barra de búsqueda ofrece una herramienta esencial para la eficiencia y la accesibilidad, permitiendo a los usuarios localizar rápidamente información específica como miembros, personal o registros, sin la necesidad de navegar extensos menús. Esta funcionalidad atiende a diversos estilos de uso y mejora significativamente la usabilidad al proporcionar un atajo directo al contenido deseado.
+
+**Acceso Rápido al Perfil del Usuario:** El acceso al perfil, típicamente ubicado en la esquina superior derecha, prioriza la personalización y el control del usuario sobre su cuenta. Cumpliendo con una convención de diseño web establecida, permite a los usuarios gestionar su información personal y la opción de cerrar sesión de manera intuitiva y rápida, contribuyendo a una experiencia de usuario consistente y segura.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d98d8037-3a47-47df-a6d1-c9b7cd0e19fc" alt="Paneles centrales página de inicio de FitManager">
+</p>
+
+En los paneles centrales de la interfaz de Fitmanager, se presenta de manera organizada y detallada la información, las métricas clave, las listas y, en general, los datos específicos y relevantes para la sección en la que el usuario se encuentra navegando. Ya sea el resumen general con sus indicadores de rendimiento, el calendario con la programación de actividades, la lista de personal o miembros con sus detalles, o cualquier otra sección, estos paneles actúan como el punto focal para la visualización y la interacción con la información esencial para la gestión del gimnasio. La presentación clara y estructurada de estos datos facilita la comprensión, el análisis y la toma de decisiones por parte del usuario.
+
+## 4.2. Information Architecture
+
+En FitFlow, los sistemas de organización son la base para estructurar la información de manera clara, eficiente y orientada a las necesidades reales de gimnasios pequeños y medianos. Nuestra plataforma está diseñada para que tanto administradores como entrenadores y usuarios encuentren rápidamente lo que necesitan, reduciendo fricciones y optimizando el tiempo de gestión. 
+La organización de contenidos y funcionalidades responde a principios de simplicidad, accesibilidad y escalabilidad, en línea con nuestra misión de modernizar el sector fitness.
+
+### 4.2.1. Organization Systems
+
+La organización jerárquica es la forma predominante en la navegación general de la aplicación, permitiendo a los usuarios moverse entre las diferentes áreas de gestión de manera estructurada. Dentro de tareas específicas, como crear una notificación o editar un perfil, se implementa una organización secuencial para guiar al usuario a través de los pasos necesarios para completar la acción.
+
