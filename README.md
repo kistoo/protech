@@ -1,13 +1,13 @@
-### Lean UX Process
+### 1.2.2. Lean UX Process
 
 ​Lean UX es una metodología ágil que integra principios de diseño centrados en el usuario con procesos iterativos y colaborativos, enfocándose en la experiencia del usuario más que en la documentación extensa. A través de ciclos continuos de creación, medición y aprendizaje, permite validar hipótesis rápidamente mediante experimentos y pruebas de usabilidad, facilitando la adaptación a cambios y la entrega de productos que realmente satisfacen las necesidades de los usuarios. Esta aproximación es útil porque reduce el riesgo de desarrollar funcionalidades innecesarias, mejora la eficiencia del equipo al fomentar la colaboración multidisciplinaria y asegura que el producto final esté alineado con las expectativas y comportamientos reales de los usuarios (Lean UX y Lean Startup: potencia experiencia y diseño de producto, 2023). 
 
-#### Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 
 FitManager es una plataforma web diseñada específicamente para mejorar la administración de gimnasios, ofreciendo herramientas integradas para gestionar clientes, pagos, horarios de clases y entrenadores, todo desde un solo lugar. Hemos identificado que muchos gimnasios, especialmente los pequeños y de barrio, aún operan utilizando métodos tradicionales y dispersos, como hojas de cálculo, mensajes de WhatsApp o registros en papel. Este enfoque fragmentado genera confusión, errores administrativos y dificultades en la programación, lo que afecta tanto la eficiencia operativa como la experiencia del cliente, quienes enfrentan confusión con los horarios, dificultades para reservar clases y una atención poco personalizada.
 Además, los entrenadores suelen tener que gestionar manualmente los horarios, pagos y seguimientos de los miembros, lo que consume mucho tiempo y reduce la calidad de su interacción con los alumnos. ¿Cómo podemos ofrecer una solución digital todo-en-uno que simplifique y automatice estos procesos, permitiendo a los gimnasios manejar su operación de manera más fluida y profesional, mientras mejoran la comunicación, la retención de clientes y la eficiencia del negocio?
 
-#### Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 #### Features
 
 * Gestión centralizada de clientes y suscripciones.
@@ -53,18 +53,23 @@ Además, los entrenadores suelen tener que gestionar manualmente los horarios, p
     
 ¿Quién es el usuario?
 El usuario principal de FitManager son los dueños y administradores de gimnasios independientes, estudios de entrenamiento personalizado y entrenadores que gestionan su propio espacio. También lo utilizan los entrenadores y el personal administrativo que participa en la operación diaria del gimnasio. Los clientes de los gimnasios también se benefician de la plataforma, ya que pueden consultar horarios, realizar reservas y gestionar sus entrenamientos.
+
 ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
 FitManager se integra directamente en las labores diarias de gestión del gimnasio, permitiendo a los usuarios (dueños, administradores, entrenadores y personal administrativo) organizar clases, manejar pagos, controlar asistencia, segmentar entrenamientos y supervisar el rendimiento del negocio desde un solo lugar. Los clientes de los gimnasios lo utilizan para consultar horarios, hacer reservas y gestionar su experiencia de entrenamiento.
+
 ¿Qué problemas tiene nuestro producto y cómo se puede resolver?
 Los problemas potenciales del producto pueden incluir una curva de aprendizaje inicial, resistencia al cambio por parte del personal o falta de integración con ciertos sistemas de pago. Estos pueden resolverse mediante una interfaz intuitiva, tutoriales interactivos, soporte técnico constante y compatibilidad con múltiples métodos de pago y plataformas, asegurando también que los clientes de los gimnasios puedan navegar de manera fácil y rápida.
+
 ¿Cuándo y cómo es usado nuestro producto?
-FitManager se utiliza de forma diaria, tanto desde computadoras como desde dispositivos móviles, para gestionar la operación completa del gimnasio. Los dueños y administradores acceden al panel para revisar métricas y finanzas, mientras que entrenadores y personal administrativo lo usan para programar clases, controlar asistencias y organizar a los clientes. 
+FitManager se utiliza de forma diaria, tanto desde computadoras como desde dispositivos móviles, para gestionar la operación completa del gimnasio. Los dueños y administradores acceden al panel para revisar métricas y finanzas, mientras que entrenadores y personal administrativo lo usan para programar clases, controlar asistencias y organizar a los clientes.
+
 ¿Qué características son importantes?
 Las funciones más importantes incluyen: gestión centralizada de clientes y membresías, calendario dinámico con reservas, control automatizado de pagos y vencimientos, panel de métricas operativas, personalización de planes, y acceso multiusuario para distintos roles dentro del gimnasio. Los clientes del gimnasio también se beneficiarán de una visualización clara de horarios, opciones de reservas y su propio historial de entrenamientos.
+
 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 FitManager debe tener un diseño moderno, claro y profesional, con una interfaz amigable, adaptable a cualquier dispositivo y de navegación sencilla. Debe comportarse de forma fluida, sin tiempos de carga largos, con respuestas rápidas a las acciones del usuario y funcionalidades que simplifiquen, no compliquen, la gestión diaria del gimnasio, beneficiando tanto a los administradores como a los clientes del gimnasio.
 
-#### Lean UX Hypothesis Statements
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
 1. Creemos que, al centralizar la gestión de pagos, reservas y clientes en una sola plataforma, ayudaremos a los dueños de gimnasios a reducir el uso de herramientas dispersas como Excel o WhatsApp.  
    Sabremos que esto es cierto cuando al menos el 70% de los usuarios de FitManager hayan reemplazado completamente herramientas externas después de un mes de uso.
@@ -79,7 +84,7 @@ FitManager debe tener un diseño moderno, claro y profesional, con una interfaz 
 6. Creemos que, al permitir que los clientes de los gimnasios realicen reservas de clases a través de FitManager, mejoraremos su experiencia y satisfacción general.  
    Sabremos que esto es cierto cuando el 75% de los clientes reporten una mayor facilidad para realizar reservas y gestionar su asistencia a clases dentro del primer mes de uso.
 
-#### Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c449950-4513-43ce-a925-0fc713a7a618" alt="Canvas de FitManager">
@@ -97,7 +102,7 @@ FitManager es una plataforma de gestión integral diseñada para digitalizar y o
 Alcance
 FitManager no solo se dirige a los dueños y entrenadores que buscan optimizar sus operaciones, sino que también proporciona a los clientes del gimnasio una plataforma sencilla para gestionar sus reservas, horarios y asistencia de manera eficiente. A diferencia de sistemas genéricos o gestión manual en hojas de cálculo, FitManager ofrece una solución especializada para el entorno fitness, accesible desde cualquier dispositivo con conexión a internet. Su flexibilidad y adaptabilidad lo convierten en una herramienta ideal para gimnasios de diferentes tipos, desde espacios pequeños hasta centros de entrenamiento de mayor escala, abarcando diversas disciplinas y necesidades operativas.
 
-## Segmentos Objetivo
+## 1.3. Segmentos Objetivo
 
 **Segmento objetivo #1: Dueños, administradores y entrenadores de gimnasios**
 
@@ -130,4 +135,34 @@ Aspectos psicográficos:
 * Intereses: Salud, fitness, bienestar personal, deportes y mejora física.
 * Estilo de vida: Activos, interesados en entrenamientos personalizados, y en mantener un estilo de vida saludable.
 * Actitudes: Buscan conveniencia, facilidad para acceder a la información sobre horarios, entrenamientos y disponibilidad, y valoran una experiencia organizada en el gimnasio.
+
+# CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
+
+## 2.1. Competidores
+
+FitManager compite directamente con plataformas como Mindbody, ClubRight y Booking Ninjas, todas enfocadas en la gestión digital de gimnasios. Mindbody ofrece una solución integral y global, aunque puede resultar compleja y costosa para gimnasios medianos o pequeños. ClubRight destaca por su simplicidad y precios accesibles, pero ofrece menos herramientas avanzadas. Booking Ninjas se enfoca en la automatización empresarial, aunque su implementación puede ser menos intuitiva para gimnasios convencionales. Frente a ellos, FitManager ofrece una alternativa moderna, adaptable a todo tipo de gimnasios y entrenamientos, con una experiencia más ágil y centrada en las necesidades operativas reales.
+
+### 2.1.1. Análisis Competitivo
+
+**Tabla 1** 
+*Competitive Anlysis Landscape*
+## Competitive Analysis Landscape
+
+> **¿Por qué llevar a cabo este análisis?**  
+> El objetivo de hacer este análisis es comparar a FitManager con competidores clave para identificar sus ventajas competitivas y oportunidades de mejora en el mercado de software para gimnasios.
+
+| Aspecto                    | **FitManager**                                                                 | **Mindbody**                                                   | **ClubRight**                                     | **Booking Ninjas**                                        |
+|----------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------|
+| **Logo**                    | ![FitManager](URL_DEL_LOGO_DE_FITMANAGER)                                       | ![Mindbody](URL_DEL_LOGO_DE_MINDBODY)                         | ![ClubRight](URL_DEL_LOGO_DE_CLUBRIGHT)           | ![Booking Ninjas](URL_DEL_LOGO_DE_BOOKING_NINJAS)        |
+| **Overview**                | Plataforma SaaS para gimnasios de combate, reservas, pagos y métricas.         | App global para wellness y fitness (gimnasios, yoga, spas, etc.). | Software para gimnasios con enfoque en pagos y comunidad. | Solución para automatizar operaciones en gimnasios y hoteles. |
+| **Ventaja competitiva**     | Adaptable a todo tipo de gimnasios, interfaz simple y automatización de gestión y pagos. | Comunidad global y marketing integrado.                        | Facilidad de uso y soporte personalizado.           | Alta personalización e integración con sistemas externos.  |
+| **Mercado objetivo**        | Todo tipo de gimnasios incluyendo de combate, funcionales e híbridos (zonas urbanas). | Centros wellness y estudios de fitness en todo el mundo.        | Gimnasios medianos y pequeños del Reino Unido.       | Centros fitness que buscan eficiencia operativa.          |
+| **Estrategias de marketing**| Nicho, publicidad digital, testimonios de entrenadores, alianzas locales.      | Marketplace integrado, SEO y publicidad en redes.              | Enfoque en relaciones y demostraciones personalizadas. | Marketing de contenido y posicionamiento SEO.              |
+| **Productos y servicios**   | Gestión de clases, reservas, pagos, métricas, notificaciones.                  | Agendamiento, pagos, marketplace, marketing, apps móviles.      | Registro de socios, pagos, reservas, informes.      | CRM, reservas, pagos, gestión documental, automatización.  |
+| **Precios y costos**        | Modelo por suscripción: Básico, Avanzado, Premium.                             | Varía según tamaño y funciones. Costos elevados para premium.   | Tarifas asequibles por número de usuarios.          | Planes empresariales personalizados.                      |
+| **Canales de distribución** | Web responsive.                                                                | App móvil y web.                                               | Web app compatible con móviles.                     | Web y móvil con dashboards personalizables.               |
+| **Fortalezas**              | Especialización, interfaz sencilla, automatización, soporte local.            | Ecosistema robusto, comunidad global, app móvil.                | Simplicidad, buena relación calidad-precio, soporte.  | Flexibilidad, automatización avanzada, integración.       |
+| **Oportunidades**           | Limitado fuera del nicho, dependencia de internet, menor reconocimiento.       | Costoso, complejo para nuevos usuarios.                         | Funcionalidades limitadas en planes básicos.        | Precio alto, curva de aprendizaje.                        |
+| **Debilidades**             | Diferenciación frente a competidores generalistas y a plataformas con curva de aprendizaje elevada, accesibilidad a pequeños negocios. | Crecimiento global del wellness.                                | Ampliar funciones y cobertura.                      | Demanda por automatización y eficiencia post-COVID.       |
+| **Amenazas**                | Competencia de soluciones ya consolidadas en el mercado y opciones gratuitas.  | Competencia de nicho y apps locales.                           | Saturación del mercado.                             | Adaptabilidad a mercados pequeños o locales.              |
 
