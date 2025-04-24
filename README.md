@@ -946,3 +946,85 @@ La interfaz principal de FitManager ha sido diseñada para ofrecer una experienc
 
 Una vez dentro del sistema, el usuario interactúa principalmente con un panel lateral izquierdo que contiene accesos directos a las funcionalidades principales, todas organizadas con etiquetas concisas:
 
+* Resumen General: es la vista principal del sistema, donde se concentran las métricas más importantes del gimnasio. La etiqueta “Resumen” comunica al instante que se trata de una visión global.
+* Calendario: permite al usuario consultar clases, reservas y eventos organizados cronológicamente. El término “Calendario” resulta ampliamente reconocido y comprensible.
+* Personal: ofrece acceso a los datos del staff como entrenadores, recepcionistas y otros colaboradores. Se ha optado por esta palabra por ser directa y representar de forma clara a los recursos humanos del gimnasio.
+* Miembros: sección dedicada al registro, modificación y seguimiento de los usuarios del gimnasio. “Miembros” es más formal y preciso que sinónimos como “usuarios” o “clientes”, y está alineado con el lenguaje del fitness.
+* Clases: contiene la gestión de horarios, cupos e instructores asignados. Esta palabra comunica eficazmente la idea de sesiones grupales sin necesidad de mayor explicación.
+* Reservas: muestra los registros semanales de usuarios que apartaron un lugar en clases. El uso de esta etiqueta facilita la comprensión inmediata del propósito.
+* Ingresos y Pagos: sección financiera que engloba ingresos mensuales, pagos recibidos y pendientes. Se usa una doble etiqueta porque ambos conceptos están estrechamente relacionados.
+* Asistencia: brinda información sobre la frecuencia de entrada de los miembros al gimnasio. La palabra elegida es directa y sin tecnicismos.
+* Notificaciones: aquí se concentran los avisos automáticos del sistema, como recordatorios o alertas.
+* Ajustes: sección de configuración general de la cuenta, donde se pueden modificar parámetros del sistema o el perfil del usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/160955bc-6e47-4019-8c76-2ffd77fdcb93" alt="Panel lateral izquierdo">
+</p>
+
+Dentro de cada una de estas secciones se emplean etiquetas breves para resumir métricas y paneles clave. Por ejemplo, en el dashboard de Resumen General:
+* Miembros totales: indica la cantidad total de usuarios registrados.
+* Miembros activos: muestra los usuarios actualmente en actividad.
+* Reservas/Semana y Asistencia/Semana: resumen el movimiento semanal.
+* Asistencia hoy: representa un gráfico por horas del día.
+* Ingresos/Mes, Nuevos/Mes y Pagos Pendientes: presentan métricas financieras y de crecimiento mensual de forma simplificada.
+
+En la parte derecha, la sección Clases de Hoy usa una tabla horaria que facilita la consulta rápida y visual del cronograma diario. Cada clase se vincula al horario correspondiente sin necesidad de etiquetas adicionales, haciendo la lectura más ágil.
+Todas las etiquetas han sido seleccionadas estratégicamente para eliminar redundancias, evitar el ruido visual y garantizar una curva de aprendizaje rápida para el usuario. El resultado es una interfaz donde cada palabra tiene un propósito funcional claro y donde las asociaciones visuales (íconos, colores, gráficos) refuerzan el entendimiento del contenido.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+El bloque de código HTML presentado incluye metadatos esenciales para la correcta interpretación y visualización de la página web. Define la codificación de caracteres a UTF-8 para una compatibilidad amplia, asegura la compatibilidad con las últimas funcionalidades de Internet Explorer, configura la ventana gráfica para adaptarse a diferentes dispositivos con un escalado inicial de 1, y establece "FitFlow" como el autor del sitio. Además, enlaza un icono SVG como favicon para la identificación visual de la pestaña del navegador y define el título principal de la página como "FitManager - Fitness & Gym administration", el cual es crucial para el SEO y la identificación de la pestaña. Finalmente, se enlazan varias hojas de estilo CSS, incluyendo Bootstrap para el diseño responsive, AOS para animaciones de desplazamiento, Lightgallery y Swiper para galerías y carruseles, y un archivo de estilo personalizado para la presentación visual específica del sitio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d85729b2-b582-4343-98ab-2d721328490b" alt="Meta tags parte 1">
+</p>
+
+En la Landing Page, los meta tags están estratégicamente definidos para optimizar la visibilidad en los motores de búsqueda y atraer al público objetivo. El título, "FitManager: Software Integral de Gestión para Gimnasios y Estudios Fitness", es descriptivo e incluye palabras clave relevantes. La descripción proporciona un resumen conciso de los beneficios y funcionalidades principales del software, invitando a los dueños de gimnasios y estudios a digitalizar su gestión. Las palabras clave listadas abarcan los términos de búsqueda más probables que utilizarían los interesados en este tipo de solución. Finalmente, se identifica a "FitFlow" como el autor del software, reforzando la marca.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bb742ab-ea1c-40d2-a758-d52dd5187293" alt="Meta tags parte 2">
+</p>
+
+A continuación, se presenta un ejemplo de las etiquetas SEO y meta tags que se implementarían en una de las secciones de la aplicación web. El título "Resumen General | FitManager" identifica la sección. La descripción explica que esta página ofrece una vista en tiempo real del estado del gimnasio con métricas clave (miembros activos, reservas, asistencia). Las palabras clave facilitan la búsqueda de esta función (dashboard gimnasio, resumen gimnasio). "FitFlow" es el autor.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7e92220-dd6e-49a1-9ff4-538b972c2663" alt="Meta tags parte 3">
+</p>
+
+### 4.2.4 Searching Systems
+
+En FitManager, los sistemas de búsqueda han sido diseñados con el objetivo de ofrecer a los usuarios , principalmente administradores y personal de gimnasios, una herramienta ágil, clara y eficiente para localizar datos relevantes dentro de la plataforma. Considerando la cantidad de información que puede generarse en un entorno administrativo (reservas, ingresos, clases, personal, clientes, etc.), el sistema de búsqueda juega un papel fundamental para evitar la sobrecarga cognitiva y mejorar la productividad diaria.
+
+**Barra de búsqueda universal**
+
+Ubicada en la parte superior de la interfaz, la barra de búsqueda actúa como el núcleo del sistema de búsqueda de FitManager. A través de ella, los usuarios pueden ingresar palabras clave relacionadas con:
+* Nombres de clientes o usuarios
+* Clases específicas
+* Entrenadores
+La barra cuenta con autocompletado inteligente, lo que permite que, a medida que el usuario escribe, se sugieran coincidencias basadas en registros existentes y búsquedas frecuentes anteriores.
+
+**Filtros específicos por módulo**
+Luego de ingresar una búsqueda general, el sistema despliega los resultados organizados por categorías y habilita filtros dinámicos según el tipo de dato. Algunos ejemplos incluyen:
+* Clientes
+ * Filtrar por: tipo de membresía, estado de cuenta, frecuencia de asistencia.
+* Clases
+ * Filtrar por: disciplina (yoga, spinning, etc.), nivel de dificultad, disponibilidad de cupo, instructor asignado.
+* Reservas
+ * Filtrar por: estado (confirmada, cancelada, vencida), fecha, usuario asociado.
+* Pagos
+ * Filtrar por: estado (pagado, pendiente), método (efectivo, tarjeta), monto, fecha.
+* Personal
+ * Filtrar por: rol (entrenador, recepcionista, administrador), horarios asignados, antigüedad.
+
+Cada uno de estos filtros se presenta en forma de pestañas desplegables o checklists, lo que facilita al usuario afinar su búsqueda sin abandonar la página actual.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac8972b3-df84-43f8-95cf-96996fe3d912" alt="Personal Búsqueda">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54a9ab70-faf9-493e-819a-7c8fba905110" alt="Búsqueda">
+</p>
+
+
+
