@@ -755,6 +755,36 @@ Lista de Términos
 
 A continuación se presenta el mapa de impacto elaborado para FitFlow, usando la herramienta de Miro. Este mapa parte de metas de negocio claras, identifica a los actores clave, describe los impactos esperados y define entregables y user stories que guían el desarrollo de la solución digital.
 
+**Business Goals 1: Aumentar reservas eficientes**
+Objetivo SMART: Alcanzar al menos 1,000 reservas de clases mensuales a través de la plataforma en un plazo de 6 meses.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3281883a-dcaa-4b88-976f-f057cc315f1b" alt="IMPACT MAPPING 1">
+</p>
+
+**Business Goals 2: Mejorar la retención mediante seguimiento personalizado**
+Objetivo SMART: Lograr que el 70% de los usuarios activos consulten y actualicen su progreso al menos una vez por semana en 4 meses.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7016278e-fce4-4e8a-a39a-08789c9202a2" alt="IMPACT MAPPING 2">
+</p>
+
+**Business Goals 3: Incrementar la automatización de pagos**
+Objetivo SMART: Alcanzar el 90% de pagos de membresía realizados de forma online a través de la plataforma en 5 meses.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95b5aa4e-7ec3-4a5e-97b9-039ee7c0fa90" alt="IMPACT MAPPING 3">
+</p>
+
+**Business Goals 4: Mejorar la comunicación entre la plataforma y los usuarios**
+Objetivo SMART: Conseguir que el 80% de los usuarios habiliten las notificaciones personalizadas y administrativas en los próximos 3 meses.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82008781-4b53-4421-af02-1e9c088da844" alt="IMPACT MAPPING 4">
+</p>
+
+**Business Goals 5: Generar interés y solicitudes de información sobre FitManager**
+Objetivo SMART: Obtener 50 formularios de contacto para demo o consulta desde la landing en un lapso de 2 meses.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/299faefb-f0f8-4e0f-aec5-40f6c046a00c" alt="IMPACT MAPPING 4">
+</p>
+
 ## 3.4. Product Backlog
 
 | # | User Story ID | Descripción | Story Points |
@@ -1254,3 +1284,325 @@ Esta es la pantalla para añadir un nuevo miembro. En ella se presenta un formul
   <img src="https://github.com/user-attachments/assets/a3af1892-96ef-4946-b2e1-58738fae61f1" alt="Wireflow 4">
 </p>
 
+### 4.4.3. Web Applications Mock-up
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94752986-750a-4610-a915-da197b44fbf3" alt="Inicio sesion mockup">
+</p>
+
+El mockup de inicio de sesión de FitManager tiene una estructura centrada en email y contraseña, con un botón principal claro. Ofrece acceso rápido con Google y Apple, enlaces para olvidar contraseña y crear cuenta. Su diseño es limpio, legible y con opciones de seguridad. El logo refuerza la marca.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e58d1ad1-9411-49fe-856f-949eaad3f034" alt="Resumen general mockup">
+</p>
+
+En la sección de "Resumen General", FitManager presenta una estructura de paneles informativos diseñada para ofrecer una visión rápida y completa del estado del gimnasio. Los paneles superiores destacan las métricas clave con números grandes y visualizaciones de tendencias para una fácil interpretación del rendimiento general. El gráfico de barras central de "Asistencia hoy" proporciona detalles horarios de la actividad, mientras que la lista de "Clases de Hoy" ofrece una visión cronológica de la programación. Los paneles inferiores resumen los indicadores financieros y de crecimiento, también con visualizaciones de tendencias. La organización modular y el uso consistente de iconos y colores facilitan la lectura y la comprensión de la información, permitiendo a los administradores obtener una perspectiva general del negocio de un vistazo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d52ba736-8fb1-4e80-ab89-8834be6a0293" alt="Calendario mockup">
+</p>
+
+En la sección de “Calendario”, FitManager presenta una estructura de navegación temporal clara con una vista de calendario mensual principal que facilita la visualización general de la programación. Los botones de navegación permiten un desplazamiento intuitivo entre períodos de tiempo, y las pestañas "Día", "Semana", "Mes" ofrecen diferentes granularidades de la agenda. Un calendario miniatura adicional en la parte inferior izquierda proporciona un contexto temporal más amplio y una forma alternativa de seleccionar fechas. A la derecha, el panel contextual del día seleccionado organiza la información relevante en "Avisos" destacados y una lista detallada de "Clases Programadas" con sus horarios. El uso de colores sutiles para indicar la fecha actual y los elementos interactivos, junto con una tipografía legible, contribuye a una interfaz de usuario funcional y fácil de entender.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c118367c-c2cb-46c0-b493-954f69cae977" alt="Personal mockup">
+</p>
+
+En la sección de "Personal", FitManager utiliza una tabla organizada y filtrable  para presentar la lista de empleados, con columnas relevantes como "Nombre", "Edad", "Rol", "Sueldo/h" y "Horas/s". La barra de búsqueda y el filtro permiten una localización eficiente de empleados específicos. Al seleccionar un empleado, se activa un panel lateral detallado que muestra una fotografía, información personal y laboral relevante, y botones de acción directos. Esta estructura de lista con detalles contextuales facilita la gestión individual de cada miembro del personal sin necesidad de navegar a otras secciones. La claridad de la tabla y la accesibilidad de las acciones contribuyen a una interfaz de usuario eficiente para la administración del personal.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77e9fb5c-d7c6-4d6a-80d0-74c0fee9b205" alt="Miembros mockup">
+</p>
+
+La sección de "Miembros" sigue un modelo de diseño similar a la sección de "Personal", presentando una tabla organizada y filtrable con información clave de cada miembro: "Nombre", "Edad", "Estado M", "Tipo M" y "Caducidad". Al igual que en "Personal", una barra de búsqueda y un filtro facilitan la localización de miembros específicos, y un botón permite agregar nuevos registros. Al seleccionar un miembro, se despliega un panel lateral detallado con su fotografía, información personal y de membresía, y botones de acción directos. Esta consistencia en el patrón de diseño entre las secciones de "Personal" y "Miembros" mejora la usabilidad y la curva de aprendizaje al ofrecer una experiencia familiar para la gestión de diferentes tipos de registros dentro de la aplicación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2d9b1f5-bc56-40e3-868b-7236910992c9" alt="Clases mockup">
+</p>
+
+En la sección de "Clases", FitManager utiliza una tabla detallada y organizada para presentar la programación de las actividades, incluyendo información relevante como "Nombre", "Tipo", "Entrenador", "Fecha", "Hora", "Duración", "Inscritos", "Estado" y acciones disponibles. Una barra de búsqueda y un filtro en la parte superior facilitan la localización de clases específicas. La codificación visual del estado de cada clase permite una rápida identificación de la situación de cada actividad. Las acciones por fila ofrecen un acceso directo a la gestión de cada clase. La estructura clara de la tabla y el uso de elementos visuales intuitivos contribuyen a una interfaz de usuario eficiente para la administración de la oferta de clases del gimnasio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/640bf21f-9b1e-4707-9edc-68ea868451e6" alt="Reservas mockup">
+</p>
+
+La sección de "Reservas" comparte un diseño muy similar a la sección de "Clases", utilizando una tabla organizada y filtrable para presentar la información de las inscripciones a las actividades. Se incluyen detalles como "Id Reserva", "Usuario", "Clase", "Entrenador", "Fecha", "Hora", "Estado" y acciones disponibles. Al igual que en "Clases", una barra de búsqueda y un filtro facilitan la localización de reservas específicas, y se ofrece un botón para agregar nuevas reservas. El estado de la reserva se indica claramente en cada fila. Las acciones por fila permiten una gestión directa de las inscripciones. Esta coherencia en el diseño de la tabla y las funcionalidades entre "Clases" y "Reservas" mejora la usabilidad al ofrecer un patrón familiar para la administración de la programación y las inscripciones.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efa2c4ea-c289-4234-9dd9-edd227472824" alt="Ingresos mockup">
+</p>
+
+En la sección de "Ingresos y Pagos", FitManager presenta una combinación de visualizaciones y datos tabulares para ofrecer una comprensión integral de la situación financiera. El gráfico de líneas superior ilustra la evolución de los ingresos por tipo de suscripción a lo largo del tiempo, facilitando la identificación de tendencias. El panel de "Información General" a la derecha proporciona un resumen conciso de las métricas financieras clave, incluyendo ganancias, ingresos y gastos. La tabla inferior detalla los registros de pagos individuales con información relevante como ID, destinatario/pagador, concepto, monto y fecha, permitiendo un seguimiento granular de las transacciones. La barra de búsqueda sobre la tabla facilita la localización de pagos específicos. Esta disposición en múltiples paneles permite a los usuarios obtener tanto una visión general como detalles específicos de los ingresos y pagos del gimnasio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78e4db28-8929-4b57-9e2d-e40be5b0a8b1" alt="Asistencia mockup">
+</p>
+
+En la sección de "Asistencia", FitManager utiliza una "Mapa de calor semanal" como elemento visual principal para representar la intensidad de la asistencia a lo largo de la semana y las horas del día, facilitando la identificación rápida de los horarios de mayor y menor actividad. Los colores cálidos indican mayor asistencia, mientras que los colores fríos indican menor. A la derecha, los paneles de "Resumen semanal" y "Resumen histórico" presentan datos cuantitativos clave, como la asistencia total por día, promedios diarios, faltas, porcentaje de asistencia general, hora pico, días de mayor y menor asistencia, y el usuario más frecuente. Esta combinación de una representación visual intuitiva y datos numéricos concisos permite a los administradores comprender y analizar los patrones de asistencia del gimnasio de manera eficiente.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/798b62d5-5090-405b-9798-a5aa397c6131" alt="Notificaciones mockup">
+</p>
+
+En la sección de "Notificaciones", FitManager presenta una estructura de gestión de comunicaciones centralizada. El panel superior de "Métricas de notificación" ofrece una visión general del volumen y el estado de las notificaciones. El panel de "Crear notificación" proporciona un formulario intuitivo para redactar y configurar nuevos mensajes, permitiendo especificar el título, cuerpo, destinatarios (con opciones flexibles), icono, fecha y hora de envío, y canales (Correo, SMS). Los botones de "Guardar", "Programar" y "Vista Previa" guían el proceso de creación. A la derecha, el "Historial de notificaciones" muestra un registro de las notificaciones enviadas y recibidas, organizadas por fecha y con detalles relevantes. El uso de iconografía clara y consistente para los tipos de notificaciones y las acciones, junto con una organización lógica de los campos y los paneles, facilita la gestión y el seguimiento de las comunicaciones con los miembros y el personal.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/811183e9-29de-480b-b244-a6ee5b5dbf1b" alt="Perfil mockup">
+</p>
+
+En la sección de "Mi Perfil", FitManager presenta una vista personalizada y organizada de la información del usuario. La parte superior muestra elementos de identificación visual como una imagen de perfil (del gimnasio), el nombre de usuario y el rol. La información se divide en dos paneles principales: "Información Personal" a la izquierda, con detalles de la cuenta y botones de acción claros para "Editar cuenta" y "Cerrar sesión" destacados visualmente. A la derecha, el panel de "Ajustes generales" permite la configuración de preferencias de la aplicación como idioma, unidad de medida, zona horaria, notificaciones y moneda, presentados en campos desplegables para facilitar la selección. El uso de iconografía intuitiva para los encabezados de los paneles y una tipografía legible contribuyen a una interfaz clara y fácil de usar para la gestión de la cuenta personal.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54835863-c640-4e99-9499-506bbcec243e" alt="Búsqueda general mockup">
+</p>
+
+La barra de búsqueda, ubicada prominentemente en la parte superior central, demuestra un diseño intuitivo y eficiente para la localización de información. Al ingresar el término "Sal", se despliega inmediatamente un menú desplegable que sugiere resultados coincidentes: "Salomón Pereira", "Mohammed Salah", "Sally Saenz" y "Clases Salsa". Esta funcionalidad de autocompletado y sugerencias en tiempo real reduce el esfuerzo del usuario al anticipar sus posibles consultas y acelerar el proceso de búsqueda. La presentación de resultados relevantes tanto de miembros como de clases dentro del mismo menú ofrece una organización flexible de la información, permitiendo al usuario acceder rápidamente a diferentes tipos de datos relacionados con su búsqueda. La claridad visual del menú desplegable y la facilidad para seleccionar un resultado contribuyen a una experiencia de usuario fluida y eficaz.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89c0a777-9f6a-41bd-899b-ae81947f55a2" alt="Detalle clase mockup">
+</p>
+
+Al seleccionar el icono de visualización en la lista de clases, FitManager despliega una ventana modal centrada que presenta información detallada sobre la clase específica. La información se organiza de forma clara y estructurada en dos columnas principales. A la izquierda, se detallan los atributos de la clase. A la derecha, se muestra una Lista de participantes, proporcionando los nombres de los usuarios inscritos en la clase. La etiqueta clara y concisa de cada dato facilita su comprensión. Un botón de "Editar" en la parte superior derecha permite acceder a la modificación de la información de la clase directamente desde esta vista. La modalidad centrada asegura que la atención del usuario se enfoque en los detalles de la clase seleccionada sin perder el contexto de la lista general.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cfdc4a7-b250-46a7-90fd-820ae908de00" alt="Eliminar clase mockup">
+</p>
+
+Al seleccionar el icono de eliminación de una clase, FitManager despliega una ventana modal de confirmación centrada con la pregunta clara "¿Estás seguro de que deseas eliminar esta clase?". Esta acción preventiva busca evitar eliminaciones accidentales. Debajo de la pregunta, se muestra un resumen conciso de la clase a eliminar, proporcionando al usuario el contexto necesario para tomar una decisión informada. Se ofrecen dos botones de acción claramente diferenciados: un botón secundario "Cancelar" para mantener la clase y cerrar la ventana, y un botón primario en color rojo "Eliminar clase" para confirmar la acción destructiva. La prominencia del botón de eliminación en rojo advierte sobre la irreversibilidad de la acción. La modalidad centrada y el lenguaje claro aseguran que el usuario comprenda la pregunta y las opciones disponibles antes de proceder.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad5aefb5-564f-4771-8a0f-03195ddfc18f" alt="Agregar miembro mockup">
+</p>
+
+Al seleccionar el botón "Agregar Miembro", FitManager despliega una ventana modal centrada con el título claro "Añadir miembro", guiando al usuario a través del proceso de incorporación de un nuevo cliente. El formulario presenta campos de entrada claramente etiquetados para la información esencial del miembro. A la derecha, se incluyen campos específicos para la información de la membresía: Tipo de membresía (con un menú desplegable), Fecha de inicio y Fecha de fin (con selectores de calendario), y la opción de seleccionar una Foto de perfil. La organización lógica de los campos, agrupando la información personal y los detalles de la membresía, facilita la entrada de datos. Se ofrecen dos botones de acción claramente diferenciados en la parte inferior: "Cancelar" para cerrar el formulario sin guardar y "Añadir miembro" en color azul para confirmar y guardar la nueva entrada. La modalidad centrada asegura que el usuario se enfoque en la tarea de agregar un nuevo miembro sin interactuar con el resto de la interfaz.
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b8c17cc-8daa-4d5a-ba12-790a36813c28" alt="User flow 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78df650f-83a0-46f2-9b09-0873fdb94917" alt="User flow 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/449dc512-c1b8-403f-893c-fbabe7443b23" alt="User flow 3">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6871e438-fbe9-44d5-8d26-a28e178c3a50" alt="User flow 4">
+</p>
+
+## 4.5. Web Applications Prototyping
+
+Como parte del proceso de diseño de la aplicación móvil, se elaboraron wireframes y mockups detallados que sirvieron como base para la construcción del prototipo interactivo. Los wireframes permitieron definir la estructura general de cada pantalla, priorizando la organización del contenido y la navegación fluida. Posteriormente, se desarrollaron mockups de alta fidelidad que representaron visualmente la interfaz final, incorporando elementos gráficos, iconografía y jerarquías visuales consistentes. Estas representaciones visuales facilitaron la validación temprana del diseño, permitiendo detectar oportunidades de mejora antes del desarrollo. El uso combinado de wireframes y mockups contribuyó significativamente a garantizar una experiencia de usuario coherente, accesible y centrada en las necesidades reales de los usuarios finales.
+
+## 4.6. Domain-Driven Software Architecture
+
+El Domain-Driven Software Architecture extiende los principios del Domain Driven Design a la estructura general de un sistema de software. En lugar de centrarse únicamente en el modelo del dominio dentro de un contexto delimitado, busca organizar todo el sistema en torno a los diferentes subdominios del negocio. Cada subdominio se puede implementar como un servicio o un módulo autónomo, con su propio modelo de dominio explícito y un lenguaje ubicuo compartido entre los expertos del dominio y el equipo de desarrollo responsable de ese subdominio. Esta arquitectura promueve la independencia y la cohesión dentro de cada subdominio, facilitando la escalabilidad, la mantenibilidad y la alineación del software con las necesidades del negocio.
+
+### 4.6.1. Software Architecture Context Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d900d5f8-2d94-42d9-8e65-43afbef5de5c" alt="Diagrama contexto">
+</p>
+
+### 4.6.2. Software Architecture Container Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bb3b07d-8854-4290-9265-944088c0c41d" alt="Diagrama contenedores">
+</p>
+
+### 4.6.3. Software Architecture Components Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71b6810d-effa-4680-b372-25e142a4440d" alt="Diagrama componentes">
+</p>
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c373003-35df-4a94-8b17-33c674e67311" alt="Diagrama clases">
+</p>
+
+### 4.7.2. Class Dictionary
+
+* Personal: Esta es una clase que define los atributos y comportamientos comunes a todos los empleados del gimnasio. Su principal función es servir como plantilla para los diferentes roles de personal, como limpieza, marketing, recepcionista y entrenador.
+* Limpieza: Esta clase hereda de Personal y representa específicamente a los empleados encargados del mantenimiento y la limpieza de las instalaciones del gimnasio. 
+* Marketing: Esta clase hereda de Personal y representa a los empleados responsables de las actividades de promoción y publicidad del gimnasio. 
+* Recepcionista: Esta clase hereda de Personal y representa a los empleados que interactúan directamente con los clientes en la recepción del gimnasio. 
+* Entrenador: Esta clase hereda de Personal y representa a los instructores que dirigen las clases en el gimnasio. Tiene una relación directa con la clase Clase (ya que un entrenador imparte una clase).
+* Miembro: Esta clase representa a los clientes que utilizan los servicios del gimnasio. Su función principal es almacenar la información de los usuarios activos. Tiene relaciones con Membresía, Reserva, Pago, Asistencia y Clase.
+* Notificación: Esta clase representa los mensajes que el sistema envía a los usuarios, ya sean miembros o personal. Tiene una relación con la clase Personal y Miembro (para identificar al destinatario).
+* Pago: Esta clase representa cada transacción financiera realizada por un miembro para acceder a los servicios del gimnasio. Su función principal es registrar la información del pago, como la fecha, el monto y el método utilizado. Tiene una relación directa con la clase Miembro.
+* HistorialPagos: Esta clase sirve como un registro permanente de todas las transacciones de pago realizadas por los miembros a lo largo del tiempo.
+* Membresía: Esta clase define los diferentes tipos de suscripciones que ofrece el gimnasio, con sus características. Tiene una relación con la clase * Miembro (indicando qué membresía tiene un cliente).
+* Clase: Esta clase representa una sesión de actividad física específica ofrecida por el gimnasio, con un entrenador asignado. Su función principal es definir la oferta de actividades del gimnasio.
+* RegistroClases: Esta clase parece llevar un registro de todas las clases que se han impartido en el gimnasio.
+* Reserva: Esta clase representa la acción de un miembro de inscribirse en una Clase específica para una fecha y hora determinadas.
+* HistorialReservas: Similar a HistorialPagos, esta clase mantiene un registro de todas las reservas realizadas por los miembros. 
+* Asistencia: Esta clase registra la presencia de un miembro en el gimnasio en un momento específico. Su función principal es llevar un control de quién asiste y cuándo. Puede estar relacionada con la asistencia a una Clase específica.
+* HistorialAsistencia: Esta clase mantiene un registro completo de todas las veces que los miembros han asistido al gimnasio, proporcionando datos para análisis de uso y tendencias. 
+* GestorClasesReserva: Esta clase tiene la función específica de coordinar el proceso de creación de una Reserva para una Clase, asegurándose de que se asocie correctamente el Miembro a la Clase y gestionando la disponibilidad de cupos. Actúa como un intermediario entre Miembro y Clase (a través de Reserva).
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cf8d004-a8c8-4cf6-8df5-89ff69c6008a" alt="Diagrama clases">
+</p>
+
+# CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT
+
+## 5.1. Software Configuration Management
+
+El Software Configuration Management (SCM) desempeña un papel esencial en el proceso de desarrollo, ya que permite mantener el control y la consistencia de versiones y configuraciones durante todo el ciclo de vida del producto. De acuerdo con Configu Editorial Team (2024), el SCM promueve una colaboración eficiente entre los equipos, facilita el manejo de cambios complejos y asegura que todos los involucrados trabajen dentro de un entorno uniforme y alineado.
+
+### 5.1.1. Software Development Environment Configuration
+
+| Producto             | Propósito en el Proyecto                                   | Categoría              | Ruta de Descarga / Acceso                            | Descripción |
+|----------------------|------------------------------------------------------------|-------------------------|------------------------------------------------------|-------------|
+| JetBrains Rider      | Desarrollo del backend en C#                               | Software Development    | https://www.jetbrains.com/rider/                     | JetBrains Rider es un entorno de desarrollo integrado (IDE) que proporciona herramientas avanzadas para desarrollar aplicaciones backend en C# de manera eficiente. |
+| JetBrains Toolbox    | Gestión centralizada de IDEs JetBrains                     | Software Development    | https://www.jetbrains.com/toolbox-app/              | JetBrains Toolbox es una aplicación que permite gestionar y actualizar todos los IDEs de JetBrains, facilitando su uso y mantenimiento dentro del proyecto. |
+| JetBrains WebStorm   | Desarrollo del frontend con Vue.js                         | Software Development    | https://www.jetbrains.com/webstorm/                 | WebStorm es un IDE ideal para desarrollo frontend con Vue.js, proporcionando funcionalidades como autocompletado, depuración y administración de proyectos. |
+| Node.js              | Entorno de ejecución para JavaScript / soporte Vue.js      | Software Development    | https://nodejs.org/                                 | Node.js es un entorno de ejecución para JavaScript que permite ejecutar código del lado del servidor, y es fundamental para integrar Vue.js en la aplicación. |
+| Vue.js               | Framework JavaScript para el frontend                      | Software Development    | https://vuejs.org/                                  | Vue.js es un framework progresivo para construir interfaces de usuario interactivas, permitiendo crear componentes dinámicos y reactivas en el frontend del proyecto. |
+| MySQL                | Gestión de base de datos del sistema                       | Software Development    | https://www.mysql.com/downloads/                    | MySQL es un sistema de gestión de bases de datos relacional utilizado para almacenar y gestionar datos en el backend, esencial para el sistema del gimnasio. |
+| Visual Studio Code   | Desarrollo de la landing page                              | Software Development    | https://code.visualstudio.com/                      | Visual Studio Code es un editor de código fuente ligero y potente que soporta múltiples lenguajes y es ideal para el desarrollo rápido de la landing page. |
+| Bootstrap            | Framework CSS para diseño responsivo de la landing page    | Software Development    | https://getbootstrap.com/                           | Bootstrap es un framework CSS que facilita el diseño de interfaces web responsivas, permitiendo que la landing page se vea correctamente en diferentes dispositivos. |
+| Swiper CSS           | Carruseles y sliders interactivos en la landing page       | Software Development    | https://swiperjs.com/                               | Swiper es una librería de JavaScript para crear sliders y carruseles interactivos, mejorando la experiencia de usuario en la landing page. |
+| AOS.js               | Animaciones de scroll en la landing page                   | Software Development    | https://michalsnik.github.io/aos/                   | AOS.js es una librería de animaciones de desplazamiento que agrega efectos visuales al hacer scroll en la landing page, mejorando su dinamismo y atractivo. |
+| GitHub               | Control de versiones y repositorio de código               | Software Development    | https://github.com/                                 | GitHub es una plataforma de alojamiento de código que permite controlar versiones, gestionar proyectos y colaborar de manera eficiente con equipos de desarrollo. |
+| GitHub Desktop       | Cliente visual de GitHub para gestión de repositorios      | Software Development    | https://desktop.github.com/                         | GitHub Desktop es una herramienta que permite gestionar repositorios de GitHub de manera visual y sencilla, facilitando el manejo de versiones del código fuente. |
+| Figma                | Diseño de interfaces y prototipos UI/UX                    | Product UX/UI Design    | https://www.figma.com/                              | Figma es una herramienta de diseño de interfaces que permite crear prototipos de alta fidelidad, ideal para la creación de la experiencia de usuario del proyecto. |
+| Lucidchart           | Diagramación de arquitectura, flujos y procesos            | Product UX/UI Design    | https://www.lucidchart.com/                         | Lucidchart es una herramienta de diagramación en línea que facilita la creación de flujos, mapas de procesos y diagramas de arquitectura, clave para planificar el sistema. |
+| Pivotal Tracker      | Gestión ágil de tareas y backlog del equipo                | Project Management      | https://www.pivotaltracker.com/                     | Pivotal Tracker es una herramienta de gestión ágil que permite gestionar el progreso de tareas, sprints y el backlog del equipo, esencial para la planificación de proyectos. |
+
+### 5.1.2. Source Code Management
+
+Para la gestión del código fuente en FitManager, se utilizará Git como sistema de control de versiones, implementando el modelo de trabajo GitFlow. Esta metodología permitirá llevar un seguimiento estructurado de los cambios en el código, facilitando tanto el desarrollo de nuevas funcionalidades como la corrección de errores. Los repositorios estarán alojados en GitHub y estarán organizados bajo una estructura de ramas clara. Además de la rama principal main, se crearán las siguientes ramas: develop, feature, release y hotfix. Esta estructura garantizará una colaboración eficiente y un acceso ordenado al proyecto por parte de todo el equipo.
+
+Repositorio de Frontend Web Applications: https://github.com/kistoo/FitManager/
+
+Repositorio del landing page: https://github.com/Nico1234556/FitManagerLanding
+
+Repositorio de los web services: https://github.com/kistoo/FitManager-Web-Services
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para mantener la coherencia, legibilidad y calidad del código fuente en FitManager, se seguirán convenciones de estilo claras y uniformes. Todo el código deberá escribirse siguiendo buenas prácticas como la correcta indentación, nombres de variables y funciones descriptivas, comentarios útiles y organizados, y separación lógica de responsabilidades. Asimismo, se establecerán convenciones específicas según el lenguaje y entorno utilizado.
+
+Espaciado
+
+El espaciado del código en FitManager seguirá una convención clara para asegurar legibilidad y facilitar el mantenimiento. Se utilizarán 2 espacios por nivel de indentación. Se dejará un espacio después de comas, operadores y palabras clave como if, for o while, y no se dejarán espacios innecesarios antes de paréntesis o llaves. Además, se incluirán líneas en blanco entre bloques de código lógico (como funciones o secciones dentro de una misma función) para mejorar la organización visual. Esta convención busca reducir la fricción durante el trabajo colaborativo y facilitar la revisión del código en equipos de desarrollo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eee32723-0221-4be7-8aec-841fde5353ea" alt="Espaciado">
+</p>
+
+Nomenclatura
+
+Para la denominación de entidades como archivos, variables y clases, se utilizará el idioma inglés, promoviendo así una mayor compatibilidad y comprensión en entornos de desarrollo globales. Los nombres se escribirán en minúsculas, y en caso de requerir la separación de palabras, se emplearán guiones en lugar de espacios. Esta convención no solo mejora la claridad, sino que también favorece la uniformidad en el código, facilitando su comprensión, mantenimiento y colaboración entre todos los miembros del equipo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06ddc334-8d62-4405-b085-005a9658ccff" alt="Nomenclatura">
+</p>
+
+Comentarios
+
+Los comentarios en FitManager serán utilizados de manera estratégica para mejorar la comprensión del código, sin recargarlo innecesariamente. Se emplearán para explicar secciones complejas, detallar la lógica detrás de ciertas decisiones de implementación o marcar tareas pendientes. Siempre se redactarán en inglés, de forma clara y concisa. Se evitarán comentarios obvios o redundantes que describan lo evidente. Además, se fomentará el uso de comentarios estructurados y consistentes para facilitar la lectura, especialmente en funciones extensas o con lógica crítica. Un buen comentario debe agregar valor y contexto al código, no simplemente repetir lo que ya se puede deducir a simple vista.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d26de96-cd89-4448-b32e-82e131a9ce61" alt="Comentarios 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83c0a3af-caf7-4810-aa18-e7d38e187def" alt="Comentarios 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c1ded73-fbd0-4d52-b3da-bee907772a4e" alt="Comentarios 3">
+</p>
+
+Commits
+
+Los mensajes de commit en FitManager seguirán una estructura clara y estandarizada para facilitar el seguimiento del historial de cambios y mejorar la colaboración en equipo. Cada mensaje debe ser breve pero descriptivo, redactado en tiempo presente y en inglés (por ejemplo: “Add 1.1.1. Section”, “Add payment component”). Se recomienda comenzar con un verbo que indique la acción realizada y evitar frases genéricas como “update” o “change” sin contexto. En caso de commits más complejos, se puede incluir un cuerpo adicional explicando el motivo del cambio o su impacto. Mantener esta convención ayuda a que el historial del repositorio sea legible y útil tanto para el equipo actual como para futuros desarrolladores.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/898779a4-c366-493b-8023-b05ce62db9d6" alt="Nomenclatura">
+</p>
+
+### 5.1.4. Software Deployment Configuration
+
+Para el proceso de despliegue, empleamos GitHub como plataforma principal, asegurándonos de seguir una serie de pasos estructurados para garantizar un flujo de trabajo eficiente y sin contratiempos. A continuación, describimos los pasos que seguimos para llevar a cabo el despliegue de manera ordenada y efectiva:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/608b510a-9bff-4a5d-a4ce-e63da3534595" alt="Paso 1 SDC">
+</p>
+
+Abrimos el repositorio de la landing page
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eb930ce-2f0e-4fc0-9468-d32d7cc562d9" alt="Paso 2 SDC">
+</p>
+
+Nos dirigimos a la sección "Settings" y le damos click a "Pages"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4228b25-956f-45ae-8ec6-a451ca9a21cf" alt="Paso 3 SDC">
+</p>
+
+Nos aseguramos que el source sea “Deploy from a branch”. Escogemos la rama que vamos a desplegar, en nuestro caso la rama main, escogemos el root y le damos a guardar
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f153d046-796d-4747-a33a-401ec501e76f" alt="Paso 4 SDC">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/235ca588-0cf0-489a-953b-f82b10faa8fa" alt="Paso 5 SDC">
+</p>
+
+Volvemos a la sección "Code" y veremos un punto amarillo, al cual le daremos click y luego se expandirá y tendremos que ir a "Details"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee348c3c-12e1-4f3b-98ed-bc29af27338e" alt="Paso 6 SDC">
+</p>
+
+Esperamos a que se terminen todas y luego nos dirigimos de vuelta a "Settings" y luego a "Pages"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aefab390-87b4-45cd-886c-2a55deaaa5d1" alt="Paso 7 SDC">
+</p>
+
+Podremos visualizar el link de la landing page y luego le damos click para visitarla
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9be33ab0-0b48-414a-a399-f26a5f2cef3b" alt="Paso 8 SDC">
+</p>
+
+La landing page ya está desplegada.
+
+## 5.2. Product Implementation & Deployment
+
+### 5.2.1. Sprint 1
+
+En esta sección se documenta el progreso alcanzado durante el Sprint 1 del proyecto FitManager, abordando tanto el desarrollo del producto como la dinámica de trabajo en equipo. Se detallan los objetivos planificados, la distribución de responsabilidades, el backlog de tareas y las evidencias del desarrollo y despliegue. Esta estructura permite visualizar de forma ordenada el avance logrado y sentar las bases para los siguientes ciclos de trabajo.
+
+#### 5.2.1.1. Sprint Planning
+
+| **Sprint #**                     | Sprint 1 |
+|----------------------------------|---------|
+|        | **Sprint Planning Background** |
+| Date                             | 22/04/2025 |
+| Location                         | Discord |
+| Prepared by                      | Victor Ortiz |
+| Attendees (to planning meeting)  | Juan Alvarado, Renzo Luque, Cassius Martel, Tomio Nakamurakare, Victor Ortiz |
+| Sprint 0 Review Summary          | Este es el primer sprint del proyecto, por lo tanto no existe un sprint anterior a evaluar. Las actividades previas se enfocaron en la ideación del producto, validación de problemas mediante entrevistas y elaboración del backlog inicial. |
+| Sprint 0 Retrospective Summary   | Se hizo el desarrollo de la introducción, requerimientos y diseño del producto de manera colaborativa y eficaz |
+|      | **Sprint Goal & User Stories** |
+| Sprint 1 Goal                    | Nos enfocaremos en desplegar la primera versión de la página de aterrizaje pública de FitManager. Creemos que esto aporta visibilidad y credibilidad a clientes potenciales (dueños y administradores de gimnasios), permitiéndoles conocer la propuesta de valor de la plataforma. Esto se confirmará cuando la página esté publicada, sea accesible y contenga secciones clave como sobre nosotros, nuestras funcionalidades, planes y contacto. |
+| Sprint 1 Velocity                | 12 |
+| Sum of Story Points              | 27 |
