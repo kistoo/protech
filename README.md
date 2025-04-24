@@ -1405,13 +1405,13 @@ El Domain-Driven Software Architecture extiende los principios del Domain Driven
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d900d5f8-2d94-42d9-8e65-43afbef5de5c" alt="Diagrama contexto">
+  <img src="https://github.com/user-attachments/assets/cd6c576e-1da6-4d06-8d4b-1d9419e96eff" alt="Diagrama contexto">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bb3b07d-8854-4290-9265-944088c0c41d" alt="Diagrama contenedores">
+  <img src="https://github.com/user-attachments/assets/7b71e2e6-c17a-4337-9775-51303d443dba" alt="Diagrama contenedores">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagram
@@ -1606,3 +1606,166 @@ En esta sección se documenta el progreso alcanzado durante el Sprint 1 del proy
 | Sprint 1 Goal                    | Nos enfocaremos en desplegar la primera versión de la página de aterrizaje pública de FitManager. Creemos que esto aporta visibilidad y credibilidad a clientes potenciales (dueños y administradores de gimnasios), permitiéndoles conocer la propuesta de valor de la plataforma. Esto se confirmará cuando la página esté publicada, sea accesible y contenga secciones clave como sobre nosotros, nuestras funcionalidades, planes y contacto. |
 | Sprint 1 Velocity                | 12 |
 | Sum of Story Points              | 27 |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member                         | Diseño UX | Diseño UI - Wireframes | Diseño UI - MockUps | Diseño Landing Page | Control de versiones |
+|-------------------------------------|-----------|-------------------------|----------------------|----------------------|-----------------------|
+| Alvarado De La Cruz, Juan Carlos   | C         | C                       | -                    | C                    | C                     |
+| Luque Minaya, Renzo Andrés         | C         | L                       | -                    | C                    | C                     |
+| Martel Andrade, Cassius Estefano   | L         | C                       | L                    | C                    | C                     |
+| Nakamurake Teruya, Alex Tomio      | C         | C                       | C                    | C                    | L                     |
+| Ortiz Alarcón, Victor Nicolás      | C         | C                       | C                    | L                    | C                     |
+
+#### 5.2.1.3 Sprint Backlog 1
+
+| Sprint #       | Sprint #1 |      |      |      |      |
+|----------------|-----------|------|------|------|------|
+|      | Work-Item / Task |      |      |      |      |
+| User Story ID  | Id   | Description                                         | Estimation (Hours) | Assigned To                        | Status     |
+| US14           | T01  | Crear la estructura de la sección principal         | 1                   | Luque Minaya, Renzo Andrés         | Done       |
+|                | T02  | Diseñar la parte visual de la sección principal     | 1                   | Luque Minaya, Renzo Andrés         | Done       |
+|                | T03  | Crear la estructura de la sección sobre nosotros    | 1                   | Nakamurake Teruya, Alex Tomio      | Done       |
+|                | T04  | Diseñar la parte visual de la sección sobre nosotros| 2                   | Nakamurake Teruya, Alex Tomio      | Done       |
+|                | T05  | Crear la estructura de la sección de muestra        | 1                   | Ortiz Alarcón, Victor Nicolás      | Done       |
+|                | T06  | Diseñar la parte visual de la sección de muestra    | 1                   | Ortiz Alarcón, Victor Nicolás      | Done       |
+| US15           | T07  | Crear la estructura de la sección de contacto       | 1                   | Alvarado De La Cruz, Juan Carlos   | Done       |
+|                | T08  | Diseñar la parte visual de la sección de contacto   | 1                   | Alvarado De La Cruz, Juan Carlos   | Done       |
+|                | T09  | Crear el formulario de contacto                     | 1                   | Alvarado De La Cruz, Juan Carlos   | Done       |
+| US16           | T10  | Crear la estructura de la sección de planes         | 1                   | Martel Andrade, Cassius Estefano   | Done       |
+|                | T11  | Diseñar la parte visual de la sección de planes     | 1                   | Martel Andrade, Cassius Estefano   | Done       |
+| US02           | T12  | Diseño UX sección horarios                          | 2                   | Luque Minaya, Renzo Andrés         | Done       |
+|                | T13  | Diseño UI sección horarios                          | 3                   | Luque Minaya, Renzo Andrés         | Done       |
+| US01           | T14  | Diseño UX sección calendario                        | 2                   | Ortiz Alarcón, Victor Nicolás      | Done       |
+|
+
+Icebox de las historias de usuario pendientes (no iniciadas en este sprint)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c733ecc4-6d21-41a1-9f0b-ebb1c9d1fc23" alt="Icebox US pendientes">
+</p>
+
+Historias de usuario empezadas y finalizadas del sprint
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a90172d6-d285-4ea7-b711-8da2a6d80b9a" alt="Icebox US sprint 1">
+</p>
+
+Épicas
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/943e82bd-5128-4978-9b9d-57a2380e77a7" alt="Épicas">
+</p>
+
+#### 5.1.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 1, el equipo completó todas las tareas asociadas al desarrollo de la primera versión del Landing Page de FitManager. Se desarrollo el header, la sección inicio, la sección sobre nosotros, la sección de muestra, la sección de planes, la sección de contacto y el footer. Respecto a la aplicación web, se realizó el diseño UX/UI para facilitar el avance de este en los siguientes sprints.
+
+| Repository                                                  | Branch              | Commit Id                                | Commit message                             | Commit Message Body | Commited on (Date) |
+|-------------------------------------------------------------|---------------------|-------------------------------------------|--------------------------------------------|----------------------|--------------------|
+| https://github.com/Nico1234556/FitManagerLanding            | feature/start       | 9de3cc2098d2030e78e46f7a32bd34cbc92af889  | iniciamos la landing muchachos             | -                    | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/error-404   | 46d7918588f1f346d7650cfac4fb2080a3a61f57  | error 404                                   | -                    | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/home        | 0260e775fad14d1dfb921dc9a89995f1b7b8d6a8  | feat:adding idex structure                 | -                    | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/styles      | e32b9db6cd7c07ab5644e1141176d8b996b8ef29  | feat: add video popup functionality and styling | -                | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/Contactanos | be1b17e184cdbe4625c64aee490b655e5f3c516e  | Contactanos                                 | -                    | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/planes      | 6702e74fcbd06fb6faeadc64533869ffd5dc0b45  | Pricing y estilos                           | -                    | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/muestra     | ffb97d747e787d36f58f4265b54115bace8f2e96  | agregamos muestra de horario y algunas funciones | -               | 22/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/about       | 2a2ca7b51007b5a2cfe86990719b6533806f4fa3  | Add about section                           | -                    | 23/04              |
+| https://github.com/Nico1234556/FitManagerLanding            | feature/fix         | f45faba3e6438a5b1efdaa1ca0b1ef38aeb4c1d0  | Fix "Muestras"                              | -                    | 23/04              |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1 se completó y desplegó la primera versión funcional del Landing Page de FitManager, logrando cumplir con el objetivo establecido en el Sprint Planning. Esta entrega incluyó el diseño, maquetación e implementación de las secciones informativas clave: descripción del producto, características principales, paquetes de suscripción, formulario de contacto y una galería visual del producto.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 1 no se desarrollaron Web Services ni endpoints funcionales, ya que el alcance del sprint estuvo centrado exclusivamente en el diseño, desarrollo y despliegue del Landing Page de FitManager. Por tanto, no se generó documentación técnica relacionada a APIs REST ni se utilizó OpenAPI.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Al cierre del Sprint 1, se logró el despliegue exitoso de la primera versión del Landing Page de FitManager, cumpliendo con los objetivos establecidos para esta iteración. A continuación, se detallan las evidencias del proceso de despliegue:
+
+Para el proceso de despliegue, empleamos GitHub como plataforma principal, asegurándonos de seguir una serie de pasos estructurados para garantizar un flujo de trabajo eficiente y sin contratiempos. A continuación, describimos los pasos que seguimos para llevar a cabo el despliegue de manera ordenada y efectiva:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/608b510a-9bff-4a5d-a4ce-e63da3534595" alt="Paso 1 SDC">
+</p>
+
+Abrimos el repositorio de la landing page
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eb930ce-2f0e-4fc0-9468-d32d7cc562d9" alt="Paso 2 SDC">
+</p>
+
+Nos dirigimos a la sección "Settings" y le damos click a "Pages"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4228b25-956f-45ae-8ec6-a451ca9a21cf" alt="Paso 3 SDC">
+</p>
+
+Nos aseguramos que el source sea “Deploy from a branch”. Escogemos la rama que vamos a desplegar, en nuestro caso la rama main, escogemos el root y le damos a guardar
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f153d046-796d-4747-a33a-401ec501e76f" alt="Paso 4 SDC">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/235ca588-0cf0-489a-953b-f82b10faa8fa" alt="Paso 5 SDC">
+</p>
+
+Volvemos a la sección "Code" y veremos un punto amarillo, al cual le daremos click y luego se expandirá y tendremos que ir a "Details"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee348c3c-12e1-4f3b-98ed-bc29af27338e" alt="Paso 6 SDC">
+</p>
+
+Esperamos a que se terminen todas y luego nos dirigimos de vuelta a "Settings" y luego a "Pages"
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aefab390-87b4-45cd-886c-2a55deaaa5d1" alt="Paso 7 SDC">
+</p>
+
+Podremos visualizar el link de la landing page y luego le damos click para visitarla
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9be33ab0-0b48-414a-a399-f26a5f2cef3b" alt="Paso 8 SDC">
+</p>
+
+La landing page ya está desplegada.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del Sprint 1, el equipo de FitManager mantuvo una dinámica de colaboración efectiva y constante. Al ser el primer sprint del proyecto, se establecieron acuerdos clave sobre la metodología de trabajo, herramientas de comunicación y canales para el seguimiento de tareas. A continuación, se muestra evidencia de la participación de cada uno de los miembros del equipo:
+
+# Conclusiones
+
+* Consideramos que nuestro equipo ha realizado un esfuerzo exhaustivo en la obtención y el análisis de los requisitos. Las diversas técnicas que empleamos, incluyendo entrevistas, needfinding, creación de user personas, journey maps, y más, nos han permitido obtener una comprensión profunda de las necesidades de los usuarios y las demandas del mercado. Este enfoque integral proporciona una base sólida para el desarrollo de un producto centrado en el usuario.
+* Nuestro equipo se ha adherido a un proceso de diseño estructurado y sistemático. Hemos avanzado lógicamente desde la especificación de los requisitos hasta el diseño detallado del producto, considerando cuidadosamente varios aspectos como la arquitectura de la información, el diseño de la interfaz de usuario/experiencia de usuario, la arquitectura del software y el diseño de la base de datos. Este enfoque organizado ha contribuido significativamente a la claridad y la coherencia del proyecto.
+* Hemos puesto un fuerte énfasis en la experiencia del usuario (UX) a lo largo del proyecto. La aplicación de los principios de Lean UX, el desarrollo de user personas detalladas y el diseño meticuloso de las interfaces de usuario y los flujos de usuario demuestran nuestro compromiso con la creación de un producto que no solo sea funcional, sino que también proporcione una experiencia agradable e intuitiva para los usuarios.
+* Nuestro equipo ha desarrollado una arquitectura de software bien definida, utilizando los principios del Domain Driven Design y creando diagramas detallados (Contexto, Contenedor, Componentes). Esto refleja nuestra comprensión de las mejores prácticas de diseño de software y proporciona un marco robusto para las etapas posteriores de implementación.
+* Hemos avanzado con éxito más allá de las fases de planificación y diseño y ya hemos logrado un progreso tangible en la implementación, como lo demuestra el trabajo completado durante el Sprint 1 para la landing page. Esto demuestra nuestra capacidad para traducir las especificaciones de diseño en entregables concretos y nuestro compromiso para llevar el producto a buen término.
+
+# Recomendaciones
+
+* Como equipo, recomendamos que prioricemos y refinemos continuamente el Product Backlog. Este debe ser un proceso continuo, informado por los comentarios de los usuarios y la evolución de los objetivos comerciales. Debemos enfocarnos en entregar las características más valiosas en las primeras versiones e iterar en función de las pruebas de usuario.
+* Recomendamos encarecidamente la implementación de una estrategia de pruebas integral que cubra todos los aspectos cruciales de la aplicación. Esta estrategia debe abarcar pruebas unitarias, pruebas de integración, pruebas de sistema y pruebas de aceptación del usuario para garantizar la calidad, la confiabilidad y la estabilidad del producto.
+* Nuestro equipo debe adherirse a un enfoque de desarrollo iterativo, caracterizado por sprints cortos y ciclos de retroalimentación frecuentes. Debemos priorizar la incorporación de los comentarios de los usuarios de forma temprana y frecuente para validar nuestras suposiciones y realizar los ajustes necesarios en el diseño y la funcionalidad.
+* Debemos enfatizar la importancia de mantener una documentación completa y actualizada de la arquitectura, el diseño y la implementación del sistema. Además, debemos fomentar una sólida cultura de intercambio de conocimientos dentro del equipo para garantizar la continuidad, facilitar la colaboración y agilizar los esfuerzos de desarrollo futuros.
+
+# Bibliografía
+
+Álvarez, A. (2020, 5 de agosto). 5W2H: Qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. LeanConstructionMexico. https://www.leanconstructionmexico.com.mx/post/5w2h-qu%C3%A9-significa-para-qu%C3%A9-sirve-c%C3%B3mo-aplicarla-y-algunos-ejemplos
+
+AppDesign. (2023). ¿Cuánto cuesta desarrollar una app? https://appdesign.dev/cuanto-cuesta-desarrollar-una-app/
+
+Booking Ninjas. (2024, 8 de mayo). Impact of Gym Management Software on the Fitness Industry. https://www.bookingninjas.com/blog/impact-of-gym-management-software-on-the-fitness-industry
+
+Chiroque, C. (2024). Uso de tecnología aumenta la productividad en las empresas hasta en un 40% en Perú, según Rankmi. Stornia. https://stornia.com/mundo/peru/tecnologia-pe/2024/10/09/uso-de-tecnologia-aumenta-la-productividad-en-las-empresas-hasta-en-un-40-en-peru-segun-rankmi/
+
+Cibanal, S. (2022). La transformación digital en los gimnasios. Trainingym. https://blog.trainingym.com/es/blog/la-transformacion-digital-en-los-gimnasios
+
+Data Bridge Market Research. (2024). Global Gym Management Software Market. https://www.databridgemarketresearch.com/es/reports/global-gym-management-software-market
+
+Gestión. (2024). La asistencia a gimnasios: entre la recesión y una mayor disposición al gasto. https://gestion.pe/economia/empresas/la-asistencia-a-gimnasios-entre-la-recesion-y-una-mayor-disposicion-al-gasto-empresas-peru-inversiones-impronta-research-noticia/?ref=gesr
+
+Ipsos Perú. (2024). Lima activa. https://www.ipsos.com/es-pe/lima-activa
+
+Shrivastava, M., Mishra, R., Patil, A., & Thakare, R. (2022). Digitalization in Gym Management System. International Journal of Research Publication and Reviews, 3(12), 354–358. https://ijrpr.com/uploads/V5ISSUE3/IJRPR23946.pdf
+
+Tandon, M. (2025, 22 de febrero). 100 Gym Membership Retention Statistics. Smart Health Clubs. https://smarthealthclubs.com/blog/100-gym-membership-retention-statistics/
