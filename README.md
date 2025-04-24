@@ -921,4 +921,28 @@ La organización de contenidos y funcionalidades responde a principios de simpli
 
 La organización jerárquica es la forma predominante en la navegación general de la aplicación, permitiendo a los usuarios moverse entre las diferentes áreas de gestión de manera estructurada. Dentro de tareas específicas, como crear una notificación o editar un perfil, se implementa una organización secuencial para guiar al usuario a través de los pasos necesarios para completar la acción.
 
-## olaaa
+Homepage Organization Systems Diagram
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf3cef76-f6d6-4800-a73b-79cf19128865" alt="Homepage Organization Systems Diagram">
+</p>
+
+Screens Organization Systems Diagram
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb5eb7b3-0cde-47a4-868c-9521ef7dc3a4" alt="Screens Organization Systems Diagram Parte 1">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be8387de-1048-4a0f-b157-73bac54ff375" alt="Screens Organization Systems Diagram Parte 2">
+</p>
+
+En los listados de FitManager, como los de "Miembros" y "Personal", se implementa un sistema de organización flexible que permite filtrar la información según diversos criterios. Esto significa que la categorización del contenido se adapta dinámicamente a las necesidades específicas del usuario. En lugar de una única forma predefinida de visualizar la lista, los usuarios pueden aplicar filtros basados en diferentes atributos
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/053bc363-ec89-4a3e-b330-f141fd800203" alt="Filtro búsqueda">
+</p>
+
+### 4.2.2. Labeling Systems
+
+La interfaz principal de FitManager ha sido diseñada para ofrecer una experiencia simple, intuitiva y eficiente para administradores de gimnasios, entrenadores personales y personal operativo. Toda la información relevante se presenta de forma visual y accesible en una sola pantalla, reduciendo el número de clics necesarios para obtener datos clave y optimizando la toma de decisiones en tiempo real. Las etiquetas utilizadas en la plataforma han sido seleccionadas con criterios de brevedad, claridad semántica y familiaridad para el usuario.
+
+Una vez dentro del sistema, el usuario interactúa principalmente con un panel lateral izquierdo que contiene accesos directos a las funcionalidades principales, todas organizadas con etiquetas concisas:
+
