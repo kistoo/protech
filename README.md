@@ -1247,7 +1247,7 @@ Esta es la pantalla para añadir un nuevo miembro. En ella se presenta un formul
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d27bbde5-069f-441d-abe7-fd44b5af0563" alt="Wireflow 3">
+  <img src="https://github.com/user-attachments/assets/deba852e-06ae-437e-9903-085d56fc76ab" alt="Wireflow 3">
 </p>
 
 <p align="center">
