@@ -1084,4 +1084,173 @@ La sección "Sobre Nosotros" se estructurará estratégicamente para abordar las
 
 La sección de "Planes" presentará tres opciones de suscripción mensual diferenciadas por sus funcionalidades y precios, permitiendo a los usuarios seleccionar la alternativa que mejor se ajuste a sus necesidades y presupuesto. Cada plan se describirá detalladamente, resaltando las características específicas que ofrece. Para facilitar la elección, se incorporarán botones de llamada a la acción visualmente atractivos y claramente etiquetados, invitando a los usuarios a seleccionar el plan de su preferencia.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b87713ac-7845-4fc1-a3a9-efcd9e123a12" alt="Contacto wireframe">
+</p>
+
+La sección de "Contacto" proporcionará a los usuarios múltiples vías para comunicarse con FitManager. Inicialmente, se ofrecerá un texto introductorio invitando al contacto para consultas o para descubrir cómo la plataforma puede beneficiar su negocio. A continuación, se detallará la información de contacto directa, incluyendo la dirección física, la dirección de correo electrónico, el número de teléfono y el horario de atención. Para facilitar una comunicación más inmediata, se integrará un formulario de contacto donde los usuarios podrán ingresar su nombre, correo electrónico, número de teléfono y escribir un mensaje directamente, con un botón claro para enviar su consulta.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14322d02-4141-41a6-b1c9-91568cc6beac" alt="Footer wireframe">
+</p>
+
+El footer de FitManager mostrará en columnas la ubicación y contacto (dirección, email, horario), enlaces rápidos a secciones clave (Sobre Nosotros, Planes, Contacto), y acceso a redes sociales. También incluirá el logo, un breve texto de la marca y un número de teléfono de contacto directo.
+
+### 4.3.2. Landing Page Mock-Ups
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6262d3cc-b653-43be-bb78-e57071bcd3be" alt="Home mockup">
+</p>
+
+En la sección de Home de la Landing Page, como se evidencia en la imagen, se aplican estos principios a través de una estructura clara del menú superior que segmenta la información clave y de un diseño visual que establece una jerarquía clara, con el mensaje principal destacado para captar la atención inicial. La navegación intuitiva se facilita con etiquetas concisas y una llamada a la acción prominente que guía al usuario hacia el siguiente paso. La imagen de fondo contextualiza la oferta, mientras que el uso estratégico del color contribuye a la legibilidad y a una experiencia de usuario positiva al presentar la propuesta de valor de FitManager de forma directa y atractiva.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/533b355f-60a3-438f-9cde-8dda2e7ce326" alt="About mockup parte 1">
+</p>
+
+En la sección "About", se organiza la información con un título claro y FAQs temáticas. Se aplica jerarquía visual, contraste para leer fácil, y FAQs interactivas para no saturar la página, mejorando la experiencia del usuario al explorar la información de FitManager.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02408b81-9e51-41bd-95d6-eb6a6959dc2b" alt="About mockup parte 2">
+</p>
+
+Se segmenta la información en categorías claras y concisas, facilitando la comprensión de las capacidades del software. Cada funcionalidad se describe brevemente con texto legible. La disposición en cuadrícula de estas funcionalidades ofrece una visión general organizada y permite al usuario explorar las características clave de manera eficiente. A la derecha, la inclusión de un reproductor de video prominente actúa como un elemento interactivo, atendiendo a diferentes preferencias de consumo de información y mejorando la experiencia del usuario al ofrecer una alternativa al texto estático.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1919f57-9cb9-43d5-9273-07eb78effcea" alt="About mockup parte 3">
+</p>
+
+La inclusión de "NUESTROS CLIENTES CONFIABLES" busca generar confianza a través de la prueba social. Además, el formulario de suscripción al boletín se integra para la captura de leads con una UI sencilla, demostrando una estrategia coherente de información y diseño para guiar y persuadir al usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e2ef3bc-d87f-4d64-ab97-691716dca8db" alt="Contacto mockup parte 1">
+</p>
+
+Se integra un mapa interactivo que visualiza la ubicación física de la empresa. Este elemento de diseño permite a los usuarios ubicar geográficamente las oficinas de FitManager, facilitando la planificación de visitas o simplemente ofreciendo una referencia visual de su presencia física. La inclusión del mapa mejora la accesibilidad y la transparencia de la información de contacto.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96e6b26f-78b9-4e5f-9d42-13d24dab4741" alt="Contacto mockup parte 2">
+</p>
+
+La sección "Contacto" de FitManager organiza la información esencial (dirección, correo, teléfono, horario) en un panel claro con iconos, separándola funcionalmente de un formulario directo para consultas. Esta estructura lógica y la interfaz con títulos destacados, iconos consistentes, campos claros y un botón prominente facilitan la rápida localización de datos y el envío de mensajes, ofreciendo accesibilidad y eficiencia al usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a85812e-f146-4e28-a135-345c5615f43e" alt="Footer mockup">
+</p>
+
+El pie de página de FitManager organiza la información clave en columnas claramente etiquetadas para facilitar la navegación y el acceso a datos esenciales como la dirección, el correo electrónico, el horario de atención, enlaces a otras secciones del sitio y perfiles en redes sociales. La inclusión del logo de FitManager y un breve texto reforzando la propuesta de valor busca mantener la identidad de marca y recordar los beneficios principales.
+
+## 4.4 Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a5e5794-46c4-4e30-91b7-f11ad61ce47e" alt="Inicio sesión wireframe">
+</p>
+
+La pantalla de inicio de sesión permitirá al usuario autenticarse en el sistema ingresando su correo electrónico y contraseña. Incluirá una opción para mostrar u ocultar la contraseña y un enlace para recuperarla en caso de olvido. También ofrecerá la posibilidad de iniciar sesión mediante cuentas de terceros como Google o Apple, así como un acceso directo para registrarse en caso de no contar con una cuenta.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cdf4fecd-15b7-494c-ad9f-4f455b319302" alt="Resumen general wireframe">
+</p>
+
+La pantalla de resumen general, que también funcionará como pantalla de inicio, presentará información clave del sistema. Mostrará métricas como el número total de miembros registrados y la cantidad de miembros activos en tiempo real. También se incluirá un gráfico con estadísticas relevantes y un calendario que mostrará las clases programadas para el día.
+En la parte superior se ubicará una barra de búsqueda que facilitará la navegación dentro de la aplicación web. A la izquierda, se encontrará un menú de navegación que permitirá acceder rápidamente a las distintas funcionalidades del sistema. Finalmente, en la esquina superior derecha se dispondrá un acceso rápido al perfil del usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ede0607-887b-4672-b25e-6c23d0aad1d8" alt="Calendario wireframe">
+</p>
+
+La pantalla de calendario presentará una vista mensual con indicadores visuales para clases, reservas y notificaciones importantes. Contará con un minicalendario para cambiar rápidamente de mes y una sección informativa que mostrará en detalle las actividades del día seleccionado.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8c0688d-d014-42dc-bc6c-0034a87b87e8" alt="Personal wireframe">
+</p>
+
+La pantalla de personal mostrará una lista con los miembros del equipo del gimnasio junto con información relevante. Esta lista incluirá un buscador para facilitar la búsqueda de un miembro específico, así como filtros para refinar los resultados. Además, se dispondrá de un botón para añadir nuevos miembros del personal. En la sección derecha de la pantalla, se visualizará un panel con los detalles del miembro seleccionado, incluyendo opciones como información de contacto y asignación de horarios.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/231e4b75-b906-41b2-adbd-d5e5228d1407" alt="Miembros wireframe">
+</p>
+
+La pantalla de miembros mostrará una lista con los integrantes del gimnasio, junto con información relevante como su nombre, estado y tipo de suscripción. Contará con un buscador para localizar rápidamente a un miembro específico, así como filtros para refinar la búsqueda. También incluirá un botón para añadir nuevos miembros.
+En la parte derecha de la pantalla se visualizará un panel con los detalles del miembro seleccionado. A diferencia de la pantalla de personal, las opciones disponibles estarán orientadas a la gestión del cliente, permitiendo ver su historial de pagos, su rutina asignada o enviarle notificaciones.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3701629-4e27-4b05-bd31-0b4cc772311f" alt="Clases wireframe">
+</p>
+
+La pantalla de clases mostrará una lista con todas las clases registradas, junto con información relevante como nombre, tipo, entrenador, fecha, hora y estado. Cada clase en la lista contará con opciones para visualizar más detalles, editar su información o eliminarla. Además, la pantalla incluirá un buscador con filtros para facilitar la localización de clases específicas, así como un botón para añadir nuevas clases al sistema.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d68fbd41-1a89-497a-9046-90b50972d198" alt="Reservas wireframe">
+</p>
+
+La pantalla de reservas mostrará una lista con todas las reservas realizadas, incluyendo información relevante como el usuario, la clase, el entrenador, la fecha, la hora y el estado de la reserva. Cada ítem de la lista ofrecerá opciones para ver más detalles o eliminar la reserva. Además, se incluirá un buscador con filtros para facilitar la búsqueda de reservas específicas, así como un botón para registrar nuevas reservas en el sistema.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bc32cdf-44f9-4448-9a14-1787ca359f2a" alt="Ingresos wireframe">
+</p>
+
+La pantalla de ingresos y pagos mostrará un gráfico con información relacionada a los ingresos, una sección con datos generales correspondientes y una lista con los pagos realizados, incluyendo su información relevante. Al igual que en la lista de reservas, cada ítem tendrá opciones para ver más detalles o eliminar el registro. Además, se incluirá un buscador con filtros para facilitar la localización de pagos específicos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ea12ec0-1ef0-4cb4-bdfa-6a3fd9b59669" alt="Asitencia wireframe">
+</p>
+
+En la pantalla de asistencia, la mayor parte del espacio estará ocupada por un mapa de calor que mostrará al usuario cuáles son las horas más concurridas de la semana. Además, contará con un apartado que incluye un resumen semanal y un resumen histórico de la asistencia.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e38059ab-35a3-404e-95eb-ea1ef5a4ff0d" alt="Notificaciones wireframe">
+</p>
+
+La pantalla de notificaciones permite gestionar y visualizar los mensajes enviados dentro del sistema. Incluye un panel superior con un resumen de notificaciones recientes, un formulario central para crear nuevos avisos con campos como título, cuerpo, destinatarios y fecha, y un panel lateral derecho con un historial filtrable de notificaciones por día. Esta interfaz facilita la comunicación entre el gimnasio, sus miembros y el personal, manteniendo una estructura clara e intuitiva dentro del entorno general de navegación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5bcd1fe-14eb-4db2-9037-c5c427af3348" alt="Perfil wireframe">
+</p>
+
+La pantalla de perfil mostrará información del usuario, así como ajustes generales de la aplicación, como el idioma, la zona horaria y las preferencias de notificaciones.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/158c1260-762d-4c66-ab3e-49949e2b9075" alt="Busqueda general wireframe">
+</p>
+
+Aquí se puede apreciar cómo funcionaría la barra de búsqueda general, mostrando un cuadro con los elementos que coincidan con los términos ingresados por el usuario.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74b7209a-f61c-4ff1-8009-501394bbed19" alt="Detalle clase wireframe">
+</p>
+
+Esta es la pantalla de detalle de clase, a la cual se accede al presionar “Ver más detalles” en alguna de las clases listadas en la pantalla de clases. Aquí se muestran más datos específicos sobre la clase, así como la lista de participantes inscritos.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8af3dcac-9c77-4408-ab56-472a5f71af75" alt="Eliminar clase wireframe">
+</p>
+
+Esta es la pantalla de eliminación de clase, a la cual se accede al presionar “Eliminar clase” en alguna de las clases listadas en la pantalla de clases. Aquí se muestra la información de la clase que se desea eliminar, junto con una confirmación para proceder con la eliminación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fd70f36-78ab-4b22-b594-2bf8d8a3b1ba" alt="Agregar miembro wireframe">
+</p>
+
+Esta es la pantalla para añadir un nuevo miembro. En ella se presenta un formulario con los datos personales del miembro a completar, así como información relacionada con su membresía. Al final, se incluyen dos opciones: una para confirmar el registro del nuevo miembro y otra para cancelar la operación.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b87d5169-2dc1-4af1-9588-4060739def88" alt="Wireflow 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a6439eb-8dc5-45e3-9c37-471282b4f987" alt="Wireflow 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d27bbde5-069f-441d-abe7-fd44b5af0563" alt="Wireflow 3">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3af1892-96ef-4946-b2e1-58738fae61f1" alt="Wireflow 4">
+</p>
 
