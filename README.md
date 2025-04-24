@@ -1026,5 +1026,62 @@ Cada uno de estos filtros se presenta en forma de pestañas desplegables o check
   <img src="https://github.com/user-attachments/assets/54a9ab70-faf9-493e-819a-7c8fba905110" alt="Búsqueda">
 </p>
 
+### 4.2.5. Navigation Systems
+
+En FitManager, los sistemas de navegación fueron diseñados para ofrecer una experiencia clara, eficiente y centrada en el usuario, tanto en la Landing Page como dentro de la aplicación web. La navegación permite a los usuarios cumplir fácilmente sus objetivos: revisar datos de asistencia, reservas, ingresos, pagos pendientes, así como administrar clases, personal y miembros.
+El menú de navegación superior de la Landing Page ha sido diseñado para ofrecer a los visitantes un acceso directo y eficiente a las diferentes áreas de interés del sitio. A través de enlaces claramente etiquetados, los usuarios pueden explorar las diversas secciones: "Home" para la página principal, proporcionando una visión general de FitManager; "Sobre Nosotros", donde se detalla la información acerca de FitFlow, la empresa desarrolladora; "Muestras", que ofrece ejemplos visuales de la interfaz y funcionalidades de la aplicación; "Planes", donde se presentan las diferentes opciones de precios y suscripción; y "Contacto", que facilita la comunicación con FitFlow a través de la información de contacto proporcionada.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/798be2fc-fa53-40ef-ad9d-da5c8e45cdea" alt="Menú navegación superior">
+</p>
+
+Uno de los componentes clave de navegación es el menú lateral izquierdo, el cual está presente de forma persistente en todas las pantallas. Este menú contiene accesos directos a las secciones principales:
+* Resumen General: Vista central del estado actual del gimnasio, con indicadores clave (miembros, ingresos, asistencia, etc.).
+* Calendario: Gestión visual de clases, horarios y reservas en formato semanal/mensual.
+* Personal: Administración del personal del gimnasio, su disponibilidad y asignaciones.
+* Miembros: Gestión de la base de datos de usuarios registrados, con su información y estatus.
+* Clases: Control y configuración de clases disponibles, horarios y entrenadores.
+* Reservas: Registro de reservas por parte de los miembros.
+* Ingresos y Pagos: Visualización de ingresos mensuales y gestión de pagos pendientes.
+* Asistencia: Control de la asistencia diaria por hora y por clase.
+* Notificaciones: Sistema de alertas y mensajes importantes para administradores y usuarios.
+* Ajustes: Configuración general de la plataforma.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb4fbb53-5b62-45f3-b476-b552153771e2" alt="Panel lateral izquierdo">
+</p>
+
+Cada ícono en el menú está acompañado por un nombre corto y representativo, lo que facilita la navegación incluso a usuarios con poca experiencia. Este menú mantiene siempre visible la estructura principal del sitio, reduciendo la posibilidad de desorientación.
+La navegación e interacción con la información contenida en las diversas listas de la aplicación se ha diseñado para ser intuitiva y ágil. Los usuarios tienen la capacidad de refinar su búsqueda mediante la aplicación de filtros específicos o la introducción de términos directamente en la barra de búsqueda. Al seleccionar un resultado coincidente dentro de la lista, el sistema despliega de forma inmediata una vista detallada con información relevante sobre el elemento seleccionado, ya sea un miembro del gimnasio, un empleado o cualquier otro tipo de registro gestionado por la plataforma. Adicionalmente, este panel de visualización detallada ofrece la funcionalidad de ejecutar acciones directamente sobre el elemento seleccionado, eliminando la necesidad de navegar a otras secciones de la aplicación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/552b1d72-d7cc-4a3b-802b-f53e2c9b3208" alt="Miembros navegación">
+</p>
+
+La organización jerárquica de la información dentro de la aplicación se ve reforzada por la implementación estratégica de elementos divisorios, como líneas y espacios en blanco, que ayudan a segmentar visualmente el contenido y a establecer relaciones entre los diferentes grupos de datos. Adicionalmente, la cuidadosa modulación del tamaño de los paneles contribuye a esta jerarquía visual, destacando la información más relevante mediante paneles de mayor tamaño o una ubicación preferente, mientras que los detalles secundarios se presentan en paneles más pequeños o en un segundo plano visual. 
+
+## 4.3. Landing Page UI Design
+
+Los wireframes y mockups de la Landing Page de FitManager se conciben siguiendo los principios fundamentales de la Arquitectura de la Información y el Diseño de Interfaz de Usuario . La AI se aplica para estructurar y organizar el contenido de manera lógica e intuitiva, facilitando la comprensión de la propuesta de valor y la navegación a través de las diferentes secciones informativas. Paralelamente, los principios de UI se integran para crear una interfaz visualmente atractiva, funcional y fácil de usar, considerando la jerarquía visual, el contraste, la legibilidad y la llamada a la acción, con el objetivo de guiar al usuario de manera efectiva hacia la conversión.
+
+## 4.3.1. Landing Page Wireframes
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70a92f7c-4fdb-4ee5-b7df-2d346338486d" alt="Home wireframe">
+</p>
+
+La sección de inicio presentará un eslogan impactante que articule la propuesta de valor central de la marca, acompañado de un botón de llamada a la acción estratégicamente diseñado para impulsar la interacción del usuario. Este conjunto se complementará con una imagen relevante que refuerce visualmente el mensaje clave.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f7d97b2-bb85-40f9-92da-8e908e5669d5" alt="Sobre Nosotros wireframe">
+</p>
+
+La sección "Sobre Nosotros" se estructurará estratégicamente para abordar las preguntas más frecuentes de los usuarios al inicio, buscando clarificar de inmediato el propósito y los beneficios fundamentales de FitManager. A continuación, se detallarán las funcionalidades principales de la plataforma, resaltando aquellas características más atractivas y valiosas para la gestión de gimnasios. Para generar confianza y credibilidad, se presentará un listado de clientes destacados que ya se benefician de FitManager. Finalmente, se ofrecerá a los visitantes la oportunidad de suscribirse a un boletín mensual.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60c94562-ccec-42b9-b082-9fa716d774bc" alt="Planes wireframe">
+</p>
+
+La sección de "Planes" presentará tres opciones de suscripción mensual diferenciadas por sus funcionalidades y precios, permitiendo a los usuarios seleccionar la alternativa que mejor se ajuste a sus necesidades y presupuesto. Cada plan se describirá detalladamente, resaltando las características específicas que ofrece. Para facilitar la elección, se incorporarán botones de llamada a la acción visualmente atractivos y claramente etiquetados, invitando a los usuarios a seleccionar el plan de su preferencia.
 
 
