@@ -1750,22 +1750,42 @@ Durante el desarrollo del Sprint 1, el equipo de FitManager mantuvo una dinámic
 
 # Bibliografía
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Álvarez, A. (2020, 5 de agosto). 5W2H: Qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. LeanConstructionMexico. https://www.leanconstructionmexico.com.mx/post/5w2h-qu%C3%A9-significa-para-qu%C3%A9-sirve-c%C3%B3mo-aplicarla-y-algunos-ejemplos
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 AppDesign. (2023). ¿Cuánto cuesta desarrollar una app? https://appdesign.dev/cuanto-cuesta-desarrollar-una-app/
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Booking Ninjas. (2024, 8 de mayo). Impact of Gym Management Software on the Fitness Industry. https://www.bookingninjas.com/blog/impact-of-gym-management-software-on-the-fitness-industry
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Chiroque, C. (2024). Uso de tecnología aumenta la productividad en las empresas hasta en un 40% en Perú, según Rankmi. Stornia. https://stornia.com/mundo/peru/tecnologia-pe/2024/10/09/uso-de-tecnologia-aumenta-la-productividad-en-las-empresas-hasta-en-un-40-en-peru-segun-rankmi/
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Cibanal, S. (2022). La transformación digital en los gimnasios. Trainingym. https://blog.trainingym.com/es/blog/la-transformacion-digital-en-los-gimnasios
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Data Bridge Market Research. (2024). Global Gym Management Software Market. https://www.databridgemarketresearch.com/es/reports/global-gym-management-software-market
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Gestión. (2024). La asistencia a gimnasios: entre la recesión y una mayor disposición al gasto. https://gestion.pe/economia/empresas/la-asistencia-a-gimnasios-entre-la-recesion-y-una-mayor-disposicion-al-gasto-empresas-peru-inversiones-impronta-research-noticia/?ref=gesr
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Ipsos Perú. (2024). Lima activa. https://www.ipsos.com/es-pe/lima-activa
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Shrivastava, M., Mishra, R., Patil, A., & Thakare, R. (2022). Digitalization in Gym Management System. International Journal of Research Publication and Reviews, 3(12), 354–358. https://ijrpr.com/uploads/V5ISSUE3/IJRPR23946.pdf
+</p>
 
+<p style="text-indent: -1.5em; margin-left: 1.5em;">
 Tandon, M. (2025, 22 de febrero). 100 Gym Membership Retention Statistics. Smart Health Clubs. https://smarthealthclubs.com/blog/100-gym-membership-retention-statistics/
+</p>
