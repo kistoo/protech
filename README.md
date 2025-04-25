@@ -1417,7 +1417,7 @@ El Domain-Driven Software Architecture extiende los principios del Domain Driven
 ### 4.6.3. Software Architecture Components Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71b6810d-effa-4680-b372-25e142a4440d" alt="Diagrama componentes">
+  <img src="https://github.com/user-attachments/assets/d27110ce-fcb7-4889-b39f-0a29eef2e47b" alt="Diagrama componentes">
 </p>
 
 ## 4.7. Software Object-Oriented Design
@@ -1425,35 +1425,30 @@ El Domain-Driven Software Architecture extiende los principios del Domain Driven
 ### 4.7.1. Class Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8c373003-35df-4a94-8b17-33c674e67311" alt="Diagrama clases">
+  <img src="https://github.com/user-attachments/assets/dcf9ca78-9aef-4b83-9453-786bd90a2aea" alt="Diagrama clases">
 </p>
 
 ### 4.7.2. Class Dictionary
 
-* Personal: Esta es una clase que define los atributos y comportamientos comunes a todos los empleados del gimnasio. Su principal función es servir como plantilla para los diferentes roles de personal, como limpieza, marketing, recepcionista y entrenador.
-* Limpieza: Esta clase hereda de Personal y representa específicamente a los empleados encargados del mantenimiento y la limpieza de las instalaciones del gimnasio. 
-* Marketing: Esta clase hereda de Personal y representa a los empleados responsables de las actividades de promoción y publicidad del gimnasio. 
-* Recepcionista: Esta clase hereda de Personal y representa a los empleados que interactúan directamente con los clientes en la recepción del gimnasio. 
-* Entrenador: Esta clase hereda de Personal y representa a los instructores que dirigen las clases en el gimnasio. Tiene una relación directa con la clase Clase (ya que un entrenador imparte una clase).
-* Miembro: Esta clase representa a los clientes que utilizan los servicios del gimnasio. Su función principal es almacenar la información de los usuarios activos. Tiene relaciones con Membresía, Reserva, Pago, Asistencia y Clase.
-* Notificación: Esta clase representa los mensajes que el sistema envía a los usuarios, ya sean miembros o personal. Tiene una relación con la clase Personal y Miembro (para identificar al destinatario).
-* Pago: Esta clase representa cada transacción financiera realizada por un miembro para acceder a los servicios del gimnasio. Su función principal es registrar la información del pago, como la fecha, el monto y el método utilizado. Tiene una relación directa con la clase Miembro.
-* HistorialPagos: Esta clase sirve como un registro permanente de todas las transacciones de pago realizadas por los miembros a lo largo del tiempo.
-* Membresía: Esta clase define los diferentes tipos de suscripciones que ofrece el gimnasio, con sus características. Tiene una relación con la clase * Miembro (indicando qué membresía tiene un cliente).
-* Clase: Esta clase representa una sesión de actividad física específica ofrecida por el gimnasio, con un entrenador asignado. Su función principal es definir la oferta de actividades del gimnasio.
-* RegistroClases: Esta clase parece llevar un registro de todas las clases que se han impartido en el gimnasio.
-* Reserva: Esta clase representa la acción de un miembro de inscribirse en una Clase específica para una fecha y hora determinadas.
-* HistorialReservas: Similar a HistorialPagos, esta clase mantiene un registro de todas las reservas realizadas por los miembros. 
-* Asistencia: Esta clase registra la presencia de un miembro en el gimnasio en un momento específico. Su función principal es llevar un control de quién asiste y cuándo. Puede estar relacionada con la asistencia a una Clase específica.
-* HistorialAsistencia: Esta clase mantiene un registro completo de todas las veces que los miembros han asistido al gimnasio, proporcionando datos para análisis de uso y tendencias. 
-* GestorClasesReserva: Esta clase tiene la función específica de coordinar el proceso de creación de una Reserva para una Clase, asegurándose de que se asocie correctamente el Miembro a la Clase y gestionando la disponibilidad de cupos. Actúa como un intermediario entre Miembro y Clase (a través de Reserva).
+* Personal: Representa a un empleado del gimnasio con información como nombre, salario y rol.
+* Clase: Representa una sesión de ejercicio programada con detalles como nombre, horario y tipo.
+* Notificacion: Representa un mensaje a ser enviado a un usuario, con contenido y tipo.
+* Miembro: Representa a un cliente del gimnasio con información personal.
+* EnvioNotis: Coordina el envío de notificaciones a los usuarios.
+* GestorClasesPersonal: Gestiona la asignación de personal (entrenadores) a las clases.
+* Reserva: Representa la reserva de un miembro para asistir a una clase.
+* GestionReservaClase: Gestiona el proceso de reserva de clases por parte de los miembros.
+* Asistencia: Registra la presencia de un miembro en una clase específica.
+* Pago: Representa una transacción de pago realizada por un miembro.
+* GestionPagoMiembro: Gestiona el procesamiento y registro de los pagos de los miembros.
+* Membresia: Representa el plan de suscripción que un miembro tiene con el gimnasio. 
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cf8d004-a8c8-4cf6-8df5-89ff69c6008a" alt="Diagrama clases">
+  <img src="https://github.com/user-attachments/assets/e57f9ad4-1714-4480-9e77-62605a1a2ff2" alt="Diagrama clases">
 </p>
 
 # CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT
