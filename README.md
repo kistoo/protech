@@ -10,7 +10,7 @@
 
 # Contenido
 
-- [CAPÍTULO 1: INTRODUCCIÓN](#CAPÍTULO-1:-INTRODUCCIÓN)
+- [CAPÍTULO 1: INTRODUCCIÓN](#cap-tulo-1--introducci-n)
   * [1.1. Startup Profile](#11-startup-profile)
     + [1.1.1. Descripción del Startup](#111-descripci-n-del-startup)
     + [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
@@ -26,7 +26,7 @@
 
 - [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#cap-tulo-2--requirements-elicitation---analysis)
   * [2.1. Competidores](#21-competidores)
-    + [2.1.1. Análisis Competitivo](#211-an-lisis-competitivo)
+    + [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
     + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-t-cticas-frente-a-los-competidores)
   * [2.2. Entrevistas](#22-entrevistas)
     + [2.2.1. Diseño de entrevistas](#221-dise-o-de-entrevistas)
