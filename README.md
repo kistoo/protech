@@ -25,7 +25,19 @@
 
 # Project Report Collaboration Insights
 
+Repositorio donde está el project report: https://github.com/FitFlow-AppWeb/FitManager
 
+Para el desarrollo del informe hemos trabajado en un google docs, y luego hemos pasado el contenido al readme del repositorio principal. A cada uno se le encargo subir un capítulo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10f7e376-a1bf-459a-81df-802ba9249fad" alt="Insights repositorio">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4179b65-5933-4b31-89d1-014545c03263" alt="Commits repositorio">
+</p>
+
+Si bien es cierto que uno de los miembros registra un mayor número de commits en el repositorio, esto se debe a que fue el encargado principal de realizar hotfixes, ajustes menores y correcciones de formato a lo largo del desarrollo del informe, asegurando su calidad final.
 
 # Contenido
 
@@ -131,6 +143,13 @@
 
 # Student Outcome
 
+ABET - EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|:------------------------|:-------------------------|:-----------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | - Alvarado De La Cruz, Juan Carlos (TB1) <br> - Luque Minaya, Renzo Andrés (TB1) <br> - Martel Andrade, Cassius Estefano (TB1) <br> - Nakamurakare Teruya, Alex Tomio (TB1) <br> - Ortiz Alarcón, Víctor Nicolás (TB1) | El equipo ha demostrado una capacidad significativa para funcionar de manera efectiva y proporcionar liderazgo de forma conjunta. La estructura del documento, desde la definición del perfil de la startup y el análisis de la problemática hasta la especificación de requisitos y el diseño del producto, refleja una distribución de tareas y responsabilidades donde cada miembro ha aportado su expertise. La aplicación de metodologías como Lean UX y Domain-Driven Design, junto con la planificación del diseño de la interfaz y la arquitectura del software, evidencia una visión compartida y una dirección coordinada, distribuyendo el liderazgo en las diferentes etapas del proyecto. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Alvarado De La Cruz, Juan Carlos (TB1) <br> - Luque Minaya, Renzo Andrés (TB1) <br> - Martel Andrade, Cassius Estefano (TB1) <br> - Nakamurakare Teruya, Alex Tomio (TB1) <br> - Ortiz Alarcón, Víctor Nicolás (TB1) | El trabajo realizado en FitManager ejemplifica la creación de un entorno colaborativo e inclusivo. La exhaustiva fase de Requirements Elicitation & Analysis, que incluyó entrevistas, needfinding y la creación de user personas, demuestra un esfuerzo por comprender las necesidades de los futuros usuarios a través de la participación activa y la empatía. El establecimiento de metas se ve reflejado en la definición clara de los objetivos del producto y los segmentos objetivo. La planificación de tareas es evidente en la estructura del documento, la definición del Product Backlog y la planificación del primer sprint de la landing page. Finalmente, el avance concreto en el diseño y la implementación inicial de la landing page durante el primer sprint subraya la capacidad del equipo para cumplir con los objetivos establecidos. |
 
 ### 1.2.2. Lean UX Process
 
