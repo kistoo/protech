@@ -10,12 +10,12 @@
 
 # Contenido
 
-- [CAPÍTULO 1: INTRODUCCIÓN](#cap-tulo-1--introducci-n)
+- [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1--introducción)
   * [1.1. Startup Profile](#11-startup-profile)
-    + [1.1.1. Descripción del Startup](#111-descripci-n-del-startup)
+    + [1.1.1. Descripción del Startup](#111-descripción-del-startup)
     + [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
   * [1.2. Solution Profile](#12-solution-profile)
-    + [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problem-tica)
+    + [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
     + [1.2.2. Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -24,14 +24,14 @@
   * [1.3. Propuesta de Valor y Alcance](#13-propuesta-de-valor-y-alcance)
   * [1.4. Segmentos Objetivo](#14-segmentos-objetivo)
 
-- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#cap-tulo-2--requirements-elicitation---analysis)
+- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2--requirements-elicitation---analysis)
   * [2.1. Competidores](#21-competidores)
     + [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
-    + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-t-cticas-frente-a-los-competidores)
+    + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-tácticas-frente-a-los-competidores)
   * [2.2. Entrevistas](#22-entrevistas)
-    + [2.2.1. Diseño de entrevistas](#221-dise-o-de-entrevistas)
+    + [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     + [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    + [2.2.3. Análisis de entrevistas](#223-an-lisis-de-entrevistas)
+    + [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   * [2.3. Needfinding](#23-needfinding)
     + [2.3.1. User Personas](#231-user-personas)
     + [2.3.2. User Task Matrix](#232-user-task-matrix)
@@ -40,21 +40,15 @@
     + [2.3.5. As-Is Scenario Mapping](#235-as-is-scenario-mapping)
   * [2.4 Ubiquitous Language](#24-ubiquitous-language)
 
-- [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#cap-tulo-3--requirements-specification)
+- [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#capítulo-3--requirements-specification)
   * [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   * [3.2. User Stories](#32-user-stories)
-    + [3.2.1. Requisitos](#321-requisitos)
-    + [3.2.2. Historias de Usuario](#322-historias-de-usuario)
-    + [3.2.3. Epicas](#323-epicas)
   * [3.3. Impact Mapping](#33-impact-mapping)
   * [3.4. Product Backlog](#34-product-backlog)
 
-- [CAPÍTULO 4: PRODUCT UX/UI DESIGN](#cap-tulo-4--product-ux-ui-design)
+- [CAPÍTULO 4: PRODUCT UX/UI DESIGN](#capítulo-4--product-ux-ui-design)
   * [4.1. Style Guidelines](#41-style-guidelines)
     + [4.1.1 General Style Guidelines](#411-general-style-guidelines)
-      - [4.1.1.1. Tipografía](#4111-tipograf-a)
-      - [4.1.1.3. Espaciado](#4113-espaciado)
-      - [4.1.1.4. Tono de Comunicación y Lenguaje Aplicado](#4114-tono-de-comunicaci-n-y-lenguaje-aplicado)
     + [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
   * [4.2. Information Architecture](#42-information-architecture)
     + [4.2.1. Organization Systems](#421-organization-systems)
@@ -63,7 +57,7 @@
     + [4.2.4 Searching Systems](#424-searching-systems)
     + [4.2.5. Navigation Systems](#425-navigation-systems)
   * [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  * [4.3.1. Landing Page Wireframes](#431-landing-page-wireframes)
+    + [4.3.1. Landing Page Wireframes](#431-landing-page-wireframes)
     + [4.3.2. Landing Page Mock-Ups](#432-landing-page-mock-ups)
   * [4.4 Web Applications UX/UI Design](#44-web-applications-ux-ui-design)
     + [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
@@ -80,13 +74,14 @@
     + [4.7.2. Class Dictionary](#472-class-dictionary)
   * [4.8. Database Design](#48-database-design)
     + [4.8.1. Database Diagram](#481-database-diagram)
-- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#cap-tulo-5--product-implementation---deployment)
+
+- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5--product-implementation---deployment)
   * [5.1. Software Configuration Management](#51-software-configuration-management)
     + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     + [5.1.2. Source Code Management](#512-source-code-management)
     + [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide---conventions)
     + [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  * [5.2. Product Implementation & Deployment](#52-product-implementation---deployment)
+  * [5.2. Landing Page, Services & Applications Implementation](#52-Landing-Page,-Services-&-Applications-Implementation)
     + [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning](#5211-sprint-planning)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
@@ -98,7 +93,7 @@
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Recomendaciones](#recomendaciones)
-- [Bibliografía](#bibliograf-a)
+- [Bibliografía](#bibliografÍa)
 - [Anexos](#anexos)
 
 # Student Outcome
@@ -1712,7 +1707,7 @@ Podremos visualizar el link de la landing page y luego le damos click para visit
 
 La landing page ya está desplegada.
 
-## 5.2. Product Implementation & Deployment
+## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
