@@ -10,7 +10,7 @@
 
 # Contenido
 
-- [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1--introducción)
+- [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1-introducción)
   * [1.1. Startup Profile](#11-startup-profile)
     + [1.1.1. Descripción del Startup](#111-descripción-del-startup)
     + [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
@@ -24,7 +24,7 @@
   * [1.3. Propuesta de Valor y Alcance](#13-propuesta-de-valor-y-alcance)
   * [1.4. Segmentos Objetivo](#14-segmentos-objetivo)
 
-- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2--requirements-elicitation--analysis)
+- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2-requirements-elicitation--analysis)
   * [2.1. Competidores](#21-competidores)
     + [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
     + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-tácticas-frente-a-los-competidores)
@@ -40,13 +40,13 @@
     + [2.3.5. As-Is Scenario Mapping](#235-as-is-scenario-mapping)
   * [2.4 Ubiquitous Language](#24-ubiquitous-language)
 
-- [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#capítulo-3--requirements-specification)
+- [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#capítulo-3-requirements-specification)
   * [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   * [3.2. User Stories](#32-user-stories)
   * [3.3. Impact Mapping](#33-impact-mapping)
   * [3.4. Product Backlog](#34-product-backlog)
 
-- [CAPÍTULO 4: PRODUCT UX/UI DESIGN](#capítulo-4--product-ux-ui-design)
+- [CAPÍTULO 4: PRODUCT UX/UI DESIGN](#capítulo-4-product-ux-ui-design)
   * [4.1. Style Guidelines](#41-style-guidelines)
     + [4.1.1 General Style Guidelines](#411-general-style-guidelines)
     + [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
@@ -75,7 +75,7 @@
   * [4.8. Database Design](#48-database-design)
     + [4.8.1. Database Diagram](#481-database-diagram)
 
-- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5--product-implementation--deployment)
+- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5-product-implementation--deployment)
   * [5.1. Software Configuration Management](#51-software-configuration-management)
     + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     + [5.1.2. Source Code Management](#512-source-code-management)
