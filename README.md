@@ -29,6 +29,16 @@
 
 # Contenido
 
+- [Fitmanager](#fitmanager)
+ 
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+ 
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome)
+
 - [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1-introducción)
   * [1.1. Startup Profile](#11-startup-profile)
     + [1.1.1. Descripción del Startup](#111-descripción-del-startup)
@@ -110,9 +120,13 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
 - [Conclusiones](#conclusiones)
+  
 - [Recomendaciones](#recomendaciones)
+  
 - [Bibliografía](#bibliografÍa)
+  
 - [Anexos](#anexos)
 
 # Student Outcome
