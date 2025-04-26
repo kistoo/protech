@@ -24,7 +24,7 @@
   * [1.3. Propuesta de Valor y Alcance](#13-propuesta-de-valor-y-alcance)
   * [1.4. Segmentos Objetivo](#14-segmentos-objetivo)
 
-- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2--requirements-elicitation---analysis)
+- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2--requirements-elicitation--analysis)
   * [2.1. Competidores](#21-competidores)
     + [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
     + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-tácticas-frente-a-los-competidores)
@@ -75,7 +75,7 @@
   * [4.8. Database Design](#48-database-design)
     + [4.8.1. Database Diagram](#481-database-diagram)
 
-- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5--product-implementation---deployment)
+- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5--product-implementation--deployment)
   * [5.1. Software Configuration Management](#51-software-configuration-management)
     + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     + [5.1.2. Source Code Management](#512-source-code-management)
