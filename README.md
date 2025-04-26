@@ -10,7 +10,7 @@
 
 # Contenido
 
-- [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1:-introducción)
+- [CAPÍTULO 1: INTRODUCCIÓN](#CAPÍTULO-1:-INTRODUCCIÓN)
   * [1.1. Startup Profile](#11-startup-profile)
     + [1.1.1. Descripción del Startup](#111-descripci-n-del-startup)
     + [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
