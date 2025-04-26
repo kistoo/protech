@@ -1495,6 +1495,14 @@ El Software Configuration Management (SCM) desempeña un papel esencial en el pr
 | Figma                | Diseño de interfaces y prototipos UI/UX                    | Product UX/UI Design    | https://www.figma.com/                              | Figma es una herramienta de diseño de interfaces que permite crear prototipos de alta fidelidad, ideal para la creación de la experiencia de usuario del proyecto. |
 | Lucidchart           | Diagramación de arquitectura, flujos y procesos            | Product UX/UI Design    | https://www.lucidchart.com/                         | Lucidchart es una herramienta de diagramación en línea que facilita la creación de flujos, mapas de procesos y diagramas de arquitectura, clave para planificar el sistema. |
 | Pivotal Tracker      | Gestión ágil de tareas y backlog del equipo                | Project Management      | https://www.pivotaltracker.com/                     | Pivotal Tracker es una herramienta de gestión ágil que permite gestionar el progreso de tareas, sprints y el backlog del equipo, esencial para la planificación de proyectos. |
+| UXPressia            | Creación de mapas de experiencia de usuario                | Product UX/UI Design    | https://uxpressia.com/                              | Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema. |
+| Structurizr          | Modelado de arquitectura de software                       | Product UX/UI Design    | https://structurizr.com/                            | Herramienta para crear modelos de arquitectura de software basada en el modelo C4, útil para documentar sistemas complejos. |
+
+
+
+
+
+
 
 ### 5.1.2. Source Code Management
 
