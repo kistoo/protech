@@ -172,6 +172,191 @@ Programa de Voluntarios de las Naciones Unidas. (2022). Capítulo 2: El voluntar
 
 
 
+# CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT
+
+## 5.1. Software Configuration Management
+
+La Gestión de Configuración de Software (SCM) cumple una función clave en el desarrollo de software, ya que garantiza el control y la coherencia de las versiones y configuraciones a lo largo de todo el ciclo de vida del producto. Según Configu Editorial Team (2024), esta práctica favorece una colaboración fluida entre los equipos, simplifica la administración de cambios complejos y asegura que todos los participantes trabajen en un entorno estandarizado y sincronizado.
+
+### 5.1.1. Software Development Environment Configuration
+
+| Producto             | Propósito en el Proyecto                                         | Categoría              | Ruta de Descarga / Acceso                          | Descripción                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------|-------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| JetBrains Toolbox    | Gestión centralizada de IDEs JetBrains                           | Software Development    | https://www.jetbrains.com/toolbox-app/             | Aplicación que permite instalar, actualizar y gestionar los IDEs de JetBrains, facilitando el mantenimiento del entorno de desarrollo.                             |
+| JetBrains IntelliJ IDEA | Desarrollo backend en Java                                    | Software Development    | https://www.jetbrains.com/idea/                   | IDE especializado en desarrollo con Java y otros lenguajes JVM, ideal para proyectos con Spring Boot y Maven.                                                       |
+| OpenJDK              | Entorno de ejecución y compilación para Java                     | Software Development    | https://jdk.java.net/                             | OpenJDK es una implementación de código abierto del JDK (Java Development Kit), esencial para ejecutar y compilar aplicaciones Java.                                |
+| Maven                | Gestión de dependencias y construcción de proyectos Java         | Software Development    | https://maven.apache.org/                         | Herramienta de automatización de compilación y gestión de proyectos Java, ampliamente utilizada con Spring Boot.                                                    |
+| Visual Studio Code   | Edición de código para desarrollo rápido                         | Software Development    | https://code.visualstudio.com/                    | Editor de código fuente liviano y extensible, útil para tareas generales de desarrollo y edición de archivos de configuración.                                      |
+| Spring Boot          | Framework para desarrollo backend con Java                      | Software Development    | https://spring.io/projects/spring-boot            | Framework que simplifica la creación de aplicaciones backend con Java, permitiendo levantar servicios REST de forma rápida y eficiente.                             |
+| JetBrains WebStorm   | Desarrollo frontend con Angular                                  | Software Development    | https://www.jetbrains.com/webstorm/               | IDE especializado en desarrollo web moderno, con soporte completo para Angular, TypeScript y otras tecnologías frontend.                                            |
+| Angular CLI          | Utilidad de línea de comandos para Angular                       | Software Development    | https://angular.io/cli                            | Interfaz de línea de comandos que permite generar componentes, servicios y manejar el ciclo de vida de una aplicación Angular.                                      |
+| Postman              | Pruebas y documentación de APIs REST                             | Software Development    | https://www.postman.com/                          | Plataforma para probar y documentar APIs de forma interactiva, ideal para validar endpoints desarrollados con Spring Boot.                                           |
+| Pivotal Tracker      | Gestión ágil de tareas y backlog del equipo                      | Project Management      | https://www.pivotaltracker.com/                   | Herramienta de gestión de proyectos ágil que permite planificar, asignar y seguir el progreso de tareas y entregables del equipo.                                    |
+| UXPressia            | Creación de mapas de experiencia de usuario                      | Product UX/UI Design     | https://uxpressia.com/                            | Herramienta enfocada en la creación de journey maps y perfiles de usuario, útil para visualizar la experiencia del usuario en el sistema.                           |
+| Lucidchart           | Diagramación de arquitectura y flujos                            | Product UX/UI Design     | https://www.lucidchart.com/                       | Plataforma para crear diagramas de procesos, flujos y arquitecturas de sistema, facilitando la planificación visual del software.                                    |
+| Structurizr          | Modelado de arquitectura de software                             | Product UX/UI Design     | https://structurizr.com/                          | Herramienta para crear modelos de arquitectura de software basada en el modelo C4, útil para documentar sistemas complejos.                                          |
+| MySQL                | Sistema de gestión de base de datos relacional                   | Software Development    | https://www.mysql.com/downloads/                  | Sistema gestor de bases de datos ampliamente usado para almacenar y administrar la información estructurada de aplicaciones backend.                                |
+
+### 5.1.2. Source Code Management
+
+Para la gestión del código fuente en VolunTrack, se empleará Git como sistema de control de versiones, utilizando el enfoque de trabajo GitFlow. Esta estrategia facilitará un seguimiento ordenado de las modificaciones en el código, favoreciendo tanto la incorporación de nuevas funcionalidades como la solución de errores. Los repositorios se alojarán en GitHub, manteniendo una estructura de ramas bien definida. Además de la rama principal main, se utilizarán las ramas develop, feature, release y hotfix, lo que permitirá una colaboración fluida y un acceso estructurado al proyecto por parte de todo el equipo.
+
+Repositorio de Frontend Web Applications: https://github.com/Wasi-Masi/VoluntTrack-FrontendWebApplications
+
+Repositorio del landing page:
+
+Repositorio de los web services: https://github.com/Wasi-Masi/VolunTrack-WebServices
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Con el objetivo de mantener la coherencia, claridad y calidad del código fuente en VolunTrack, se adoptarán convenciones de estilo uniformes. Todo el equipo de desarrollo deberá seguir buenas prácticas como el uso correcto de la indentación, nombres descriptivos para variables y funciones, comentarios útiles y bien estructurados, y una organización lógica de las responsabilidades del código. También se definirán pautas específicas en función del lenguaje de programación y el entorno tecnológico empleado.
+
+Espaciado
+
+El formato del código en VolunTrack se regirá por una convención clara que facilite la lectura y el mantenimiento. Se utilizarán 2 espacios por nivel de indentación, con espacios después de comas, operadores y palabras clave como if, for o while, evitando espacios innecesarios antes de paréntesis o llaves. Para mejorar la organización visual, se incluirán líneas en blanco entre bloques de código relacionados, como funciones o secciones dentro de una misma función. Estas reglas están pensadas para minimizar errores y facilitar el trabajo colaborativo.
+
+Nomenclatura
+
+Los nombres de archivos, variables, funciones y clases se escribirán en inglés, favoreciendo la colaboración en entornos internacionales. Se usará minúsculas y, cuando sea necesario separar palabras, se emplearán guiones en lugar de espacios. Esta práctica promueve la claridad, la consistencia y un mantenimiento más sencillo del código, además de facilitar la comprensión entre los distintos miembros del equipo.
+
+Comentarios
+
+Los comentarios en el código de VolunTrack se utilizarán con propósito y mesura. Servirán para explicar lógica compleja, justificar decisiones de diseño o indicar tareas pendientes, pero siempre de forma concisa, clara y en inglés. Se evitarán comentarios redundantes o innecesarios que simplemente repitan lo que ya es evidente en el código. Se fomentará el uso de comentarios estructurados, especialmente en funciones extensas o con lógica crítica, para aportar contexto real y valor adicional.
+
+Commits
+
+Los mensajes de commit deberán seguir una estructura estandarizada que permita rastrear fácilmente los cambios realizados. Cada mensaje será breve, descriptivo, escrito en inglés y en tiempo presente (por ejemplo: “Add volunteer sign-up form”, “Fix login validation bug”). Se recomienda comenzar con un verbo que exprese claramente la acción realizada, evitando términos genéricos como "update" sin detalles. En commits más extensos, puede añadirse un cuerpo explicativo. Esta convención contribuye a un historial de cambios claro, útil tanto para el equipo actual como para futuros colaboradores.
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+Esta sección registra el progreso obtenido durante el Sprint 1 del proyecto VolunTrack, abarcando tanto el desarrollo del producto como la dinámica de colaboración del equipo. Se describen los objetivos planteados, la asignación de responsabilidades, el backlog de tareas y las evidencias del desarrollo y la implementación. Esta organización facilita una visión clara del avance conseguido y establece una base sólida para los próximos ciclos de trabajo.
+
+#### 5.2.1.1. Sprint Planning
+
+El Sprint Planning es la reunión que marca el inicio de cada sprint, donde el equipo Scrum define qué se va a construir y cómo se alcanzará. Durante esta sesión, se establece un objetivo claro (Sprint Goal), se seleccionan las historias de usuario más relevantes y se descomponen en tareas específicas. Esta planificación no solo organiza el trabajo de manera eficiente, sino que también garantiza un enfoque compartido y alinea al equipo hacia la entrega continua de valor al usuario.
+A continuación, se presenta la tabla correspondiente al Sprint Planning:
+
+| **Sprint #**                       | Sprint 1                                                                                                                                              |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background     |                                                                                                                                                           |
+| Date                           | 2025-04-07                                                                                                                                                |
+| Time                           | 02:40 PM                                                                                                                                                  |
+| Location                       | Virtual                                                                                                                                                   |
+| Prepared By                    | Martel Andrade Cassius Estefano, Binda Arbañil Marcelo Alejandro                                                                                          |
+| Attendees (to planning meeting) | Ainhoa Lucía Castillo Garay / Marcelo Alejandro Binda Arbañil / Martel Andrade Cassius Estefano / Nakamurakare Teruya Alex Tomio / Ortiz Alarcón Víctor Nicolás |
+| Sprint 0 Review Summary        | Este es el primer sprint del proyecto, por lo tanto no existe un sprint anterior a evaluar. Las actividades previas se enfocaron en la ideación del producto, validación de problemas mediante entrevistas y elaboración del backlog inicial. |
+| Sprint 0 Retrospective Summary | La introducción, los requerimientos y el diseño del producto fueron desarrollados de forma colaborativa y eficiente.                                       |
+| Sprint Goal & User Stories     |                                                                                                                                                           |
+| Sprint n Goal                  | Publicar la versión inicial de la página de aterrizaje pública de VolunTrack. Buscamos dar mayor visibilidad y credibilidad a potenciales usuarios, validándolo mediante su disponibilidad online y la inclusión de secciones como "Sobre nosotros", "Planes" y "Contacto". |
+| Sprint n Velocity              | 13                                                                                                                                                        |
+| Sum of Story Points            | 43                                                                                                                                                        |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member                        | Diseño UX | Diseño UI - Wireframes | Diseño UI - MockUps | Diseño Landing Page | Control de versiones |
+|-------------------------------------|-----------|------------------------|---------------------|---------------------|-----------------------|
+| Binda Arbañil, Marcelo Alejandro    | L         | C                      | C                   | C                   | C                     |
+| Castillo Garay, Ainhoa Lucía         | C         | L                      | C                   | C                   | C                     |
+| Martel Andrade, Cassius Estefano     | C         | C                      | L                   | C                   | C                     |
+| Nakamurakare Teruya, Alex Tomio      | C         | C                      | C                   | C                   | L                     |
+| Ortiz Alarcón, Victor Nicolás        | C         | C                      | C                   | L                   | C                     |
+
+#### 5.2.1.3 Sprint Backlog 1
+
+| Sprint #       | Sprint #1 |      |      |      |      |
+|----------------|-----------|------|------|------|------|
+|      | Work-Item / Task |      |      |      |      |
+| User Story ID | Task ID | Description                                         | Estimation (Hours) | Assigned To                        | Status |
+| US15          | T01     | Crear la estructura de la sección principal         | 1                  | Binda Arbañil, Marcelo Alejandro    | Done   |
+|               | T02     | Diseñar la parte visual de la sección principal     | 1                  | Castillo Garay, Ainhoa Lucía         | Done   |
+| US16          | T03     | Crear la estructura de la sección sobre nosotros    | 1                  | Martel Andrade, Cassius Estefano     | Done   |
+|               | T04     | Diseñar la parte visual de la sección sobre nosotros| 2                  | Nakamurakare Teruya, Alex Tomio      | Done   |
+| US17          | T05     | Crear la estructura de la sección de contacto       | 1                  | Castillo Garay, Ainhoa Lucía         | Done   |
+|               | T06     | Diseñar la parte visual de la sección de contacto   | 1                  | Binda Arbañil, Marcelo Alejandro    | Done   |
+| US18          | T07     | Crear la estructura de la sección de planes         | 1                  | Martel Andrade, Cassius Estefano     | Done   |
+|               | T08     | Diseñar la parte visual de la sección de planes     | 1                  | Martel Andrade, Cassius Estefano     | Done   |
+| US03          | T09     | Diseño UX/UI sección Actividad                      | 3                  | Ortiz Alarcón, Victor Nicolás        | Done   |
+| US05          | T10     | Diseño UX/UI sección Inscritos                      | 3                  | Binda Arbañil, Marcelo Alejandro    | Done   |
+| US11          | T11     | Diseño UX/UI sección Notificaciones                 | 3                  | Nakamurakare Teruya, Alex Tomio      | Done   |
+| US22          | T12     | Diseño UX/UI sección Voluntarios                    | 3                  | Ortiz Alarcón, Victor Nicolás        | Done   |
+| US23          | T13     | Diseño UX/UI sección Calendario                     | 3                  | Castillo Garay, Ainhoa Lucía         | Done   |
+| US24          | T14     | Diseño UX/UI Dashboard                              | 4                  | Nakamurakare Teruya, Alex Tomio      | Done   |
+
+Icebox de las historias de usuario pendientes (no iniciadas en este sprint)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0845de2-56b3-4375-9c4d-63c17f429499" alt="Icebox US pendientes">
+</p>
+
+Historias de usuario empezadas y finalizadas del sprint
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f03f3fb6-c1a5-4408-a777-22a4ca97b25c" alt="Icebox US sprint 1">
+</p>
+
+Épicas
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20f2abcd-6a7b-4ae5-9d31-8e32442803b2" alt="Épicas">
+</p>
+
+#### 5.1.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 1 se logró desarrollar y publicar la primera versión funcional de la Landing Page de VolunTrack, alcanzando el objetivo planteado en el Sprint Planning. Esta versión incorporó el diseño, estructura e implementación de las secciones esenciales: presentación del proyecto, funcionalidades destacadas, planes de suscripción y formulario de contacto.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1 se completó y desplegó la primera versión funcional del Landing Page de FitManager, logrando cumplir con el objetivo establecido en el Sprint Planning. Esta entrega incluyó el diseño, maquetación e implementación de las secciones informativas clave: descripción del producto, características principales, paquetes de suscripción, formulario de contacto y una galería visual del producto.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 1 no se trabajó en el desarrollo de Web Services ni en la creación de endpoints funcionales, ya que el enfoque del sprint se limitó exclusivamente al diseño, construcción y publicación de la Landing Page de VolunTrack. En consecuencia, no se elaboró documentación técnica de APIs REST ni se empleó OpenAPI.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A lo largo del Sprint 1, el equipo de VolunTrack sostuvo una colaboración continua y efectiva. Al tratarse del primer sprint del proyecto, se definieron acuerdos fundamentales respecto a la metodología de trabajo, las herramientas de comunicación y los canales para el seguimiento de tareas. A continuación, se presenta evidencia de la participación de cada integrante del equipo:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f9c030a-50c6-4b12-adf5-aaa1991f3e44" alt="Insights landing page">
+</p>
+
+En esta imagen se aprecia la sección "Insights" de Github, donde se puede ver la cantidad de commits realizada por usuarios. Se evidencia que todos participaron en los commits de la landing page.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3aa24654-5dfc-4351-8029-15b85023afa1" alt="Commits READ.ME">
+</p>
+
+Por otro lado, en esta imagen se ve que todos participaron también en los commits del readme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
