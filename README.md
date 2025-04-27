@@ -1,3 +1,183 @@
+# Registro de versiones del informe
+
+| Versión  | Fecha       | Autor/es                                                                                                                                  | Descripción                                                                                   |
+|----------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1.0 (TB1) | 27/04/2024  | - Binda Arbañil, Marcelo Alejandro<br>- Castillo Garay, Ainhoa Lucía<br>- Martel Andrade, Cassius Estefano<br>- Nakamurakare Teruya, Alex Tomio<br>- Ortiz Alarcón, Víctor Nicolás | Capítulo I: Introducción<br>Capítulo II: Requirements Elicitation & Analysis<br>Capítulo III: Requirements Specification<br>Capítulo IV: Product Design<br>Capítulo V: Product Implementation, Validation & Deployment |
+
+# Project Report Collaboration Insights
+
+Repositorio donde está el project report: https://github.com/Wasi-Masi/VoluntTrack-FrontendWebApplications
+Para la elaboración del informe, inicialmente trabajamos en un documento compartido de Google Docs y posteriormente trasladamos el contenido al README del repositorio principal. A cada miembro del equipo se le asignó la responsabilidad de subir un capítulo.
+
+
+
+Aunque uno de los miembros registra un mayor número de commits en el repositorio, esto se explica porque asumió la responsabilidad principal de realizar hotfixes, ajustes menores y correcciones de formato durante el desarrollo del informe, contribuyendo así a garantizar la calidad del producto final.
+
+# Contenido
+
+- [Fitmanager](#fitmanager)
+ 
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
+ 
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+- [Contenido](#contenido)
+
+- [Student Outcome](#student-outcome)
+
+- [CAPÍTULO 1: INTRODUCCIÓN](#capítulo-1-introducción)
+  * [1.1. Startup Profile](#11-startup-profile)
+    + [1.1.1. Descripción del Startup](#111-descripción-del-startup)
+    + [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
+  * [1.2. Solution Profile](#12-solution-profile)
+    + [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    + [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  * [1.3. Propuesta de Valor y Alcance](#13-propuesta-de-valor-y-alcance)
+  * [1.4. Segmentos Objetivo](#14-segmentos-objetivo)
+
+- [CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS](#capítulo-2-requirements-elicitation--analysis)
+  * [2.1. Competidores](#21-competidores)
+    + [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
+    + [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-tácticas-frente-a-los-competidores)
+  * [2.2. Entrevistas](#22-entrevistas)
+    + [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    + [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    + [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  * [2.3. Needfinding](#23-needfinding)
+    + [2.3.1. User Personas](#231-user-personas)
+    + [2.3.2. User Task Matrix](#232-user-task-matrix)
+    + [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    + [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    + [2.3.5. As-Is Scenario Mapping](#235-as-is-scenario-mapping)
+  * [2.4 Ubiquitous Language](#24-ubiquitous-language)
+
+- [CAPÍTULO 3: REQUIREMENTS SPECIFICATION](#capítulo-3-requirements-specification)
+  * [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  * [3.2. User Stories](#32-user-stories)
+  * [3.3. Impact Mapping](#33-impact-mapping)
+  * [3.4. Product Backlog](#34-product-backlog)
+
+- [CAPÍTULO 4: PRODUCT UX/UI DESIGN](#capítulo-4-product-uxui-design)
+  * [4.1. Style Guidelines](#41-style-guidelines)
+    + [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    + [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
+  * [4.2. Information Architecture](#42-information-architecture)
+    + [4.2.1. Organization Systems](#421-organization-systems)
+    + [4.2.2. Labeling Systems](#422-labeling-systems)
+    + [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    + [4.2.4 Searching Systems](#424-searching-systems)
+    + [4.2.5. Navigation Systems](#425-navigation-systems)
+  * [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    + [4.3.1. Landing Page Wireframes](#431-landing-page-wireframes)
+    + [4.3.2. Landing Page Mock-Ups](#432-landing-page-mock-ups)
+  * [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    + [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    + [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    + [4.4.3. Web Applications Mock-up](#443-web-applications-mock-up)
+    + [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  * [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  * [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    + [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    + [4.6.2. Software Architecture Container Diagram](#462-software-architecture-container-diagram)
+    + [4.6.3. Software Architecture Components Diagram](#463-software-architecture-components-diagram)
+  * [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    + [4.7.1. Class Diagram](#471-class-diagram)
+    + [4.7.2. Class Dictionary](#472-class-dictionary)
+  * [4.8. Database Design](#48-database-design)
+    + [4.8.1. Database Diagram](#481-database-diagram)
+
+- [CAPÍTULO 5: PRODUCT IMPLEMENTATION & DEPLOYMENT](#capítulo-5-product-implementation--deployment)
+  * [5.1. Software Configuration Management](#51-software-configuration-management)
+    + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    + [5.1.2. Source Code Management](#512-source-code-management)
+    + [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    + [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  * [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    + [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning](#5211-sprint-planning)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.1.2.4. Development Evidence for Sprint Review](#5124-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+- [Conclusiones](#conclusiones)
+  
+- [Recomendaciones](#recomendaciones)
+  
+- [Bibliografía](#bibliografÍa)
+  
+- [Anexos](#anexos)
+
+# Student Outcome
+
+ABET - EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| Criterio específico                                        | Acciones realizadas                                                                                                                                   | Conclusiones                                                                                                                                                                                                                                                                                 |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | - Binda Arbañil, Marcelo Alejandro (TB1)<br>- Castillo Garay, Ainhoa Lucía (TB1)<br>- Martel Andrade, Cassius Estefano (TB1)<br>- Nakamurakare Teruya, Alex Tomio (TB1)<br>- Ortiz Alarcón, Víctor Nicolás (TB1) | El desarrollo de VolunTrack fortaleció nuestra capacidad de comunicación oral, evidenciado en las presentaciones del TB1 y en la creación de videos expositivos del proyecto, el prototipo y el landing page. Esto nos permitió aprender a adaptar la información técnica a audiencias diversas y a participar eficazmente en discusiones y debates dentro del equipo, mejorando nuestra claridad al exponer ideas y responder preguntas. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | - Binda Arbañil, Marcelo Alejandro (TB1)<br>- Castillo Garay, Ainhoa Lucía (TB1)<br>- Martel Andrade, Cassius Estefano (TB1)<br>- Nakamurakare Teruya, Alex Tomio (TB1)<br>- Ortiz Alarcón, Víctor Nicolás (TB1) | La elaboración del informe de VolunTrack mejoró significativamente nuestras habilidades de comunicación escrita, al requerir la redacción precisa de especificaciones, la documentación clara de decisiones de diseño y la creación de diagramas comprensibles, logrando transmitir información técnica de manera efectiva a través de un documento coherente y bien estructurado. |
+
+# Conclusiones
+
+El proyecto VolunTrack demostró la capacidad del equipo para aplicar un enfoque integral en el desarrollo de una solución de software, abarcando desde la investigación de usuarios y el análisis de requerimientos hasta el diseño de la arquitectura y la implementación del landing page. Se logró crear una base sólida para el futuro desarrollo de la plataforma completa.
+
+La aplicación de metodologías y técnicas de Lean UX, como la formulación de hipótesis, la creación de user personas y el mapeo de la experiencia del usuario, permitió al equipo comprender profundamente las necesidades de los usuarios y diseñar una solución centrada en sus requerimientos.
+
+El desarrollo del landing page de VolunTrack demostró la capacidad del equipo para comunicar de manera efectiva la propuesta de valor de la plataforma, enfocándose en la necesidad de una herramienta que facilite la conexión entre ONGs y voluntarios. El diseño y el contenido del landing page lograron transmitir la funcionalidad y los beneficios del sistema a potenciales usuarios.
+
+El diseño de la arquitectura del sistema, basado en principios de Domain-Driven Design y una estructura de componentes en servicios, sentó las bases para la creación de una aplicación escalable y mantenible. La definición de la arquitectura y el diseño orientado a objetos facilitaron la planificación del desarrollo futuro.
+
+El proyecto VolunTrack proporcionó una valiosa experiencia en todas las etapas del ciclo de vida del desarrollo de software, desde la concepción de la idea hasta la implementación parcial, fortaleciendo las habilidades técnicas y blandas de los miembros del equipo, incluyendo la colaboración, la comunicación y la resolución de problemas.
+
+# Recomendaciones
+
+Se recomienda priorizar la implementación de la aplicación web y móvil de VolunTrack, siguiendo la arquitectura y el diseño definidos en este informe. El enfoque debe estar en el desarrollo de las funcionalidades clave que permitan a las ONGs gestionar sus actividades de voluntariado y a los voluntarios encontrar y registrarse en ellas.
+
+Se sugiere realizar pruebas de usabilidad exhaustivas con usuarios reales (ONGs y voluntarios) durante el desarrollo de la aplicación, para validar las decisiones de diseño y asegurar que la interfaz sea intuitiva y fácil de usar.
+
+Se aconseja implementar un sistema de gestión de la base de datos robusto y eficiente, que garantice la integridad y la seguridad de la información de los usuarios y las ONGs.
+
+Se recomienda establecer un proceso de desarrollo iterativo e incremental, utilizando metodologías ágiles como Scrum, para facilitar la adaptación a los cambios y la entrega continua de valor.
+
+Se sugiere continuar invirtiendo en la formación del equipo en las últimas tecnologías y mejores prácticas de desarrollo de software, para asegurar la calidad y la innovación en el desarrollo de VolunTrack.
+
+# Bibliografía
+
+León Malca, S. J. (2023). Análisis de la relación entre la experiencia del voluntariado y las habilidades de empleabilidad: Un estudio de caso en la Asociación CEDRO [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio Institucional PUCP. https://tesis.pucp.edu.pe/items/7a5ab914-1eb0-46eb-8097-ae2d2df5b4f6
+
+Naciones Unidas Perú. (2024). Situación del voluntariado en el Perú 2024. Naciones Unidas. https://peru.un.org/es/283805-situación-del-voluntariado-en-el-perú-2024
+
+La Escuelita de ONG. (s.f.). ¿Por qué los voluntarios abandonan su voluntariado en ONG? La Escuelita de ONG. https://www.laescuelitadeong.com/por-que-los-voluntarios-abandonan-su-voluntariado-en-ong/
+
+Guirado, O. (2023, junio 28). ¿Cuánto cuesta desarrollar una app? AppDesign. https://appdesign.dev/cuanto-cuesta-desarrollar-una-app/
+
+Pragma. (2022, noviembre 8). Lean UX y Lean Startup: potencia la experiencia y el diseño de producto. Pragma. https://www.pragma.co/es/blog/lean-ux-y-lean-startup-potencia-experiencia-y-diseno-de-producto
+
+Stack Overflow. (2019). Stack Overflow Developer Survey Results 2019. Stack Overflow. https://assets-global.website-files.com/5da60733afec9db1fb998273/5de8285d137d82cb7d96674e_2019-Tech-Report-English.pdf
+
+Programa de Voluntarios de las Naciones Unidas. (2022). Capítulo 2: El voluntariado en los Objetivos de Desarrollo Sostenible [Informe SWVR 2022]. https://swvr2022.unv.org/wp-content/uploads/2022/04/Chapter-2_web_ES.pdf
+
+# Anexos
+
+
+
+
+
+
+
+
+
+
+
+
 # Fitmanager
 
 <p align="center">Universidad: Universidad Peruana de Ciencias Aplicadas (UPC)</p>
