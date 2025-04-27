@@ -1,4 +1,4 @@
-# Registro de versiones del informe
+![image](https://github.com/user-attachments/assets/99b0d91e-fc7a-4250-8ae0-3111111c79b9)# Registro de versiones del informe
 
 | Versión  | Fecha       | Autor/es                                                                                                                                  | Descripción                                                                                   |
 |----------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -203,7 +203,7 @@ Para la gestión del código fuente en VolunTrack, se empleará Git como sistema
 
 Repositorio de Frontend Web Applications: https://github.com/Wasi-Masi/VoluntTrack-FrontendWebApplications
 
-Repositorio del landing page:
+Repositorio del landing page: https://github.com/Wasi-Masi/Voluntrack-LandingPage
 
 Repositorio de los web services: https://github.com/Wasi-Masi/VolunTrack-WebServices
 
@@ -215,19 +215,85 @@ Espaciado
 
 El formato del código en VolunTrack se regirá por una convención clara que facilite la lectura y el mantenimiento. Se utilizarán 2 espacios por nivel de indentación, con espacios después de comas, operadores y palabras clave como if, for o while, evitando espacios innecesarios antes de paréntesis o llaves. Para mejorar la organización visual, se incluirán líneas en blanco entre bloques de código relacionados, como funciones o secciones dentro de una misma función. Estas reglas están pensadas para minimizar errores y facilitar el trabajo colaborativo.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb8dcf35-09af-4901-b150-56c4a1a352bc" alt="Espaciado">
+</p>
+
 Nomenclatura
 
 Los nombres de archivos, variables, funciones y clases se escribirán en inglés, favoreciendo la colaboración en entornos internacionales. Se usará minúsculas y, cuando sea necesario separar palabras, se emplearán guiones en lugar de espacios. Esta práctica promueve la claridad, la consistencia y un mantenimiento más sencillo del código, además de facilitar la comprensión entre los distintos miembros del equipo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cda652f4-a032-43ba-853f-95afbde0cc6f" alt="Nomenclatura">
+</p>
 
 Comentarios
 
 Los comentarios en el código de VolunTrack se utilizarán con propósito y mesura. Servirán para explicar lógica compleja, justificar decisiones de diseño o indicar tareas pendientes, pero siempre de forma concisa, clara y en inglés. Se evitarán comentarios redundantes o innecesarios que simplemente repitan lo que ya es evidente en el código. Se fomentará el uso de comentarios estructurados, especialmente en funciones extensas o con lógica crítica, para aportar contexto real y valor adicional.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb41129b-0724-4061-a890-abbc4281c629" alt="Comentarios">
+</p>
+
 Commits
 
 Los mensajes de commit deberán seguir una estructura estandarizada que permita rastrear fácilmente los cambios realizados. Cada mensaje será breve, descriptivo, escrito en inglés y en tiempo presente (por ejemplo: “Add volunteer sign-up form”, “Fix login validation bug”). Se recomienda comenzar con un verbo que exprese claramente la acción realizada, evitando términos genéricos como "update" sin detalles. En commits más extensos, puede añadirse un cuerpo explicativo. Esta convención contribuye a un historial de cambios claro, útil tanto para el equipo actual como para futuros colaboradores.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5806024c-94e4-4898-8bd2-d6f72253afc5" alt="Commits">
+</p>
+
 ### 5.1.4. Software Deployment Configuration
+
+Para el despliegue de nuestra landing page hemos utilizado github. A continuación daré los pasos a seguir para el despliegue:
+
+Primero vamos a nuestro repositorio 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2846fce1-b78a-41c5-8657-d5284fff2cc4" alt="Primer paso">
+</p>
+
+Nos vamos a settings
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e1d90fc-d8cb-41fe-95e8-d57e65e96dfb" alt="Segundo paso">
+</p>
+
+Damos click en pages
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c6ec11b-65a1-4683-b19d-0864a579036e" alt="Tercer paso">
+</p>
+
+Nos aseguramos que el source sea “Deploy from a branch”. Escogemos la rama que vamos a desplegar, en nuestro caso la rama main, escogemos el root y le damos a guardar
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff1c6980-359d-4ff3-8399-116b2461fb9f" alt="Cuarto paso">
+</p>
+
+Volvemos a code y veremos un punto amarillo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7eaf141-5a05-4f63-b34b-ded6620f6d78" alt="Cuarto paso">
+</p>
+
+Damos click y después click a details
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e270dec3-585f-4ad5-9263-b6b8511c99ff" alt="Quinto paso">
+</p>
+
+Una vez esperamos a que se terminen todas
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26ddd9d5-6183-435b-926a-ae4e8fa9f989" alt="Sexto paso">
+</p>
+
+Nos aparecerá el link del despliegue en settings-pages
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c11523fd-4fa1-4032-bf6f-b492489791fc" alt="Sexto paso">
+</p>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -303,7 +369,17 @@ Historias de usuario empezadas y finalizadas del sprint
 
 #### 5.1.2.4. Development Evidence for Sprint Review
 
-Durante el Sprint 1 se logró desarrollar y publicar la primera versión funcional de la Landing Page de VolunTrack, alcanzando el objetivo planteado en el Sprint Planning. Esta versión incorporó el diseño, estructura e implementación de las secciones esenciales: presentación del proyecto, funcionalidades destacadas, planes de suscripción y formulario de contacto.
+Esta sección presenta los principales avances técnicos logrados durante el sprint, en relación con los productos comprometidos: la Landing Page, la Aplicación Web y los Servicios Web. Se detalla el progreso a través de los repositorios utilizados por el equipo, destacando los commits relevantes que reflejan el desarrollo de nuevas funcionalidades, la corrección de errores, las mejoras en la interfaz y la configuración de servicios. Esta evidencia no solo permite evaluar el cumplimiento de los objetivos del sprint, sino que también facilita la retroalimentación durante la reunión de revisión.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 6431853c2641cfda891d98c7587a0c80e3dd7e5a | Add base structure | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 4a8b37d585f0225144ef9c8c5b46aed9b6064af6 | Add contact | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 5c3f9b61314278458573992848a9199e214ec8d5 | Add Planes | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 3a4fcb57f0bdfc7d2d74a4bf62e6c7042093708a | Add Equipo | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 15425e080c574b38e742547b30a02e703cdc1e1f | Add faqs | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 14740c2e6bce187bc4309b2f61f1d37a07cf4307 | Add about | - | 27/04/2025 |
+| [Voluntrack-LandingPage](https://github.com/Wasi-Masi/Voluntrack-LandingPage) | develop | 43bab8d5002de7e18a6bb84fbca211137fa340ee | Add index | - | 27/04/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
@@ -315,22 +391,71 @@ Durante el Sprint 1 no se trabajó en el desarrollo de Web Services ni en la cre
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el despliegue de nuestra landing page hemos utilizado github. A continuación daré los pasos a seguir para el despliegue:
+
+Primero vamos a nuestro repositorio 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2846fce1-b78a-41c5-8657-d5284fff2cc4" alt="Primer paso">
+</p>
+
+Nos vamos a settings
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e1d90fc-d8cb-41fe-95e8-d57e65e96dfb" alt="Segundo paso">
+</p>
+
+Damos click en pages
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c6ec11b-65a1-4683-b19d-0864a579036e" alt="Tercer paso">
+</p>
+
+Nos aseguramos que el source sea “Deploy from a branch”. Escogemos la rama que vamos a desplegar, en nuestro caso la rama main, escogemos el root y le damos a guardar
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff1c6980-359d-4ff3-8399-116b2461fb9f" alt="Cuarto paso">
+</p>
+
+Volvemos a code y veremos un punto amarillo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7eaf141-5a05-4f63-b34b-ded6620f6d78" alt="Cuarto paso">
+</p>
+
+Damos click y después click a details
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e270dec3-585f-4ad5-9263-b6b8511c99ff" alt="Quinto paso">
+</p>
+
+Una vez esperamos a que se terminen todas
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26ddd9d5-6183-435b-926a-ae4e8fa9f989" alt="Sexto paso">
+</p>
+
+Nos aparecerá el link del despliegue en settings-pages
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c11523fd-4fa1-4032-bf6f-b492489791fc" alt="Sexto paso">
+</p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A lo largo del Sprint 1, el equipo de VolunTrack sostuvo una colaboración continua y efectiva. Al tratarse del primer sprint del proyecto, se definieron acuerdos fundamentales respecto a la metodología de trabajo, las herramientas de comunicación y los canales para el seguimiento de tareas. A continuación, se presenta evidencia de la participación de cada integrante del equipo:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f9c030a-50c6-4b12-adf5-aaa1991f3e44" alt="Insights landing page">
+  <img src="https://github.com/user-attachments/assets/973bdd4e-2dbe-4d35-a8fb-bef50cf5f414" alt="Insights landing page">
 </p>
 
-En esta imagen se aprecia la sección "Insights" de Github, donde se puede ver la cantidad de commits realizada por usuarios. Se evidencia que todos participaron en los commits de la landing page.
+En esta imagen se aprecia la sección de “Insights” de Github, donde se puede evidenciar que todos formaron parte de los commits de la landing page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3aa24654-5dfc-4351-8029-15b85023afa1" alt="Commits READ.ME">
+  <img src="https://github.com/user-attachments/assets/65133b54-3b99-4c0b-835e-f8bfe9af5a7a" alt="Commits READ.ME">
 </p>
 
-Por otro lado, en esta imagen se ve que todos participaron también en los commits del readme
+Por otro lado, aquí se aprecia los commits realizados en el repositorio de la landing page
 
 
 
